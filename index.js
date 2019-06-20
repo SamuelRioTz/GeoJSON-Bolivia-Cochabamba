@@ -20,7 +20,7 @@ osmToGeojson({
         let out_file = `### Completed
 | id | name | ref | from | to |
 | -- | ---- | --- | ---- | -- |`
-        data.log.completed.forEach(element => {
+        data.log.forEach(element => {
             out_file += `\n${element.id} | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
         });
         // console.log(out_file)

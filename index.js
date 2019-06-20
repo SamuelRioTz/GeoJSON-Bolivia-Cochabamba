@@ -18,11 +18,11 @@ osmToGeojson({
 })
     .then(data => {
         let out_file = `### Cochabamba
-| State | Id | Name | Ref | From | To |
-| ----- | -- | ---- | --- | ---- | -- |`
+| Id | Name | Ref | From | To | State |
+| -- | ---- | --- | ---- | -- | ----- |`
         data.log.forEach(element => {
-            let error_log = element.error_log ? element.error_log.extractor_error ? `[<font color='red'>${element.error_log.extractor_error}</font>](${element.error_log.uri})` : element.error_log : "✅"
-            out_file += `\n${error_log} | [${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
+            let error_log = element.error_log ? element.error_log.extractor_error ? `[${element.error_log.extractor_error}](${element.error_log.uri})` : element.error_log : "✅"
+            out_file += `\n[${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${element.name} | ${element.ref} | ${element.from} | ${element.to} | ${error_log}`
         });
         // console.log(out_file)
         fs.writeFileSync("README.md", out_file)

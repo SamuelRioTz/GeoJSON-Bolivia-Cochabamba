@@ -1,5 +1,5 @@
 const osmToGeojson = require('osm-public-transport-export')
-
+const fs = require('fs')
 osmToGeojson({
     bounds: {
         south: -17.57727,
@@ -17,6 +17,13 @@ osmToGeojson({
     stopNameFallback: 'innominada',
 })
     .then(data => {
-        console.log("done")
+        let out_file = `### Completed
+| id | name | ref | from | to |
+| -- | ---- | --- | ---- | -- |`
+        data.log.completed.forEach(element => {
+            out_file += `\n${element.id} | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
+        });
+        // console.log(out_file)
+        fs.writeFileSync("README.md", out_file)
     })
     .catch(error => console.error(error))

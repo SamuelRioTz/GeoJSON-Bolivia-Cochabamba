@@ -28,7 +28,7 @@ osmToGeojson({
         });
         // console.log(out_file)
         out_file = `### Count
-**Total**: ${data.log.length} | **Correct**: ${data.log.length - route_with_error} | **With error**: ${route_with_error}
+**Total**: ${data.log.length}  **Correct**: ${data.log.length - route_with_error}  **With error**: ${route_with_error}
 
 ${out_file}`
         fs.writeFileSync("README.md", out_file)

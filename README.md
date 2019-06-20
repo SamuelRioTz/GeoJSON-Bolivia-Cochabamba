@@ -1,5 +1,5 @@
 ### Count
-**Total**: 182 | **Correct**: 102 | **With error**: 80
+**Total**: 182  **Correct**: 102  **With error**: 80
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |

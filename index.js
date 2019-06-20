@@ -21,7 +21,7 @@ osmToGeojson({
 | State | Id | Name | Ref | From | To |
 | ----- | -- | ---- | --- | ---- | -- |`
         data.log.forEach(element => {
-            let error_log = element.error_log ? element.error_log.extractor_error ? `[⁉️](${element.error_log.uri})` : element.error_log : "✅"
+            let error_log = element.error_log ? element.error_log.extractor_error ? `[${element.error_log.extractor_error}](${element.error_log.uri})` : element.error_log : "✅"
             out_file += `\n${error_log} | [${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
         });
         // console.log(out_file)

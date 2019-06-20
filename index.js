@@ -21,8 +21,7 @@ osmToGeojson({
 | State | Id | Name | Ref | From | To |
 | ----- | -- | ---- | --- | ---- | -- |`
         data.log.forEach(element => {
-            out_file +=
-                `\n${element.error_log ? "⁉️" : "✅"} | <a href="https://www.openstreetmap.org/relation/${element.id}" target="_blank">${element.id}</a> | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
+            out_file += `\n${element.error_log ? "⁉️" : "✅"} | [${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
         });
         // console.log(out_file)
         fs.writeFileSync("README.md", out_file)

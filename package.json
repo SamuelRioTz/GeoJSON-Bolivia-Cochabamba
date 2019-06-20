@@ -1,0 +1,22 @@
+{
+  "name": "geojson-bolivia-cochabamba",
+  "version": "1.0.0",
+  "description": "GoeJSON from cochabamba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelRioTz/GeoJSON-Bolivia-Cochabamba.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "author": "Samuel Rioja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelRioTz/GeoJSON-Bolivia-Cochabamba/issues"
+  },
+  "homepage": "https://github.com/SamuelRioTz/GeoJSON-Bolivia-Cochabamba#readme"
+}

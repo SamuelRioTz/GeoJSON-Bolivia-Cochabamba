@@ -18,10 +18,10 @@ osmToGeojson({
 })
     .then(data => {
         let out_file = `### Completed
-| id | name | ref | from | to |
-| -- | ---- | --- | ---- | -- |`
+| State | Id | Name | Ref | From | To |
+| ----- | -- | ---- | --- | ---- | -- |`
         data.log.forEach(element => {
-            out_file += `\n${element.id} | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
+            out_file += `\n${element.error_log ? "⁉️" : "✅"} | ${element.id} | ${element.name} | ${element.ref} | ${element.from} | ${element.to}`
         });
         // console.log(out_file)
         fs.writeFileSync("README.md", out_file)

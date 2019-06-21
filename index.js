@@ -22,9 +22,10 @@ osmToGeojson({
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |`
         data.log.forEach(element => {
-            if (element.error_log) route_with_error++
-            let error_log = element.error_log ? element.error_log.extractor_error ? `[${element.error_log.extractor_error}](${element.error_log.uri})` : element.error_log : "✅"
-            out_file += `\n[${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${element.name} | ${element.ref} | ${element.from} | ${element.to} | ${error_log}`
+            let tags=element.tags
+            if (element.error) route_with_error++
+            let state = element.error ? element.error.extractor_error ? `[${element.error.extractor_error}](${element.error.uri})` : element.error : "✅"
+            out_file += `\n[${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${tags.name} | ${tags.ref} | ${tags.from} | ${tags.to} | ${state}`
         });
         // console.log(out_file)
         out_file = `### Count

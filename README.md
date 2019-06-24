@@ -1,5 +1,5 @@
 ### Count
-**Total**: 180  **Correct**: 110  **With error**: 70
+**Total**: 180  **Correct**: 111  **With error**: 69
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -16,7 +16,7 @@
 [4443073](https://www.openstreetmap.org/relation/4443073) | Bus D: Linde → Alejo Calatayud | D | Linde | Alejo Calatayud | [not mergeable](https://overpass-turbo.eu/?Q=//not%20mergeable%0A%0Arel(4443073);out%20geom;%0Away(319647246);out%20geom;way(361946674);out%20geom;%0Away(314152380);out%20geom;way(222015393);out%20geom;%0Away(319647238);out%20geom;way(320330723);out%20geom;&R)
 [4443072](https://www.openstreetmap.org/relation/4443072) | Bus D: Alejo Calatayud → Linde | D | Alejo Calatayud | Linde | ✅
 [4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Villa Jarkas → Cuatro Esquinas | E | Villa Jarkas | Cuatro Esquinas | ✅
-[4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Cuatro Esquinas → Villa Jarkas | E | Cuatro Esquinas | Villa Jarkas | [not mergeable](https://overpass-turbo.eu/?Q=//not%20mergeable%0A%0Arel(4443362);out%20geom;%0Away(319660341);out%20geom;way(319660335);out%20geom;%0Away(426506241);out%20geom;way(135681505);out%20geom;&R)
+[4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Cuatro Esquinas → Villa Jarkas | E | Cuatro Esquinas | Villa Jarkas | ✅
 [5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Asunción Llallagua → San Antonio | G | Asunción Llallagua | San Antonio | ✅
 [5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: San Antonio → Asunción Llallagua | G | San Antonio | Asunción Llallagua | ✅
 [5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Salinas → Molle Molle → Chacacollo | H | Salinas | Chacacollo | [not mergeable](https://overpass-turbo.eu/?Q=//not%20mergeable%0A%0Arel(5457001);out%20geom;%0Away(654603215);out%20geom;way(654603215);out%20geom;%0Away(550175874);out%20geom;way(675345635);out%20geom;%0Away(368000100);out%20geom;way(655708947);out%20geom;%0Away(50712015);out%20geom;way(656372206);out%20geom;%0Away(50846737);out%20geom;way(548473898);out%20geom;%0Away(168240285);out%20geom;way(548473894);out%20geom;%0Away(230640721);out%20geom;way(467394211);out%20geom;%0Away(366967662);out%20geom;way(687288622);out%20geom;%0Away(149742432);out%20geom;way(316898077);out%20geom;%0Away(148658021);out%20geom;way(669455011);out%20geom;&R)
@@ -52,7 +52,7 @@
 [9436054](https://www.openstreetmap.org/relation/9436054) | Trufi 112: C. Hugo Almaraz → C. Volcán Tolima | Trufi 112 | C. Hugo Almaraz | C. Volcán Tolima | ✅
 [9426749](https://www.openstreetmap.org/relation/9426749) | Trufi 114: Av. Uncia → C. Waldo Ballivián | Trufi 114 | Av. Uncia | C. Waldo Ballivián | ✅
 [9380272](https://www.openstreetmap.org/relation/9380272) | Trufi 116: C. Logustina → Alto Buena Vista | Trufi 116 | C. Logustina | Alto Buena Vista | ✅
-[9582565](https://www.openstreetmap.org/relation/9582565) | Trufi 125: Buena Vista → C. M. R. Saravia de Lanza | Trufi 125 | Buena Vista | C. M. R. Saravia de Lanza | [duplicated](https://overpass-turbo.eu/?Q=//duplicated%0Arel(9582565);out%20geom;%0Away(657444361);out%20geom;&R)
+[9582565](https://www.openstreetmap.org/relation/9582565) | Trufi 125: Buena Vista → C. M. R. Saravia de Lanza | Trufi 125 | Buena Vista | C. M. R. Saravia de Lanza | [duplicated](https://overpass-turbo.eu/?Q=//duplicated%0Arel(9582565);out%20geom;%0Away(136140968);out%20geom;&R)
 [9582574](https://www.openstreetmap.org/relation/9582574) | Trufi 148: Calicanto → C. Esteban Arce | Trufi 148 | Calicanto | C. Esteban Arce | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582574);out%20geom;&R)
 [9582576](https://www.openstreetmap.org/relation/9582576) | Trufi 148: C.Esteban → Arce Calicanto | Trufi 148 | C.Esteban | Arce Calicanto | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582576);out%20geom;&R)
 [9430327](https://www.openstreetmap.org/relation/9430327) | Trufi 311: Pampita Mejillones → C. Arawaqui | Trufi 311 | Pampita Mejillones | C. Arawaqui | ✅

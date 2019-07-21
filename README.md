@@ -1,5 +1,5 @@
 ### Count
-**Total**: 184  **Correct**: 92  **With error**: 92
+**Total**: 184  **Correct**: 93  **With error**: 91
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -110,7 +110,7 @@
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | ✅
 [9219432](https://www.openstreetmap.org/relation/9219432) | Trufi 107: Maica Quenamari → C. Rafael Bustillo-Norte | 107 | Maica Quenamari | C. Rafael Bustillo-Norte | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9219432);out%20geom;%0Away(416838722);out%20geom;out%20geom;%0Away(161835065);out%20geom;&R)
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 :C. San Luis → Av. Benjo Cruz | 108 | C. San Luis | Av. Benjo Cruz | ✅
-[9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Av. Benjo Cruz → C. San Luis | 108 | Av. Benjo Cruz | C. San Luis | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9144377);out%20geom;%0Away(659216483);out%20geom;out%20geom;%0Away(206038877);out%20geom;&R)
+[9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Av. Benjo Cruz → C. San Luis | 108 | Av. Benjo Cruz | C. San Luis | ✅
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: C. Felix Reyes Ortiz → C. Papayo | 109 | C. Felix Reyes Ortiz | C. Papayo | ✅
 [9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: C. Papayo → C. Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | ✅
 [9420548](https://www.openstreetmap.org/relation/9420548) | Trufi 112: C. Volcán Tolima → C. Hugo Almaraz | 112 | C. Volcán Tolima | C. Hugo Almaraz | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9420548);out%20geom;%0Away(316898058);out%20geom;out%20geom;%0Away(324434824);out%20geom;&R)

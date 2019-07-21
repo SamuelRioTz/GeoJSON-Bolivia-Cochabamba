@@ -1,5 +1,5 @@
 ### Count
-**Total**: 184  **Correct**: 96  **With error**: 88
+**Total**: 184  **Correct**: 110  **With error**: 74
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -17,8 +17,8 @@
 [4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Cuatro Esquinas → Villa Jarkas | E | Cuatro Esquinas | Villa Jarkas | ✅
 [5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Asunción Llallagua → San Antonio | G | Asunción Llallagua | San Antonio | ✅
 [5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: San Antonio → Asunción Llallagua | G | San Antonio | Asunción Llallagua | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(5387555);out%20geom;%0Away(673329092);out%20geom;out%20geom;%0Away(361946661);out%20geom;&R)
-[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chacacollo → Molle Molle → Salinas | H | Chacacollo | Salinas | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(5457000);out%20geom;%0Away(484303335);out%20geom;out%20geom;%0Away(655708948);out%20geom;&R)
-[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Salinas → Molle Molle → Chacacollo | H | Salinas | Chacacollo | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(5457001);out%20geom;%0Away(191624962);out%20geom;out%20geom;%0Away(654603215);out%20geom;&R)
+[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chacacollo → Salinas | H | Chacacollo | Salinas | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(5457000);out%20geom;%0Away(484303335);out%20geom;out%20geom;%0Away(655708948);out%20geom;&R)
+[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Salinas → Chacacollo | H | Salinas | Chacacollo | ✅
 [5484212](https://www.openstreetmap.org/relation/5484212) | MicroBus I: San Antonio → Colquiri Sud | I | San Antonio | Colquiri Sud | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(5484212);out%20geom;%0Away(220432313);out%20geom;out%20geom;%0Away(222015402);out%20geom;&R)
 [9085564](https://www.openstreetmap.org/relation/9085564) | Micro J: C. Gran Chaco → C. Chiquitano | J | C. Gran Chaco | C. Chiquitano | ✅
 [9101527](https://www.openstreetmap.org/relation/9101527) | Micro J: C. Chiquitano → C. Gran Chaco | J | C. Chiquitano | C. Gran Chaco | ✅
@@ -157,34 +157,34 @@
 [4420888](https://www.openstreetmap.org/relation/4420888) | MiniBus 203: Las Cuadras → Plaza Bolívar | 203 | Las Cuadras | Plaza Bolívar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4420888);out%20geom;%0Away(442138144);out%20geom;out%20geom;%0Away(604340644);out%20geom;&R)
 [4220716](https://www.openstreetmap.org/relation/4220716) | MiniBus 205: Las Cuadras → Plaza Bolívar | 205 | Las Cuadras | Plaza Bolívar | ✅
 [4269607](https://www.openstreetmap.org/relation/4269607) | MiniBus 207: Plaza Bolívar → Temporal | 207 | Plaza Bolívar | Temporal | ✅
-[3388175](https://www.openstreetmap.org/relation/3388175) | MiniBus 209: Parque de la Autonomía → Plaza Bolívar | 209 | Parque de la Autonomía | Plaza Bolívar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(3388175);out%20geom;%0Away(313514636);out%20geom;out%20geom;%0Away(314354030);out%20geom;&R)
-[3392826](https://www.openstreetmap.org/relation/3392826) | MiniBus 209: Plaza Bolívar → Parque de la Autonomía | 209 | Plaza Bolívar | Parque de la Autonomía | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(3392826);out%20geom;%0Away(428127416);out%20geom;out%20geom;%0Away(369146703);out%20geom;&R)
-[9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Lava Lava Baja → Av. Beijing | 212 | Lava Lava Baja | Av. Beijing | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9421022);out%20geom;%0Away(678527608);out%20geom;out%20geom;%0Away(548044383);out%20geom;&R)
+[3388175](https://www.openstreetmap.org/relation/3388175) | MiniBus 209: Parque de la Autonomía → Plaza Bolívar | 209 | Parque de la Autonomía | Plaza Bolívar | ✅
+[3392826](https://www.openstreetmap.org/relation/3392826) | MiniBus 209: Plaza Bolívar → Parque de la Autonomía | 209 | Plaza Bolívar | Parque de la Autonomía | ✅
+[9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Lava Lava Baja → Av. Beijing | 212 | Lava Lava Baja | Av. Beijing | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9421022);out%20geom;%0Away(654569617);out%20geom;out%20geom;%0Away(678527613);out%20geom;&R)
 [4868551](https://www.openstreetmap.org/relation/4868551) | Bus 212: Amancayas → Tránsito | 212 | Amancayas | Tránsito | ✅
-[9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Av. Beijing → Lava Lava Baja | 212 | Av. Beijing | Lava Lava Baja | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9421021);out%20geom;%0Away(654569630);out%20geom;out%20geom;%0Away(595168464);out%20geom;&R)
+[9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Av. Beijing → Lava Lava Baja | 212 | Av. Beijing | Lava Lava Baja | ✅
 [4224343](https://www.openstreetmap.org/relation/4224343) | MiniBus 217: Plaza Bolívar → Pacata Central | 217 | Pacata Central | Plaza Bolívar | ✅
 [4770040](https://www.openstreetmap.org/relation/4770040) | MiniBus 217: Pacata Central → Plaza Bolívar | 217 | Pacata Central | Plaza Bolívar | ✅
-[9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: O → E | 220 | O | E | ✅
-[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: E → O | 220 | E | O | ✅
+[9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: Calle Eric Asplund → Avenida Chapare | 220 | Calle Eric Asplund | Avenida Chapare | ✅
+[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | ✅
 [9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230: Av. Villazón → C. Grover Suarez | 230 | Av. Villazón | C. Grover Suarez | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377784);out%20geom;%0Away(679606651);out%20geom;out%20geom;%0Away(286390320);out%20geom;&R)
 [9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230: Calle Grover Suarez → Avenida Villazón | 230 | Calle Grover Suarez | Av. Villazón | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377783);out%20geom;%0Away(319874078);out%20geom;out%20geom;%0Away(320124243);out%20geom;&R)
 [9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232: Avenida Villazón → Avenida Sajama | 232 | Avenida Villazón | Avenida Sajama | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377626);out%20geom;%0Away(675060420);out%20geom;out%20geom;%0Away(231483297);out%20geom;&R)
 [9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Av. Sajama → Av. Villazón | 232 | Avenida Villazón | Avenida Sajama | ✅
-[9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: S → E | 233 | S | E | ✅
-[9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: E → S | 233 | E | S | ✅
+[9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Maravillas | 233 | Calle Manuel P. Laredo | Calle Maravillas | ✅
+[9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Maravillas → Calle Manuel P. Laredo | 233 | Calle Maravillas | Calle Manuel P. Laredo | ✅
 [6895150](https://www.openstreetmap.org/relation/6895150) | Bus 233: Quintanilla → UMSS | 233 | Quintanilla | UMSS | ✅
-[9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Avenida Chaco → Avenida Villazón | 240 | Avenida Chaco | Avenida Villazón | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377675);out%20geom;%0Away(585501425);out%20geom;out%20geom;%0Away(44107669);out%20geom;&R)
+[9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Avenida Chaco → Avenida Villazón | 240 | Avenida Chaco | Avenida Villazón | ✅
 [9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Villazón → Avenida Chaco | 240 | Avenida Villazón | Avenida Chaco | ✅
-[9377826](https://www.openstreetmap.org/relation/9377826) | MicroBus 250: Av. Blanco Galindo → Av. Mártires de la Democracia | 250 | Av. Blanco Galindo | Av. Mártires de la Democracia | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377826);out%20geom;%0Away(679606651);out%20geom;out%20geom;%0Away(286390320);out%20geom;&R)
-[9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Av. Mártires de la Democracia → Av. Blanco Galindo | 250 | Av. Mártires de la Democracia | Av. Blanco Galindo | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377827);out%20geom;%0Away(678527624);out%20geom;out%20geom;%0Away(704651898);out%20geom;&R)
+[9377826](https://www.openstreetmap.org/relation/9377826) | MicroBus 250: Av. Blanco Galindo → Av. Mártires de la Democracia | 250 | Av. Blanco Galindo | Av. Mártires de la Democracia | ✅
+[9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Av. Mártires de la Democracia → Av. Blanco Galindo | 250 | Av. Mártires de la Democracia | Av. Blanco Galindo | ✅
 [9380023](https://www.openstreetmap.org/relation/9380023) | Trufi 252: Av. Blanco Galindo → C. Litoral | 252 | Av. Blanco Galindo | C. Litoral | ✅
-[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: C. Litoral → Av. Blanco Galindo | 252 | C. Litoral | Av. Blanco Galindo | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9380021);out%20geom;%0Away(675090152);out%20geom;out%20geom;%0Away(320162908);out%20geom;&R)
-[4237142](https://www.openstreetmap.org/relation/4237142) | MiniBus 260: Laguna Alalay → Plaza Bolívar | 260 | Laguna Alalay | Plaza Bolívar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4237142);out%20geom;%0Away(228479621);out%20geom;out%20geom;%0Away(586699509);out%20geom;&R)
-[4205962](https://www.openstreetmap.org/relation/4205962) | MiniBus 260: Plaza Bolívar → Laguna Alalay | 260 | Plaza Bolívar | Laguna Alalay | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4205962);out%20geom;%0Away(677561784);out%20geom;out%20geom;%0Away(168240276);out%20geom;&R)
-[4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Pacata Central → Plaza Bolivar | 270 | Pacata Central | Plaza Bolivar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4223772);out%20geom;%0Away(228479624);out%20geom;out%20geom;%0Away(135321765);out%20geom;&R)
-[4204592](https://www.openstreetmap.org/relation/4204592) | MiniBus 270: Plaza Bolivar → Pacata Central | 270 | Plaza Bolivar | Pacata Central | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4204592);out%20geom;%0Away(244789826);out%20geom;out%20geom;%0Away(313346725);out%20geom;&R)
-[9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Av. Blanco Galindo | 290 | Ciudad de los niños | Av. Blanco Galindo | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9379871);out%20geom;%0Away(418239764);out%20geom;out%20geom;%0Away(655726211);out%20geom;&R)
+[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: C. Litoral → Av. Blanco Galindo | 252 | C. Litoral | Av. Blanco Galindo | ✅
+[4237142](https://www.openstreetmap.org/relation/4237142) | MiniBus 260: Laguna Alalay → Plaza Bolívar | 260 | Laguna Alalay | Plaza Bolívar | ✅
+[4205962](https://www.openstreetmap.org/relation/4205962) | MiniBus 260: Plaza Bolívar → Laguna Alalay | 260 | Plaza Bolívar | Laguna Alalay | ✅
+[4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Pacata Central → Plaza Bolivar | 270 | Pacata Central | Plaza Bolivar | ✅
+[4204592](https://www.openstreetmap.org/relation/4204592) | MiniBus 270: Plaza Bolivar → Pacata Central | 270 | Plaza Bolivar | Pacata Central | ✅
+[9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Av. Blanco Galindo | 290 | Ciudad de los niños | Av. Blanco Galindo | ✅
 [4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Av. Blanco Galindo → Chillimarca | 290 | Plaza Bolívar | Chillimarca | ✅
 [9430329](https://www.openstreetmap.org/relation/9430329) | Trufi 311: C. Arawaqui → Pampita Mejillones | 311 | C. Arawaqui | Pampita Mejillones | ✅
 [9193250](https://www.openstreetmap.org/relation/9193250) | Minibus 1001 : Barrio Universitario Bajo → OTB Ecológica | 1001 | Barrio Universitario Bajo | OTB Ecológica | ✅
-[9193252](https://www.openstreetmap.org/relation/9193252) | MiniBus 1001: OTB Ecológica → Barrio Universitario Bajo | 1001 | OTB Ecológica | Barrio Universitario Bajo | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9193252);out%20geom;%0Away(200433082);out%20geom;out%20geom;%0Away(662558826);out%20geom;&R)
+[9193252](https://www.openstreetmap.org/relation/9193252) | MiniBus 1001: OTB Ecológica → Barrio Universitario Bajo | 1001 | OTB Ecológica | Barrio Universitario Bajo | ✅

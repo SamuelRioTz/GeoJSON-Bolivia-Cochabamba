@@ -1,5 +1,5 @@
 ### Count
-**Total**: 184  **Correct**: 109  **With error**: 75
+**Total**: 184  **Correct**: 115  **With error**: 69
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -146,14 +146,14 @@
 [9436032](https://www.openstreetmap.org/relation/9436032) | MiniBus 160: Av. República → OTB Valle Grande | 160 | Av. República | OTB Valle Grande | ✅
 [9380122](https://www.openstreetmap.org/relation/9380122) | MicroBus 200: C. Litoral → Av. Blanco Galindo | 200 | C. Litoral | Av. Blanco Galindo | ✅
 [9380123](https://www.openstreetmap.org/relation/9380123) | MicroBus 200: Av. Blanco Galindo → C. Litoral | 200 | Av. Blanco Galindo | C. Litoral | ✅
-[4770039](https://www.openstreetmap.org/relation/4770039) | MiniBus 201: C. República de Haití → Plaza Bolivar | 201 | C. República de Haití | Plaza Bolívar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4770039);out%20geom;%0Away(319142641);out%20geom;out%20geom;%0Away(314152387);out%20geom;&R)
+[4770039](https://www.openstreetmap.org/relation/4770039) | MiniBus 201: C. República de Haití → Plaza Bolivar | 201 | C. República de Haití | Plaza Bolívar | ✅
 [4207829](https://www.openstreetmap.org/relation/4207829) | MiniBus 201: Plaza Bolivar → C. República de Haití | 201 | Plaza Bolívar | C. República de Haití | ✅
-[9718222](https://www.openstreetmap.org/relation/9718222) | MiniBus 202: Calle Villamontes → Vinto | 202 | Calle Villamontes | Vinto | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9718222);out%20geom;%0Away(186789078);out%20geom;out%20geom;%0Away(329319900);out%20geom;&R)
+[9718222](https://www.openstreetmap.org/relation/9718222) | MiniBus 202: Calle Villamontes → Vinto | 202 | Calle Villamontes | Vinto | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9718222);out%20geom;%0Away(706484786);out%20geom;out%20geom;%0Away(329319900);out%20geom;&R)
 [9718061](https://www.openstreetmap.org/relation/9718061) | Minibus 202: Avenida Martín Cárdena → Calle Villamontes | 202 | Avenida Martín Cárdena | Calle Villamontes | ✅
 [9718210](https://www.openstreetmap.org/relation/9718210) | Minibus 202: Vinto → Calle Villamontes | 202 | Vinto | Calle Villamontes | ✅
 [9718162](https://www.openstreetmap.org/relation/9718162) | MiniBus 202: Calle Villamontes → Avenida Martín Cárdena | 202 | Calle Villamontes | Avenida Martín Cárdena | ✅
-[4431661](https://www.openstreetmap.org/relation/4431661) | MiniBus 203: Plaza Bolívar → Las Cuadras | 203 | Plaza Bolívar | Las Cuadras | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4431661);out%20geom;%0Away(285600015);out%20geom;out%20geom;%0Away(658243472);out%20geom;&R)
-[4420888](https://www.openstreetmap.org/relation/4420888) | MiniBus 203: Las Cuadras → Plaza Bolívar | 203 | Las Cuadras | Plaza Bolívar | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(4420888);out%20geom;%0Away(442138144);out%20geom;out%20geom;%0Away(604340644);out%20geom;&R)
+[4431661](https://www.openstreetmap.org/relation/4431661) | MiniBus 203 : Plaza Bolívar → Las Cuadras | 203 | Plaza Bolívar | Las Cuadras | ✅
+[4420888](https://www.openstreetmap.org/relation/4420888) | MiniBus 203 : Las Cuadras → Plaza Bolívar | 203 | Las Cuadras | Plaza Bolívar | ✅
 [4220716](https://www.openstreetmap.org/relation/4220716) | MiniBus 205: Las Cuadras → Plaza Bolívar | 205 | Las Cuadras | Plaza Bolívar | ✅
 [4269607](https://www.openstreetmap.org/relation/4269607) | MiniBus 207: Plaza Bolívar → Temporal | 207 | Plaza Bolívar | Temporal | ✅
 [3388175](https://www.openstreetmap.org/relation/3388175) | MiniBus 209: Parque de la Autonomía → Plaza Bolívar | 209 | Parque de la Autonomía | Plaza Bolívar | ✅
@@ -165,9 +165,9 @@
 [4770040](https://www.openstreetmap.org/relation/4770040) | MiniBus 217: Pacata Central → Plaza Bolívar | 217 | Pacata Central | Plaza Bolívar | ✅
 [9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: Calle Eric Asplund → Avenida Chapare | 220 | Calle Eric Asplund | Avenida Chapare | ✅
 [9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | ✅
-[9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230: Calle Grover Suarez → Avenida Villazón | 230 | Calle Grover Suarez | Av. Villazón | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377783);out%20geom;%0Away(319874078);out%20geom;out%20geom;%0Away(320124243);out%20geom;&R)
-[9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230: Av. Villazón → C. Grover Suarez | 230 | Av. Villazón | C. Grover Suarez | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377784);out%20geom;%0Away(679606651);out%20geom;out%20geom;%0Away(286390320);out%20geom;&R)
-[9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232: Avenida Villazón → Avenida Sajama | 232 | Avenida Villazón | Avenida Sajama | [streets no sequential](https://overpass-turbo.eu/?Q=//streets%20no%20sequential%0Arel(9377626);out%20geom;%0Away(675060420);out%20geom;out%20geom;%0Away(231483297);out%20geom;&R)
+[9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230 : Calle Grover Suarez → Avenida Villazón | 230 | Calle Grover Suarez | Av. Villazón | ✅
+[9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230 : Av. Villazón → C. Grover Suarez | 230 | Av. Villazón | C. Grover Suarez | ✅
+[9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232 : Avenida Villazón → Avenida Sajama | 232 | Avenida Villazón | Avenida Sajama | ✅
 [9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Av. Sajama → Av. Villazón | 232 | Avenida Villazón | Avenida Sajama | ✅
 [9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Maravillas | 233 | Calle Manuel P. Laredo | Calle Maravillas | ✅
 [9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Maravillas → Calle Manuel P. Laredo | 233 | Calle Maravillas | Calle Manuel P. Laredo | ✅

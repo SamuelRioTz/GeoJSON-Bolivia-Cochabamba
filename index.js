@@ -1,13 +1,9 @@
 const osmToGeojson = require('osm-public-transport-export')
 const fs = require('fs')
+const cities = require("./cities")
 let osmAllDowloader = (name, bounds) =>
     osmToGeojson({
-        bounds: {
-            south: -17.57727,
-            west: -66.376555,
-            north: -17.276198,
-            east: -65.96397,
-        },
+        bounds: bounds,
         // outputDir: __dirname + `/${outputDir}`,
         mapProperties: (tags) => ({
             ...tags,
@@ -23,14 +19,16 @@ let osmAllDowloader = (name, bounds) =>
             data.log.forEach(element => {
                 if (element.error) route_with_error++
             });
-            out_file += `### ${name} =>   **Total**: ${data.log.length}  **Correct**: ${data.log.length - route_with_error}  **With error**: ${route_with_error}`
-
-            // fs.writeFileSync(`${name}.md`, out_file)
+            out_file = `### ${name} =>   **Total**: ${data.log.length}  **Correct**: ${data.log.length - route_with_error}  **With error**: ${route_with_error}`
             return out_file
 
         })
         .catch(error => console.error(error))
-
-osmAllDowloader("Cochabamba", 'cochabamba').then(response => {
-    // fs.writeFileSync(response)
-})
+async function main() {
+    let out_log = ""
+    for (let city of cities) {
+        out_log += await osmAllDowloader(city.name, city.bounds)
+    }
+    console.log(out_log)
+}
+main().catch(console.log)

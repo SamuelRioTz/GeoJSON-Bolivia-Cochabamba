@@ -2,117 +2,117 @@
     {
         "name": "Dar es Salam",
         "bounds": {
-            "south": -6.578000,
+            "north": -6.578000,
             "west": 39.010045,
-            "north": -6.957572,
+            "south": -6.957572,
             "east": 39.516230
         }
     },
     {
         "name": "Nairobi",
         "bounds": {
-            "south": -1.135605,
+            "north": -1.135605,
             "west": 36.624552,
-            "north": -1.460441,
+            "south": -1.460441,
             "east": 37.067085
         }
     },
     {
         "name": "Addis Abeba",
         "bounds": {
-            "south": 9.093408,
+            "north": 9.093408,
             "west": 38.645933,
-            "north": 8.836901,
+            "south": 8.836901,
             "east": 38.925095
         }
     },
     {
         "name": "Port Moresby",
         "bounds": {
-            "south": -9.369103,
+            "north": -9.369103,
             "west": 147.128293,
-            "north": -9.501190,
+            "south": -9.501190,
             "east": 147.244362
         }
     },
     {
         "name": "Balikpapan",
         "bounds": {
-            "south": -1.201719,
+            "north": -1.201719,
             "west": 116.806041,
-            "north": -1.279661,
+            "south": -1.279661,
             "east": 116.958537
         }
     },
     {
         "name": "Maseru, Lesotho",
         "bounds": {
-            "south": -29.270199,
+            "north": -29.270199,
             "west": 27.423033,
-            "north": -29.397672,
+            "south": -29.397672,
             "east": 27.608671
         }
     },
     {
         "name": "Antananarivo, Madagaskar",
         "bounds": {
-            "south": -18.740817,
+            "north": -18.740817,
             "west": 47.425320,
-            "north": -19.021780,
+            "south": -19.021780,
             "east": 47.619482
         }
     },
     {
         "name": "Bujumbura, Burundi",
         "bounds": {
-            "south": -3.291326,
+            "north": -3.291326,
             "west": 29.300792,
-            "north": -3.454814,
+            "south": -3.454814,
             "east": 29.412057
         }
     },
     {
         "name": "Kampala, Uganda",
         "bounds": {
-            "south": 0.424617,
+            "north": 0.424617,
             "west": 32.492003,
-            "north": 0.224777,
+            "south": 0.224777,
             "east": 32.688076
         }
     },
     {
         "name": "Kigali, Ruanda",
         "bounds": {
-            "south": -1.884280,
+            "north": -1.884280,
             "west": 30.023177,
-            "north": -2.021376,
+            "south": -2.021376,
             "east": 30.189552
         }
     },
     {
         "name": "Colombo, Sri Lanka",
         "bounds": {
-            "south": 6.984381,
+            "north": 6.984381,
             "west": 79.819984,
-            "north": 6.861842,
+            "south": 6.861842,
             "east": 79.888647
         }
     },
     {
         "name": "Kathmandu, Nepal",
         "bounds": {
-            "south": 27.754245,
+            "north": 27.754245,
             "west": 85.273253,
-            "north": 27.659224,
+            "south": 27.659224,
             "east": 85.382064
         }
     },
     {
         "name": "Dakar, Senegal",
         "bounds": {
-            "south": 14.811999,
+            "north": 14.811999,
             "west": -17.557068,
-            "north": 14.646861,
+            "south": 14.646861,
             "east": -17.393729
         }
     }

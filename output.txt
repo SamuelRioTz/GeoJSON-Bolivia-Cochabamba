@@ -1,0 +1,26 @@
+ Dar es Salam 
+Total: 321	Correct: 64	With error: 257
+ Nairobi 
+Total: 6	Correct: 0	With error: 6
+ Addis Abeba 
+Total: 0	Correct: 0	With error: 0
+ Port Moresby 
+Total: 0	Correct: 0	With error: 0
+ Balikpapan 
+Total: 0	Correct: 0	With error: 0
+ Maseru, Lesotho 
+Total: 0	Correct: 0	With error: 0
+ Antananarivo, Madagaskar 
+Total: 228	Correct: 85	With error: 143
+ Bujumbura, Burundi 
+Total: 1	Correct: 0	With error: 1
+ Kampala, Uganda 
+Total: 11	Correct: 4	With error: 7
+ Kigali, Ruanda 
+Total: 82	Correct: 0	With error: 82
+ Colombo, Sri Lanka 
+Total: 22	Correct: 7	With error: 15
+ Kathmandu, Nepal 
+Total: 61	Correct: 9	With error: 52
+ Dakar, Senegal 
+Total: 20	Correct: 2	With error: 18

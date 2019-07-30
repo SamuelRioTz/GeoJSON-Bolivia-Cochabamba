@@ -19,7 +19,7 @@ let osmAllDowloader = (name, bounds) =>
             data.log.forEach(element => {
                 if (element.error) route_with_error++
             });
-            out_file = `### ${name} =>   **Total**: ${data.log.length}  **Correct**: ${data.log.length - route_with_error}  **With error**: ${route_with_error}`
+            out_file = ` ${name} \nTotal: ${data.log.length}\tCorrect: ${data.log.length - route_with_error}\tWith error: ${route_with_error}\n`
             return out_file
 
         })
@@ -27,8 +27,10 @@ let osmAllDowloader = (name, bounds) =>
 async function main() {
     let out_log = ""
     for (let city of cities) {
+        console.time(city.name)
         out_log += await osmAllDowloader(city.name, city.bounds)
+        console.timeEnd(city.name)
     }
-    console.log(out_log)
+    fs.writeFileSync("output.txt", out_log)
 }
 main().catch(console.log)

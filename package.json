@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/SamuelRioTz/GeoJSON-Bolivia-Cochabamba#readme",
   "dependencies": {
-    "osm-public-transport-export": "./../osm-public-transport-export/"
+    "osm-public-transport-export": "git://github.com/trufi-association/osm-public-transport-export.git"
   }
 }

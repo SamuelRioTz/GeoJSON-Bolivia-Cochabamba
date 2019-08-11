@@ -1,5 +1,5 @@
 ### Count
-**Total**: 184  **Correct**: 117  **With error**: 67
+**Total**: 184  **Correct**: 116  **With error**: 68
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -113,7 +113,7 @@
 [9392697](https://www.openstreetmap.org/relation/9392697) | Trufi 113: Calicanto → Av. Ecológica | 113 | Calicanto | Av. Ecológica | ✅
 [9392695](https://www.openstreetmap.org/relation/9392695) | Trufi 113: Av. Ecológica → Calicanto | 113 | Av. Ecológica | Calicanto | ✅
 [9426749](https://www.openstreetmap.org/relation/9426749) | Trufi 114: Avenida Uncía → Calle Waldo Ballivián | 114 | Avenida Uncía | Calle Waldo Ballivián | ✅
-[9426751](https://www.openstreetmap.org/relation/9426751) | Trufi 114: C. Waldo Ballivián → Av. Uncia | 114 | C. Waldo Ballivián | Av. Uncia | ✅
+[9426751](https://www.openstreetmap.org/relation/9426751) | Trufi 114: C. Waldo Ballivián → Av. Uncia | 114 | C. Waldo Ballivián | Av. Uncia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9426751);out%20geom;%0Away(314053547);out%20geom;out%20geom;%0Away(678958497);out%20geom;&R)
 [9435998](https://www.openstreetmap.org/relation/9435998) | Trufi 115: Urbanización Delicias → Central Agraria Taquiña | 115 | Urbanización Delicias | Central Agraria Taquiña | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9435998);out%20geom;%0Away(698352641);out%20geom;out%20geom;%0Away(698352642);out%20geom;&R)
 [9436000](https://www.openstreetmap.org/relation/9436000) | Trufi 115: Central Agraria Taquiña → Urbanización Delicias | 115 | Central Agraria Taquiña | Urbanización Delicias | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9436000);out%20geom;%0Away(679617588);out%20geom;out%20geom;%0Away(515326357);out%20geom;&R)
 [9380270](https://www.openstreetmap.org/relation/9380270) | Trufi 116: Alto Buena Vista → Calle Logustina | 116 | Alto Buena Vista | Calle Logustina | ✅

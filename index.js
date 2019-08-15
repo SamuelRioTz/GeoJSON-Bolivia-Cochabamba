@@ -2,10 +2,10 @@ const osmToGeojson = require('osm-public-transport-export')
 const fs = require('fs')
 osmToGeojson({
     bounds: {
-        south: -17.57727,
-        west: -66.376555,
-        north: -17.276198,
-        east: -65.96397,
+        south: -16.560835,
+        west: -68.244957,
+        north: -16.464042,
+        east: -68.067796,
     },
     outputDir: __dirname + '/out',
     mapProperties: (tags) => ({

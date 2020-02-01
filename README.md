@@ -1,5 +1,5 @@
 ### Count
-**Total**: 216  **Correct**: 100  **With error**: 116
+**Total**: 231  **Correct**: 113  **With error**: 118
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -20,7 +20,7 @@
 [10406355](https://www.openstreetmap.org/relation/10406355) | O-Se | undefined | Avenida Martín Cárdena | Calle Villamontes | ✅
 [10406487](https://www.openstreetmap.org/relation/10406487) | Se-O | undefined | Calle Camiri | Avenida Martín Cárdena | ✅
 [10407407](https://www.openstreetmap.org/relation/10407407) | O-Se | undefined | Avenida Martín Cárdena | Calle Litoral | ✅
-[10407466](https://www.openstreetmap.org/relation/10407466) | E-O | undefined | Calle Litoral | Avenida Martín Cárdena | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10407466);out%20geom;%0Away(682302105);out%20geom;out%20geom;%0Away(682302104);out%20geom;&R)
+[10407466](https://www.openstreetmap.org/relation/10407466) | E-O | undefined | Calle Litoral | Avenida Martín Cárdena | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10407466);out%20geom;%0Away(766034115);out%20geom;out%20geom;%0Away(682302104);out%20geom;&R)
 [10411209](https://www.openstreetmap.org/relation/10411209) | O-E | undefined | C. La Cascada | Av. Beijing | ✅
 [10411245](https://www.openstreetmap.org/relation/10411245) | E-O | undefined | Av. Beijing | C. La Cascada | ✅
 [10411266](https://www.openstreetmap.org/relation/10411266) | Se-O | undefined | C. Achachairú | Av. Franz Tamayo | ✅
@@ -33,6 +33,20 @@
 [10414549](https://www.openstreetmap.org/relation/10414549) | MiniBus 207 E-O | undefined | Av. Martin Cárdena | C. República de Haití | ✅
 [10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: | undefined | C. República de Haití | Av. Franz Tamayo | ✅
 [10443585](https://www.openstreetmap.org/relation/10443585) | Calle Gran Chaco --> Unknown street | undefined | Calle Gran Chaco | Unknown street | ✅
+[10620338](https://www.openstreetmap.org/relation/10620338) | Trufi 111 | undefined | Calle Combate del Desaguadero | Av. Chacancalle | ✅
+[10620494](https://www.openstreetmap.org/relation/10620494) | trufi 111 S-No 2 Av. Rio Parapeti → Av. Chacancalle | undefined | Av. Rio Parapeti | Av. Chacancalle | ✅
+[10623351](https://www.openstreetmap.org/relation/10623351) | 111 S-No 4 Villa America→Av. Chacancalle | undefined | Villa America | Av. Chacancalle | ✅
+[10623446](https://www.openstreetmap.org/relation/10623446) | 43 E-S: Calle Juana Azurduy de Padilla→Av. Pampa Aullagas | undefined | Calle Juana Azurduy de Padilla | Av. Pampa Aullagas | ✅
+[10623700](https://www.openstreetmap.org/relation/10623700) | 46 E-S: Calle Nicolas Ortis Pacheco→Pucarita Chica | undefined | Calle Nicolas Ortis Pacheco | Pucarita Chica | ✅
+[10623782](https://www.openstreetmap.org/relation/10623782) | 46 E-Se 2: Calle Nicolas Ortis Pacheco→Calle Corocoro | undefined | Calle Nicolas Ortis Pacheco | Calle Corocoro | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10623782);out%20geom;%0Away(368780897);out%20geom;out%20geom;%0Away(766529728);out%20geom;&R)
+[10626424](https://www.openstreetmap.org/relation/10626424) | 46 So-E: Pucarita Chica→Calle Nicolas Ortiz Pacheco | undefined | Pucarita Chica | Calle Nicolas Ortiz Pacheco | ✅
+[10626619](https://www.openstreetmap.org/relation/10626619) | 46 So-E 2: Calle Cocoroco→Calle Nicolas Ortiz Pacheco | undefined | Calle Cocoroco | Calle Nicolas Ortiz Pacheco | ✅
+[10626711](https://www.openstreetmap.org/relation/10626711) | 51 No-S: Prolongacion d`Orbigny→Villa America | undefined | Prolongacion d`Orbigny | Villa America | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10626711);out%20geom;%0Away(604719219);out%20geom;out%20geom;%0Away(233338457);out%20geom;&R)
+[10626821](https://www.openstreetmap.org/relation/10626821) | 51 No-S 2 : Prolongacion d`Orbigny→Av. Marcelo Quiroga Santa Cruz | undefined | Prolongacion d`Orbigny | Av. Marcelo Quiroga Santa Cruz | ✅
+[10628899](https://www.openstreetmap.org/relation/10628899) | 51 No-S 3: Prolongacion d'Orbigny→C. Ríos San Nicolás | undefined | Prolongacion d'Orbigny | C. Ríos San Nicolás | ✅
+[10630690](https://www.openstreetmap.org/relation/10630690) | 51 S-No Villa America→Prolongacion d'Orbigny | undefined | Villa America | Prolongacion d'Orbigny | ✅
+[10630984](https://www.openstreetmap.org/relation/10630984) | 51 S-No 2: Av. Marcelo Quiroga Santa Cruz→Prolongacion d'Orbigny | undefined | Av. Marcelo Quiroga Santa Cruz | Prolongacion d'Orbigny | ✅
+[10631287](https://www.openstreetmap.org/relation/10631287) | 51 S-No 3: Av. Autonomía→Prolongacion d'Orbigny | undefined | Av. Autonomía | Prolongacion d'Orbigny | ✅
 [4436907](https://www.openstreetmap.org/relation/4436907) | Bus 211R: Plaza Bolivar → Parque Pairumani | 211R | Plaza Bolivar | Parque Pairumani | ✅
 [4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Chaqui Mayu → Sindicato Agrario Taquiña | A | Chaqui Mayu | Sindicato Agrario Taquiña | ✅
 [4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Sindicato Agrario Taquiña → Chaqui Mayu | A | Sindicato Agrario Taquiña | Chaqui Mayu | ✅
@@ -141,6 +155,7 @@
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 :C. San Luis → Av. Benjo Cruz | 108 | C. San Luis | Av. Benjo Cruz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9144378);out%20geom;%0Away(293634894);out%20geom;out%20geom;%0Away(293634900);out%20geom;&R)
 [9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: C. Papayo → C. Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | ✅
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: C. Felix Reyes Ortiz → C. Papayo | 109 | C. Felix Reyes Ortiz | C. Papayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219458);out%20geom;%0Away(665480471);out%20geom;out%20geom;%0Away(321077341);out%20geom;&R)
+[10621633](https://www.openstreetmap.org/relation/10621633) | 111 S-No 3 Sivingani→Av. Chacancalle | 111 | Sivingani | Av. Chacancalle | ✅
 [9420548](https://www.openstreetmap.org/relation/9420548) | Trufi 112: C. Volcán Tolima → C. Hugo Almaraz | 112 | C. Volcán Tolima | C. Hugo Almaraz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9420548);out%20geom;%0Away(732789368);out%20geom;out%20geom;%0Away(316898058);out%20geom;&R)
 [9392695](https://www.openstreetmap.org/relation/9392695) | Trufi 113: Av. Ecológica → Calicanto | 113 | Av. Ecológica | Calicanto | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9392695);out%20geom;%0Away(678958508);out%20geom;out%20geom;%0Away(723717039);out%20geom;&R)
 [9392697](https://www.openstreetmap.org/relation/9392697) | Trufi 113: Calicanto → Av. Ecológica | 113 | Calicanto | Av. Ecológica | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9392697);out%20geom;%0Away(675563802);out%20geom;out%20geom;%0Away(723717039);out%20geom;&R)

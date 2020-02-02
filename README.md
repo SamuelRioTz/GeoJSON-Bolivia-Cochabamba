@@ -1,13 +1,9 @@
 ### Count
-**Total**: 231  **Correct**: 113  **With error**: 118
+**Total**: 231  **Correct**: 116  **With error**: 115
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[10176999](https://www.openstreetmap.org/relation/10176999) | Calle Gran Chaco -> Near bridge Puente Quinamari | undefined | Calle Gran Chaco | Near bridge Puente Quinamari | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10176999);out%20geom;%0Away(64454473);out%20geom;out%20geom;%0Away(755558487);out%20geom;&R)
-[10177244](https://www.openstreetmap.org/relation/10177244) | Near bridge Puente Quinamari -> Calle Gran Chaco | undefined | Near bridge Puente Quinamari | Calle Gran Chaco | ✅
-[10377939](https://www.openstreetmap.org/relation/10377939) | Taxi de ruta fija | undefined | Calle Alipio Valencia Vega | 14 de Abril | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10377939);out%20geom;%0Away(314152425);out%20geom;out%20geom;%0Away(314152425);out%20geom;&R)
-[10380049](https://www.openstreetmap.org/relation/10380049) | Taxi de ruta fija | undefined | Av. 2 de Agosto | El Salvador | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10380049);out%20geom;%0Away(358548064);out%20geom;out%20geom;%0Away(358548064);out%20geom;&R)
 [10387641](https://www.openstreetmap.org/relation/10387641) | taxi Trufi 110 | undefined | C. Wanka | C. Francia | ✅
 [10392482](https://www.openstreetmap.org/relation/10392482) | No-Se Molino | undefined | Av. Centenario | C. Montevideo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10392482);out%20geom;%0Away(754148146);out%20geom;out%20geom;%0Away(754148145);out%20geom;&R)
 [10392586](https://www.openstreetmap.org/relation/10392586) | S-N Salvador | undefined | El Salvador | Av. 2 de Agosto | ✅
@@ -32,7 +28,6 @@
 [10414461](https://www.openstreetmap.org/relation/10414461) | O-E | undefined | C. Fructouso Mercado | Av. Gualberto Villaroel | ✅
 [10414549](https://www.openstreetmap.org/relation/10414549) | MiniBus 207 E-O | undefined | Av. Martin Cárdena | C. República de Haití | ✅
 [10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: | undefined | C. República de Haití | Av. Franz Tamayo | ✅
-[10443585](https://www.openstreetmap.org/relation/10443585) | Calle Gran Chaco --> Unknown street | undefined | Calle Gran Chaco | Unknown street | ✅
 [10620338](https://www.openstreetmap.org/relation/10620338) | Trufi 111 | undefined | Calle Combate del Desaguadero | Av. Chacancalle | ✅
 [10620494](https://www.openstreetmap.org/relation/10620494) | trufi 111 S-No 2 Av. Rio Parapeti → Av. Chacancalle | undefined | Av. Rio Parapeti | Av. Chacancalle | ✅
 [10623351](https://www.openstreetmap.org/relation/10623351) | 111 S-No 4 Villa America→Av. Chacancalle | undefined | Villa America | Av. Chacancalle | ✅
@@ -87,6 +82,9 @@
 [9643488](https://www.openstreetmap.org/relation/9643488) | Minibus 40: Ciudad de los niños → Buena vista | Minibus 40 | Ciudad de los niños | Buena vista | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9643488);out%20geom;&R)
 [9643490](https://www.openstreetmap.org/relation/9643490) | Minibus 40: Buena vista → Ciudad de los niños | Minibus 40 | Buena vista | Ciudad de los niños | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9643490);out%20geom;&R)
 [9615977](https://www.openstreetmap.org/relation/9615977) | MicroBus N: Calle Severo Fernandez A. → Avenida Eliodoro Villazón | N | Calle Severo Fernandez A. | Avenida Eliodoro Villazón | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9615977);out%20geom;&R)
+[10176999](https://www.openstreetmap.org/relation/10176999) | Micro P: Calle Gran Chaco -> Puente Quinamari | P | Calle Gran Chaco | Puente Quinamari | ✅
+[10177244](https://www.openstreetmap.org/relation/10177244) | Micro P: Puente Quinamari -> Calle Gran Chaco | P | Puente Quinamari | Calle Gran Chaco | ✅
+[10443585](https://www.openstreetmap.org/relation/10443585) | Micro P: Calle Gran Chaco -> Maica | P | Calle Gran Chaco | Maica | ✅
 [5457263](https://www.openstreetmap.org/relation/5457263) | MicroBus Q: Calvario → Circuito Bolivia | Q | Calvario | Circuito Bolivia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5457263);out%20geom;%0Away(755797578);out%20geom;out%20geom;%0Away(604420276);out%20geom;&R)
 [9645302](https://www.openstreetmap.org/relation/9645302) | MicroBus Q: Circuito Bolivia → Calvario | Q | Circuito Bolivia | Calvario | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9645302);out%20geom;%0Away(755797578);out%20geom;out%20geom;%0Away(48610543);out%20geom;&R)
 [9119233](https://www.openstreetmap.org/relation/9119233) | MicroBus R: Entre Rios → Av. Arquímedes | R | Entre Rios | Av. Arquímedes | ✅
@@ -155,6 +153,8 @@
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 :C. San Luis → Av. Benjo Cruz | 108 | C. San Luis | Av. Benjo Cruz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9144378);out%20geom;%0Away(293634894);out%20geom;out%20geom;%0Away(293634900);out%20geom;&R)
 [9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: C. Papayo → C. Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | ✅
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: C. Felix Reyes Ortiz → C. Papayo | 109 | C. Felix Reyes Ortiz | C. Papayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219458);out%20geom;%0Away(665480471);out%20geom;out%20geom;%0Away(321077341);out%20geom;&R)
+[10377939](https://www.openstreetmap.org/relation/10377939) | Trufi 109: Calle Alipio Valencia Vega -> 14 de Abril | 109 | Calle Alipio Valencia Vega | 14 de Abril | ✅
+[10380049](https://www.openstreetmap.org/relation/10380049) | Trufi 110: El Salvador -> Av. 2 de Agosto | 110 | El Salvador | Av. 2 de Agosto | ✅
 [10621633](https://www.openstreetmap.org/relation/10621633) | 111 S-No 3 Sivingani→Av. Chacancalle | 111 | Sivingani | Av. Chacancalle | ✅
 [9420548](https://www.openstreetmap.org/relation/9420548) | Trufi 112: C. Volcán Tolima → C. Hugo Almaraz | 112 | C. Volcán Tolima | C. Hugo Almaraz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9420548);out%20geom;%0Away(732789368);out%20geom;out%20geom;%0Away(316898058);out%20geom;&R)
 [9392695](https://www.openstreetmap.org/relation/9392695) | Trufi 113: Av. Ecológica → Calicanto | 113 | Av. Ecológica | Calicanto | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9392695);out%20geom;%0Away(678958508);out%20geom;out%20geom;%0Away(723717039);out%20geom;&R)

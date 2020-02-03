@@ -1,10 +1,9 @@
 ### Count
-**Total**: 236  **Correct**: 122  **With error**: 114
+**Total**: 237  **Correct**: 123  **With error**: 114
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[10387641](https://www.openstreetmap.org/relation/10387641) | taxi Trufi 110: Calle. Wanka → Calle. Holanda | undefined | Calle. Wanka | Calle. Holanda | ✅
 [10392482](https://www.openstreetmap.org/relation/10392482) | Minibus 110: Avenida Centenario → Calle Noruega | undefined | Avenida Centenario | Calle Noruega | ✅
 [10392586](https://www.openstreetmap.org/relation/10392586) | Minibus 110: Calle San Salvador → Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | undefined | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
 [10395472](https://www.openstreetmap.org/relation/10395472) | Minibus 110: Calle Francia → Calle Wanka | undefined | Calle Francia | Calle Wanka | ✅
@@ -98,6 +97,7 @@
 [10667416](https://www.openstreetmap.org/relation/10667416) | MicroBus X: Avenida d`Orbigny → Mineros San Juan | X | Avenida d`Orbigny | Mineros San Juan | ✅
 [9383241](https://www.openstreetmap.org/relation/9383241) | MicroBus Y: Calle Rev.P. Raymundo Hernan → Cochabamba | Y | Calle Rev.P. Raymundo Hernan | S | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9383241);out%20geom;%0Away(361209959);out%20geom;out%20geom;%0Away(361209990);out%20geom;&R)
 [9413605](https://www.openstreetmap.org/relation/9413605) | MicroBus Y: S → O | Y | S | O | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9413605);out%20geom;%0Away(506132129);out%20geom;out%20geom;%0Away(747139656);out%20geom;&R)
+[10667926](https://www.openstreetmap.org/relation/10667926) | MicroBus Y: Cochabamba → Calle Rev. P. Raymundo Hernan | Y | Cochabamba | Calle Rev. P. Raymundo Hernan | ✅
 [9373042](https://www.openstreetmap.org/relation/9373042) | MiniBus Z: Avenida Ecológica → Calle Miguel Coca | Z | Avenida Ecológica | Calle Miguel Coca | ✅
 [9373675](https://www.openstreetmap.org/relation/9373675) | MiniBus Z: Calle Miguel Coca → Avenida Ecológica | Z | Calle Miguel Coca | Avenida Ecológica | ✅
 [9124161](https://www.openstreetmap.org/relation/9124161) | MiniBus 1: Avenida Humberto Asin Rivero → Avenida Ecológica | 1 | Avenida Humberto Asin | Avenida Ecológica | ✅
@@ -153,6 +153,7 @@
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: C. Felix Reyes Ortiz → C. Papayo | 109 | C. Felix Reyes Ortiz | C. Papayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219458);out%20geom;%0Away(665480471);out%20geom;out%20geom;%0Away(321077341);out%20geom;&R)
 [10377939](https://www.openstreetmap.org/relation/10377939) | Trufi 109: Calle Alipio Valencia Vega -> 14 de Abril | 109 | Calle Alipio Valencia Vega | 14 de Abril | ✅
 [10380049](https://www.openstreetmap.org/relation/10380049) | Trufi 110: Calle San Salvador→ Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | 110 | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
+[10387641](https://www.openstreetmap.org/relation/10387641) | Trufi 110: Calle Wanka → Calle Holanda | 110 | Calle Wanka | Calle Holanda | ✅
 [10396580](https://www.openstreetmap.org/relation/10396580) | Minibus 111: Avenida Chacancalle → Avenida Río Parapeti | 111 | Avenida Chacancalle | Avenida Río Parapeti | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10396580);out%20geom;%0Away(725946161);out%20geom;out%20geom;%0Away(315097362);out%20geom;&R)
 [10397583](https://www.openstreetmap.org/relation/10397583) | Minibus 111: Avenida Chacancalle → Sivingani | 111 | Avenida. Chacancalle | Sivingani | ✅
 [10397705](https://www.openstreetmap.org/relation/10397705) | Trufi 111: Avenida Chacancalle → Villa America | 111 | Avenida Chacancalle | Villa America | ✅

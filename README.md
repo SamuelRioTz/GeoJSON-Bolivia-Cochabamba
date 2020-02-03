@@ -1,17 +1,15 @@
 ### Count
-**Total**: 231  **Correct**: 117  **With error**: 114
+**Total**: 236  **Correct**: 122  **With error**: 114
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[10387641](https://www.openstreetmap.org/relation/10387641) | taxi Trufi 110 | undefined | C. Wanka | C. Francia | ✅
-[10392482](https://www.openstreetmap.org/relation/10392482) | No-Se Molino | undefined | Av. Centenario | C. Montevideo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10392482);out%20geom;%0Away(754148146);out%20geom;out%20geom;%0Away(754148145);out%20geom;&R)
-[10392586](https://www.openstreetmap.org/relation/10392586) | S-N Salvador | undefined | El Salvador | Av. 2 de Agosto | ✅
-[10395472](https://www.openstreetmap.org/relation/10395472) | S-N Ticti-N | undefined | C. Francia | C. Qhochapampa | ✅
-[10395597](https://www.openstreetmap.org/relation/10395597) | Se-No Molino | undefined | C. Noruega | Av. Centenario | ✅
-[10396238](https://www.openstreetmap.org/relation/10396238) | No-S | undefined | Av. J.M Villavicencio | Villa Israel | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10396238);out%20geom;%0Away(725946161);out%20geom;out%20geom;%0Away(315097362);out%20geom;&R)
-[10396580](https://www.openstreetmap.org/relation/10396580) | No-S 2 | undefined | Av. Chacancalle | 21 De Diciembre | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10396580);out%20geom;%0Away(725946161);out%20geom;out%20geom;%0Away(315097362);out%20geom;&R)
-[10397583](https://www.openstreetmap.org/relation/10397583) | No-S 3 | undefined | Av. Chacancalle | Sivingani | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10397583);out%20geom;%0Away(725946161);out%20geom;out%20geom;%0Away(315097362);out%20geom;&R)
+[10387641](https://www.openstreetmap.org/relation/10387641) | taxi Trufi 110: Calle. Wanka → Calle. Holanda | undefined | Calle. Wanka | Calle. Holanda | ✅
+[10392482](https://www.openstreetmap.org/relation/10392482) | Minibus 110: Avenida Centenario → Calle Noruega | undefined | Avenida Centenario | Calle Noruega | ✅
+[10392586](https://www.openstreetmap.org/relation/10392586) | Minibus 110: Calle San Salvador → Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | undefined | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
+[10395472](https://www.openstreetmap.org/relation/10395472) | Minibus 110: Calle Francia → Calle Wanka | undefined | Calle Francia | Calle Wanka | ✅
+[10395597](https://www.openstreetmap.org/relation/10395597) | Minibus110: Calle Noruega → Avenida Circunvalación Bejing | undefined | Calle Noruega | Avenida Circunvalación Bejing | ✅
+[10396238](https://www.openstreetmap.org/relation/10396238) | Minibus 111: Avenida Chacancalle → Avenida Batalla de la Florida | undefined | Avenida Chacancalle | Avenida Batalla de la Florida | ✅
 [10406355](https://www.openstreetmap.org/relation/10406355) | O-Se | undefined | Avenida Martín Cárdena | Calle Villamontes | ✅
 [10406487](https://www.openstreetmap.org/relation/10406487) | Se-O | undefined | Calle Camiri | Avenida Martín Cárdena | ✅
 [10407407](https://www.openstreetmap.org/relation/10407407) | O-Se | undefined | Avenida Martín Cárdena | Calle Litoral | ✅
@@ -22,14 +20,10 @@
 [10413052](https://www.openstreetmap.org/relation/10413052) | undefined | undefined | undefined | C. Achachairú | ✅
 [10413127](https://www.openstreetmap.org/relation/10413127) | O-E | undefined | C. República de Nicaragua | Av. Franz Tamayo | ✅
 [10413255](https://www.openstreetmap.org/relation/10413255) | O-E | undefined | Av. Martin Cárdena | C. Litoral | ✅
-[10413337](https://www.openstreetmap.org/relation/10413337) | E-O | undefined | C. J.Canedo | Av. Franz Tamayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10413337);out%20geom;%0Away(168369201);out%20geom;out%20geom;%0Away(603115723);out%20geom;&R)
 [10413473](https://www.openstreetmap.org/relation/10413473) | O-E | undefined | Av. Martin Cárdena | C. J.Canedo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10413473);out%20geom;%0Away(538451386);out%20geom;out%20geom;%0Away(44330863);out%20geom;&R)
 [10414461](https://www.openstreetmap.org/relation/10414461) | O-E | undefined | C. Fructouso Mercado | Av. Gualberto Villaroel | ✅
 [10414549](https://www.openstreetmap.org/relation/10414549) | MiniBus 207 E-O | undefined | Av. Martin Cárdena | C. República de Haití | ✅
 [10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: | undefined | C. República de Haití | Av. Franz Tamayo | ✅
-[10620338](https://www.openstreetmap.org/relation/10620338) | Trufi 111 | undefined | Calle Combate del Desaguadero | Av. Chacancalle | ✅
-[10620494](https://www.openstreetmap.org/relation/10620494) | trufi 111 S-No 2 Av. Rio Parapeti → Av. Chacancalle | undefined | Av. Rio Parapeti | Av. Chacancalle | ✅
-[10623351](https://www.openstreetmap.org/relation/10623351) | 111 S-No 4 Villa America→Av. Chacancalle | undefined | Villa America | Av. Chacancalle | ✅
 [10623446](https://www.openstreetmap.org/relation/10623446) | 43 E-S: Calle Juana Azurduy de Padilla→Av. Pampa Aullagas | undefined | Calle Juana Azurduy de Padilla | Av. Pampa Aullagas | ✅
 [10623700](https://www.openstreetmap.org/relation/10623700) | 46 E-S: Calle Nicolas Ortis Pacheco→Pucarita Chica | undefined | Calle Nicolas Ortis Pacheco | Pucarita Chica | ✅
 [10623782](https://www.openstreetmap.org/relation/10623782) | 46 E-Se 2: Calle Nicolas Ortis Pacheco→Calle Corocoro | undefined | Calle Nicolas Ortis Pacheco | Calle Corocoro | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10623782);out%20geom;%0Away(368780897);out%20geom;out%20geom;%0Away(766529728);out%20geom;&R)
@@ -92,12 +86,17 @@
 [9436054](https://www.openstreetmap.org/relation/9436054) | Trufi 112: C. Hugo Almaraz → C. Volcán Tolima | Trufi 112 | C. Hugo Almaraz | C. Volcán Tolima | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9436054);out%20geom;%0Away(297833521);out%20geom;out%20geom;%0Away(679622352);out%20geom;&R)
 [9582574](https://www.openstreetmap.org/relation/9582574) | Trufi 148: Calicanto → C. Esteban Arce | Trufi 148 | Calicanto | C. Esteban Arce | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582574);out%20geom;&R)
 [9582576](https://www.openstreetmap.org/relation/9582576) | Trufi 148: C.Esteban → Arce Calicanto | Trufi 148 | C.Esteban | Arce Calicanto | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582576);out%20geom;&R)
-[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: N → S | V | N | S | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9417509);out%20geom;%0Away(678247184);out%20geom;out%20geom;%0Away(706714337);out%20geom;&R)
-[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: S → No | V | S | No | ✅
+[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9417509);out%20geom;%0Away(136713788);out%20geom;out%20geom;%0Away(678247183);out%20geom;&R)
+[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle San Pablo → Avenida Circunvalación | V | Avenida Circunvalación | Calle San Pablo | ✅
 [5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5386695);out%20geom;%0Away(319142641);out%20geom;out%20geom;%0Away(604340644);out%20geom;&R)
 [5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Plaza Bolívar → Barrio Universitario Bajo | W | Plaza Bolívar | Barrio Universitario Bajo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5386696);out%20geom;%0Away(361919417);out%20geom;out%20geom;%0Away(324138776);out%20geom;&R)
-[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9386225);out%20geom;%0Away(361919421);out%20geom;out%20geom;%0Away(675090140);out%20geom;&R)
-[9383241](https://www.openstreetmap.org/relation/9383241) | MicroBus Y: O → S | Y | O | S | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9383241);out%20geom;%0Away(245601803);out%20geom;out%20geom;%0Away(65596608);out%20geom;&R)
+[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9386225);out%20geom;%0Away(662920112);out%20geom;out%20geom;%0Away(662920109);out%20geom;&R)
+[10666996](https://www.openstreetmap.org/relation/10666996) | Micro W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10666996);out%20geom;%0Away(51708392);out%20geom;out%20geom;%0Away(28734871);out%20geom;&R)
+[10667060](https://www.openstreetmap.org/relation/10667060) | Microbus X: Loma Pampa → Prolongacion d'Orbigny | X | Loma Pampa | Prolongacion d'Orbigny | ✅
+[10667214](https://www.openstreetmap.org/relation/10667214) | Microbus X: Prolongacion d'Orbigny → Loma Pampa | X | Prolongacion d'Orbigny | a | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10667214);out%20geom;%0Away(769396621);out%20geom;out%20geom;%0Away(192752636);out%20geom;&R)
+[10667322](https://www.openstreetmap.org/relation/10667322) | Microbus X: Mineros San Juan → Avenida d`Orbigny | X | Mineros San Juan | a | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10667322);out%20geom;%0Away(319142642);out%20geom;out%20geom;%0Away(313514636);out%20geom;&R)
+[10667416](https://www.openstreetmap.org/relation/10667416) | MicroBus X: Avenida d`Orbigny → Mineros San Juan | X | Avenida d`Orbigny | Mineros San Juan | ✅
+[9383241](https://www.openstreetmap.org/relation/9383241) | MicroBus Y: Calle Rev.P. Raymundo Hernan → Cochabamba | Y | Calle Rev.P. Raymundo Hernan | S | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9383241);out%20geom;%0Away(361209959);out%20geom;out%20geom;%0Away(361209990);out%20geom;&R)
 [9413605](https://www.openstreetmap.org/relation/9413605) | MicroBus Y: S → O | Y | S | O | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9413605);out%20geom;%0Away(506132129);out%20geom;out%20geom;%0Away(747139656);out%20geom;&R)
 [9373042](https://www.openstreetmap.org/relation/9373042) | MiniBus Z: Avenida Ecológica → Calle Miguel Coca | Z | Avenida Ecológica | Calle Miguel Coca | ✅
 [9373675](https://www.openstreetmap.org/relation/9373675) | MiniBus Z: Calle Miguel Coca → Avenida Ecológica | Z | Calle Miguel Coca | Avenida Ecológica | ✅
@@ -153,9 +152,14 @@
 [9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: C. Papayo → C. Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | ✅
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: C. Felix Reyes Ortiz → C. Papayo | 109 | C. Felix Reyes Ortiz | C. Papayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219458);out%20geom;%0Away(665480471);out%20geom;out%20geom;%0Away(321077341);out%20geom;&R)
 [10377939](https://www.openstreetmap.org/relation/10377939) | Trufi 109: Calle Alipio Valencia Vega -> 14 de Abril | 109 | Calle Alipio Valencia Vega | 14 de Abril | ✅
-[10380049](https://www.openstreetmap.org/relation/10380049) | Trufi 110: El Salvador -> Av. 2 de Agosto | 110 | El Salvador | Av. 2 de Agosto | ✅
+[10380049](https://www.openstreetmap.org/relation/10380049) | Trufi 110: Calle San Salvador→ Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | 110 | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
+[10396580](https://www.openstreetmap.org/relation/10396580) | Minibus 111: Avenida Chacancalle → Avenida Río Parapeti | 111 | Avenida Chacancalle | Avenida Río Parapeti | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10396580);out%20geom;%0Away(725946161);out%20geom;out%20geom;%0Away(315097362);out%20geom;&R)
+[10397583](https://www.openstreetmap.org/relation/10397583) | Minibus 111: Avenida Chacancalle → Sivingani | 111 | Avenida. Chacancalle | Sivingani | ✅
 [10397705](https://www.openstreetmap.org/relation/10397705) | Trufi 111: Avenida Chacancalle → Villa America | 111 | Avenida Chacancalle | Villa America | ✅
-[10621633](https://www.openstreetmap.org/relation/10621633) | 111 S-No 3 Sivingani→Av. Chacancalle | 111 | Sivingani | Av. Chacancalle | ✅
+[10620338](https://www.openstreetmap.org/relation/10620338) | Trufi 111: Calle Combate del Desaguadero → Avenida Chacancalle | 111 | Calle Combate del Desaguadero | Avenida Chacancalle | ✅
+[10620494](https://www.openstreetmap.org/relation/10620494) | trufi 111: Avenida. Rio Parapeti → Avenida. Chacancalle | 111 | Avenida. Rio Parapeti | Avenida. Chacancalle | ✅
+[10621633](https://www.openstreetmap.org/relation/10621633) | Trufi 111: Sivingani → Avenida. Chacancalle | 111 | Sivingani | Avenida. Chacancalle | ✅
+[10623351](https://www.openstreetmap.org/relation/10623351) | Trufi 111: Villa America→Avenida. Chacancalle | 111 | Villa America | Avenida. Chacancalle | ✅
 [9420548](https://www.openstreetmap.org/relation/9420548) | Trufi 112: C. Volcán Tolima → C. Hugo Almaraz | 112 | C. Volcán Tolima | C. Hugo Almaraz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9420548);out%20geom;%0Away(732789368);out%20geom;out%20geom;%0Away(316898058);out%20geom;&R)
 [9392695](https://www.openstreetmap.org/relation/9392695) | Trufi 113: Av. Ecológica → Calicanto | 113 | Av. Ecológica | Calicanto | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9392695);out%20geom;%0Away(678958508);out%20geom;out%20geom;%0Away(723717039);out%20geom;&R)
 [9392697](https://www.openstreetmap.org/relation/9392697) | Trufi 113: Calicanto → Av. Ecológica | 113 | Calicanto | Av. Ecológica | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9392697);out%20geom;%0Away(675563802);out%20geom;out%20geom;%0Away(723717039);out%20geom;&R)
@@ -205,6 +209,7 @@
 [4269607](https://www.openstreetmap.org/relation/4269607) | MiniBus 207: Plaza Bolívar → Temporal | 207 | Plaza Bolívar | Temporal | ✅
 [3388175](https://www.openstreetmap.org/relation/3388175) | MiniBus 209: Parque de la Autonomía → Plaza Bolívar | 209 | Parque de la Autonomía | Plaza Bolívar | ✅
 [3392826](https://www.openstreetmap.org/relation/3392826) | MiniBus 209: Plaza Bolívar → Parque de la Autonomía | 209 | Plaza Bolívar | Parque de la Autonomía | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(3392826);out%20geom;%0Away(538451386);out%20geom;out%20geom;%0Away(44330863);out%20geom;&R)
+[10413337](https://www.openstreetmap.org/relation/10413337) | Minibus 209: Calle J.Canedo → Avenida Franz Tamayo | 209 | Calle J.Canedo | Avenida Franz Tamayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10413337);out%20geom;%0Away(168369201);out%20geom;out%20geom;%0Away(603115723);out%20geom;&R)
 [4868551](https://www.openstreetmap.org/relation/4868551) | Bus 212: Amancayas → Tránsito | 212 | Amancayas | Tránsito | ✅
 [9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Av. Beijing → Lava Lava Baja | 212 | Av. Beijing | Lava Lava Baja | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9421021);out%20geom;%0Away(678527608);out%20geom;out%20geom;%0Away(160010247);out%20geom;&R)
 [9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Lava Lava Baja → Avenida Beijing | 212 | Lava Lava Baja | Avenida Beijing | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9421022);out%20geom;%0Away(654569617);out%20geom;out%20geom;%0Away(678527613);out%20geom;&R)

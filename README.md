@@ -1,5 +1,5 @@
 ### Count
-**Total**: 331  **Correct**: 239  **With error**: 92
+**Total**: 332  **Correct**: 240  **With error**: 92
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -112,6 +112,7 @@
 [9435839](https://www.openstreetmap.org/relation/9435839) | Trufi 012: Calle Claudio Tolomeo → Villa Cóndor | 012 | Calle Claudio Tolomeo | Villa Cóndor | ✅
 [9582568](https://www.openstreetmap.org/relation/9582568) | MiniBus 13: Ch'aska Rumi → Av. Ecologica | 13 | Ch'aska Rumi | Ch'aska Rumi | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9582568);out%20geom;%0Away(662560358);out%20geom;out%20geom;%0Away(193859273);out%20geom;&R)
 [10712334](https://www.openstreetmap.org/relation/10712334) | Minibus 13: Avenida Ecológica → Calle Enrique Angelelli | 13 | Avenida Ecológica | Calle Enrique Angelelli | ✅
+[10748432](https://www.openstreetmap.org/relation/10748432) | Minibus 13: Calle Enrique Angelelli → Avenida Ecologica | 13 | Calle Enrique Angelelli | Avenida Ecologica | ✅
 [10691722](https://www.openstreetmap.org/relation/10691722) | Minibus 14: Calle Raul Rivero Torres → Caico Alto | 14 | Calle Raul Rivero Torres | a | ✅
 [10691728](https://www.openstreetmap.org/relation/10691728) | Minibus 14: Calle Raul Rivero Torres → Azurimarca | 14 | Calle Raul Rivero Torres | Azurimarca | ✅
 [10691742](https://www.openstreetmap.org/relation/10691742) | Minibus 14: Caico Alto → Calle Raul Rivero Torres | 14 | Caico Alto | Calle Raul Rivero Torres | ✅

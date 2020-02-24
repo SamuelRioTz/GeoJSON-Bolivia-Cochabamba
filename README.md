@@ -1,5 +1,5 @@
 ### Count
-**Total**: 318  **Correct**: 238  **With error**: 80
+**Total**: 316  **Correct**: 238  **With error**: 78
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -45,8 +45,6 @@
 [10677513](https://www.openstreetmap.org/relation/10677513) | Microbus S: Avenida Blanco Galindo → Calle Mar del Plata | S | Avenida Blanco Galindo | Calle Mar del Plata | ✅
 [10677554](https://www.openstreetmap.org/relation/10677554) | Microbus T: Calle Nicolás Copérnico → Calle Omasuyus | T | Calle Nicolás Copérnico | Calle Omasuyus | ✅
 [9386184](https://www.openstreetmap.org/relation/9386184) | Taxi de ruta fija Taquiña : Cruce Taquiña → Fabrica | Taquiña | Cruce Taquiña | Fabrica | ✅
-[9582574](https://www.openstreetmap.org/relation/9582574) | Trufi 148: Calicanto → C. Esteban Arce | Trufi 148 | Calicanto | C. Esteban Arce | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582574);out%20geom;&R)
-[9582576](https://www.openstreetmap.org/relation/9582576) | Trufi 148: C.Esteban → Arce Calicanto | Trufi 148 | C.Esteban | Arce Calicanto | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9582576);out%20geom;&R)
 [10712236](https://www.openstreetmap.org/relation/10712236) | Microbus U: Calle Federico Jimenez → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | U | Calle Federico Jimenez | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
 [10712279](https://www.openstreetmap.org/relation/10712279) | Microbus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Federico Jimenez | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Federico Jimenez | ✅
 [9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9417509);out%20geom;%0Away(136713788);out%20geom;out%20geom;%0Away(770903637);out%20geom;&R)

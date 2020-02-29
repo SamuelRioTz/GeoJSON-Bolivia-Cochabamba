@@ -1,5 +1,5 @@
 ### Count
-**Total**: 307  **Correct**: 281  **With error**: 26
+**Total**: 307  **Correct**: 289  **With error**: 18
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -156,9 +156,9 @@
 [9219407](https://www.openstreetmap.org/relation/9219407) | TaxiTrufi 104: 1ro de Mayo → C. Monseñor O. Arnulfo Romero | 104 | 1ro de Mayo | C. Monseñor O. Arnulfo Romero | ✅
 [4480208](https://www.openstreetmap.org/relation/4480208) | MiniBus 106: El Paso → Cochabamba | 106 | Cochabamba | Cochabamba | ✅
 [6714096](https://www.openstreetmap.org/relation/6714096) | MiniBus 106: Cochabamba → El Paso | 106 | Cochabamba | El Paso | ✅
-[9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219433);out%20geom;%0Away(275390675);out%20geom;out%20geom;%0Away(665476189);out%20geom;&R)
+[9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | trufi 107 Maica Quenamari → Calle Yawar Mallku | 107 | Maica Quenamari | Calle Yawar Mallku | ✅
-[10694841](https://www.openstreetmap.org/relation/10694841) | trufi 107: Maica Quenamari → Calle Rafael Bustillo Norte | 107 | Maica Quenamari | Calle Rafael Bustillo Norte | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10694841);out%20geom;%0Away(276671973);out%20geom;out%20geom;%0Away(319926732);out%20geom;&R)
+[10694841](https://www.openstreetmap.org/relation/10694841) | trufi 107: Maica Quenamari → Calle Rafael Bustillo Norte | 107 | Maica Quenamari | Calle Rafael Bustillo Norte | ✅
 [9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Avenida Benjo Cruz → Calle San Luis | 108 | Avenida Benjo Cruz | Calle San Luis | ✅
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 : Calle San Luis → Avenida Benjo Cruz | 108 | Calle San Luis | Avenida Benjo Cruz | ✅
 [10694992](https://www.openstreetmap.org/relation/10694992) | Trufi 108 : Avenida Republica → Calle Pocoata | 108 | Avenida Republica | Calle Pocoata | ✅
@@ -274,7 +274,7 @@
 [10411245](https://www.openstreetmap.org/relation/10411245) | Minibus 212: Avenida Circunvalación Beijing → Calle la Cascada | 212 | Avenida Circunvalación Beijing | C. La Cascada | ✅
 [10721892](https://www.openstreetmap.org/relation/10721892) | Minibus 217: Avenida Circuncalación Beijing → Avenida Ernesto Céspedes | 217 | Avenida Circuncalación Beijing | Avenida Ernesto Céspedes | ✅
 [10722066](https://www.openstreetmap.org/relation/10722066) | Minibus 217: Avenida Ernesto Céspedes → Avenida Circuncalación Beijing | 217 | Avenida Ernesto Céspedes | Avenida Circuncalación Beijing | ✅
-[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9458460);out%20geom;%0Away(665478382);out%20geom;out%20geom;%0Away(275390665);out%20geom;&R)
+[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | ✅
 [9458471](https://www.openstreetmap.org/relation/9458471) | Microbus 220: Calle Eric Asplund → Avenida Chapare | 220 | Calle Eric Asplund | Avenida Chapare | ✅
 [9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230 : Calle Grover Suarez → Avenida Villazón | 230 | Calle Grover Suarez | Av. Villazón | ✅
 [9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230 : Avenida Villazón → Calle Grover Suarez | 230 | Avenida Villazón | Calle Grover Suarez | ✅
@@ -290,7 +290,7 @@
 [10742513](https://www.openstreetmap.org/relation/10742513) | Minibus 244: Calle Paucarpata → Avenida Eliodoro Villazón | 244 | Calle Paucarpata | a | ✅
 [10742585](https://www.openstreetmap.org/relation/10742585) | Minibus 244: Avenida Eliodoro Villazón → Calle Paucarpata | 244 | Avenida Eliodoro Villazón | Calle Paucarpata | ✅
 [10742625](https://www.openstreetmap.org/relation/10742625) | Minibus 244: Avenida Chaco → Avenida Eliodoro Villazón | 244 | Avenida Chaco | Avenida Eliodoro Villazón | ✅
-[10742692](https://www.openstreetmap.org/relation/10742692) | Minibus 244: Avenida Eliodoro Villazón → Avenida Chaco | 244 | Avenida Eliodoro Villazón | Avenida Chaco | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10742692);out%20geom;%0Away(665478382);out%20geom;out%20geom;%0Away(275390665);out%20geom;&R)
+[10742692](https://www.openstreetmap.org/relation/10742692) | Minibus 244: Avenida Eliodoro Villazón → Avenida Chaco | 244 | Avenida Eliodoro Villazón | Avenida Chaco | ✅
 [9377826](https://www.openstreetmap.org/relation/9377826) | Microbus 250: Avenida Blanco Galindo → Avenida Mártires de la Democracia | 250 | Avenida Blanco Galindo | Avenida Mártires de la Democracia | ✅
 [9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Av. Mártires de la Democracia → Av. Blanco Galindo | 250 | Av. Mártires de la Democracia | Av. Blanco Galindo | ✅
 [9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | ✅
@@ -305,9 +305,9 @@
 [10742265](https://www.openstreetmap.org/relation/10742265) | Minibus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | ✅
 [4204592](https://www.openstreetmap.org/relation/4204592) | MiniBus 270: Plaza Bolivar → Pacata Central | 270 | Plaza Bolivar | Pacata Central | ✅
 [4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Pacata Central → Plaza Bolivar | 270 | Pacata Central | Plaza Bolivar | ✅
-[4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Avenida. Blanco Galindo → Chillimarca | 290 | Avenida. Blanco Galindo | Chillimarca | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4655384);out%20geom;%0Away(662558801);out%20geom;out%20geom;%0Away(63955292);out%20geom;&R)
-[9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Avenida Blanco Galindo | 290 | Ciudad de los niños | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9379871);out%20geom;%0Away(662558801);out%20geom;out%20geom;%0Away(63955292);out%20geom;&R)
+[4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Avenida. Blanco Galindo → Chillimarca | 290 | Avenida. Blanco Galindo | Chillimarca | ✅
+[9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Avenida Blanco Galindo | 290 | Ciudad de los niños | Avenida Blanco Galindo | ✅
 [9430327](https://www.openstreetmap.org/relation/9430327) | Trufi 311: Pampita Mejillones → Calle Arawaqui | 311 | Pampita Mejillones | Calle Arawaqui | ✅
 [9430329](https://www.openstreetmap.org/relation/9430329) | Trufi 311: C. Arawaqui → Pampita Mejillones | 311 | C. Arawaqui | Pampita Mejillones | ✅
-[9193250](https://www.openstreetmap.org/relation/9193250) | Minibus 1001 : Barrio Universitario Bajo → OTB Ecológica | 1001 | Barrio Universitario Bajo | OTB Ecológica | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9193250);out%20geom;%0Away(345732852);out%20geom;out%20geom;%0Away(247560963);out%20geom;&R)
-[9193252](https://www.openstreetmap.org/relation/9193252) | MiniBus 1001: OTB Ecológica → Barrio Universitario Bajo | 1001 | OTB Ecológica | Barrio Universitario Bajo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9193252);out%20geom;%0Away(319205961);out%20geom;out%20geom;%0Away(725944584);out%20geom;&R)
+[9193250](https://www.openstreetmap.org/relation/9193250) | Minibus 1001 : Barrio Universitario Bajo → OTB Ecológica | 1001 | Barrio Universitario Bajo | OTB Ecológica | ✅
+[9193252](https://www.openstreetmap.org/relation/9193252) | MiniBus 1001: OTB Ecológica → Barrio Universitario Bajo | 1001 | OTB Ecológica | Barrio Universitario Bajo | ✅

@@ -1,5 +1,5 @@
 ### Count
-**Total**: 307  **Correct**: 275  **With error**: 32
+**Total**: 307  **Correct**: 277  **With error**: 30
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -49,7 +49,7 @@
 [10712279](https://www.openstreetmap.org/relation/10712279) | Microbus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Federico Jimenez | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Federico Jimenez | ✅
 [9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | ✅
 [9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle San Pablo → Avenida Circunvalación | V | Avenida Circunvalación | Calle San Pablo | ✅
-[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5386695);out%20geom;%0Away(313346730);out%20geom;out%20geom;%0Away(203431157);out%20geom;&R)
+[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | ✅
 [5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Plaza Bolívar → Barrio Universitario Bajo | W | Plaza Bolívar | Barrio Universitario Bajo | ✅
 [9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
 [10666996](https://www.openstreetmap.org/relation/10666996) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
@@ -70,7 +70,7 @@
 [9582857](https://www.openstreetmap.org/relation/9582857) | MiniBus 2: Avenida del Cabildo → Calle Las Begonias | 2 | Avenida del Cabildo | Calle Las Begonias | ✅
 [9582859](https://www.openstreetmap.org/relation/9582859) | MiniBus 2: Calle Las Begonias → Avenida del Cabildo | 2 | Calle Las Begonias | Avenida del Cabildo | ✅
 [5167276](https://www.openstreetmap.org/relation/5167276) | MicroBus 3: Comunidad Andrada → Santa Rosa | 3 | Comunidad Andrada | Santa Rosa | ✅
-[5172572](https://www.openstreetmap.org/relation/5172572) | MicroBus 3: Santa Rosa → Comunidad Andrada | 3 | Santa Rosa | Comunidad Andrada | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5172572);out%20geom;%0Away(64549033);out%20geom;out%20geom;%0Away(346920874);out%20geom;&R)
+[5172572](https://www.openstreetmap.org/relation/5172572) | MicroBus 3: Santa Rosa → Comunidad Andrada | 3 | Santa Rosa | Comunidad Andrada | ✅
 [9397822](https://www.openstreetmap.org/relation/9397822) | Trufi 03: Pasaje 22 → Calle Jorge Ugaeta | 03 | Pasaje 22 | Calle Jorge Ugaeta | ✅
 [9397824](https://www.openstreetmap.org/relation/9397824) | Trufi 03: Calle Jorge Ugaeta → Pasaje 22 | 03 | Calle Jorge Ugaeta | Pasaje 22 | ✅
 [10694643](https://www.openstreetmap.org/relation/10694643) | Minibus 5: Calle Humberto Guzmán Arce → Ch'aska Rumi | 5 | Calle Humberto Guzmán Arce | Ch'aska Rumi | ✅

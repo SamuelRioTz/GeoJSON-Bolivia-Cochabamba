@@ -1,5 +1,5 @@
 ### Count
-**Total**: 307  **Correct**: 272  **With error**: 35
+**Total**: 307  **Correct**: 275  **With error**: 32
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -14,7 +14,7 @@
 [4443072](https://www.openstreetmap.org/relation/4443072) | MicroBus D: Alejo Calatayud → Linde | D | Alejo Calatayud | Linde | ✅
 [4443073](https://www.openstreetmap.org/relation/4443073) | Bus D: Linde → Alejo Calatayud | D | Linde | Alejo Calatayud | ✅
 [4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Cuatro Esquinas → Villa Jarkas | E | Cuatro Esquinas | Villa Jarkas | ✅
-[4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Villa Jarkas → Cuatro Esquinas | E | Villa Jarkas | Cuatro Esquinas | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4443363);out%20geom;%0Away(337279809);out%20geom;out%20geom;%0Away(416581503);out%20geom;&R)
+[4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Villa Jarkas → Cuatro Esquinas | E | Villa Jarkas | Cuatro Esquinas | ✅
 [5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Asunción Llallagua → San Antonio | G | Asunción Llallagua | San Antonio | ✅
 [5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: San Antonio → Asunción Llallagua | G | San Antonio | Asunción Llallagua | ✅
 [5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chacacollo → Salinas | H | Chacacollo | Salinas | ✅
@@ -49,9 +49,9 @@
 [10712279](https://www.openstreetmap.org/relation/10712279) | Microbus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Federico Jimenez | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Federico Jimenez | ✅
 [9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | ✅
 [9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle San Pablo → Avenida Circunvalación | V | Avenida Circunvalación | Calle San Pablo | ✅
-[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5386695);out%20geom;%0Away(151036348);out%20geom;out%20geom;%0Away(361919419);out%20geom;&R)
+[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5386695);out%20geom;%0Away(313346730);out%20geom;out%20geom;%0Away(203431157);out%20geom;&R)
 [5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Plaza Bolívar → Barrio Universitario Bajo | W | Plaza Bolívar | Barrio Universitario Bajo | ✅
-[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9386225);out%20geom;%0Away(662920112);out%20geom;out%20geom;%0Away(662920109);out%20geom;&R)
+[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
 [10666996](https://www.openstreetmap.org/relation/10666996) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
 [10705506](https://www.openstreetmap.org/relation/10705506) | Microbus W: Calle Rio Beni → Avenida Blanco Galindo | W | Calle Rio Beni | Avenida Blanco Galindo | ✅
 [10705539](https://www.openstreetmap.org/relation/10705539) | Parada Microbus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
@@ -69,7 +69,7 @@
 [9397733](https://www.openstreetmap.org/relation/9397733) | Trufi 01: Av. Los Angeles → C. Calamarca | 01 | Av. Los Angeles | C. Calamarca | ✅
 [9582857](https://www.openstreetmap.org/relation/9582857) | MiniBus 2: Avenida del Cabildo → Calle Las Begonias | 2 | Avenida del Cabildo | Calle Las Begonias | ✅
 [9582859](https://www.openstreetmap.org/relation/9582859) | MiniBus 2: Calle Las Begonias → Avenida del Cabildo | 2 | Calle Las Begonias | Avenida del Cabildo | ✅
-[5167276](https://www.openstreetmap.org/relation/5167276) | MicroBus 3: Comunidad Andrada → Santa Rosa | 3 | Comunidad Andrada | Santa Rosa | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5167276);out%20geom;%0Away(554928296);out%20geom;out%20geom;%0Away(346920869);out%20geom;&R)
+[5167276](https://www.openstreetmap.org/relation/5167276) | MicroBus 3: Comunidad Andrada → Santa Rosa | 3 | Comunidad Andrada | Santa Rosa | ✅
 [5172572](https://www.openstreetmap.org/relation/5172572) | MicroBus 3: Santa Rosa → Comunidad Andrada | 3 | Santa Rosa | Comunidad Andrada | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5172572);out%20geom;%0Away(64549033);out%20geom;out%20geom;%0Away(346920874);out%20geom;&R)
 [9397822](https://www.openstreetmap.org/relation/9397822) | Trufi 03: Pasaje 22 → Calle Jorge Ugaeta | 03 | Pasaje 22 | Calle Jorge Ugaeta | ✅
 [9397824](https://www.openstreetmap.org/relation/9397824) | Trufi 03: Calle Jorge Ugaeta → Pasaje 22 | 03 | Calle Jorge Ugaeta | Pasaje 22 | ✅

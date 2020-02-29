@@ -1,5 +1,5 @@
 ### Count
-**Total**: 307  **Correct**: 277  **With error**: 30
+**Total**: 307  **Correct**: 281  **With error**: 26
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -87,11 +87,11 @@
 [9184014](https://www.openstreetmap.org/relation/9184014) | Minibus 10: Cerro Calomani → Calle Faustino Suarez | 10 | Cerro Calomani | Calle Faustino Suarez | ✅
 [9397897](https://www.openstreetmap.org/relation/9397897) | Trufi 010: C. Provincia General José Ballivián → C. Quripacha | 010 | C. Provincia General José Ballivián | C. Quripacha | ✅
 [9397899](https://www.openstreetmap.org/relation/9397899) | Trufi 010: C. Quripacha → C. Provincia General José Ballivián | 010 | C. Quripacha | C. Provincia General José Ballivián | ✅
-[9342276](https://www.openstreetmap.org/relation/9342276) | MiniBus 11: C. Qurisunqu → Av. Inglaterra | 11 | C. Qurisunqu | Av. Inglaterra | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9342276);out%20geom;%0Away(391864983);out%20geom;out%20geom;%0Away(150901201);out%20geom;&R)
+[9342276](https://www.openstreetmap.org/relation/9342276) | MiniBus 11: C. Qurisunqu → Av. Inglaterra | 11 | C. Qurisunqu | Av. Inglaterra | ✅
 [9342277](https://www.openstreetmap.org/relation/9342277) | MiniBus 11: Avenida. Inglaterra → Calle Qurisunqu | 11 | Avenida Inglaterra | Calle Qurisunqu | ✅
 [9435838](https://www.openstreetmap.org/relation/9435838) | Trufi 012: Villa Cóndor → C. Claudio Tolomeo | 012 | Villa Cóndor | C. Claudio Tolomeo | ✅
 [9435839](https://www.openstreetmap.org/relation/9435839) | Trufi 012: Calle Claudio Tolomeo → Villa Cóndor | 012 | Calle Claudio Tolomeo | Villa Cóndor | ✅
-[9582568](https://www.openstreetmap.org/relation/9582568) | MiniBus 13: Ch'aska Rumi → Av. Ecologica | 13 | Ch'aska Rumi | Ch'aska Rumi | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9582568);out%20geom;%0Away(662560358);out%20geom;out%20geom;%0Away(193859273);out%20geom;&R)
+[9582568](https://www.openstreetmap.org/relation/9582568) | MiniBus 13: Ch'aska Rumi → Av. Ecologica | 13 | Ch'aska Rumi | Ch'aska Rumi | ✅
 [10712334](https://www.openstreetmap.org/relation/10712334) | Minibus 13: Avenida Ecológica → Calle Enrique Angelelli | 13 | Avenida Ecológica | Calle Enrique Angelelli | ✅
 [10748432](https://www.openstreetmap.org/relation/10748432) | Minibus 13: Calle Enrique Angelelli → Avenida Ecologica | 13 | Calle Enrique Angelelli | Avenida Ecologica | ✅
 [10691722](https://www.openstreetmap.org/relation/10691722) | Minibus 14: Calle Raul Rivero Torres → Caico Alto | 14 | Calle Raul Rivero Torres | a | ✅
@@ -106,10 +106,10 @@
 [9405804](https://www.openstreetmap.org/relation/9405804) | Trufi 016: C. Litoral → Av. Ecológica | 016 | C. Litoral | Av. Ecológica | ✅
 [10712377](https://www.openstreetmap.org/relation/10712377) | Minibus 17: Calle Raul G. Prada → OTB Nueva Esperanza | 17 | Calle Raul G. Prada | OTB Nueva Esperanza | ✅
 [10712656](https://www.openstreetmap.org/relation/10712656) | Minibus 17: OTB Nueva Esperanza → Calle Raul G. Prada | 17 | OTB Nueva Esperanza | Calle Raul G. Prada | ✅
-[9582851](https://www.openstreetmap.org/relation/9582851) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9582851);out%20geom;%0Away(66989506);out%20geom;out%20geom;%0Away(772162607);out%20geom;&R)
-[10707888](https://www.openstreetmap.org/relation/10707888) | Minibus 18: Calle Manuel de Falla → Avenida Uncía | 18 | Calle Manuel de Falla | Avenida Uncía | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10707888);out%20geom;%0Away(319811963);out%20geom;out%20geom;%0Away(410991551);out%20geom;&R)
+[9582851](https://www.openstreetmap.org/relation/9582851) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | ✅
+[10707888](https://www.openstreetmap.org/relation/10707888) | Minibus 18: Calle Manuel de Falla → Avenida Uncía | 18 | Calle Manuel de Falla | Avenida Uncía | ✅
 [10744108](https://www.openstreetmap.org/relation/10744108) | Minibus 18: Avenida Uncia → Calle Manuel de Falla | 18 | Avenida Uncia | Calle Manuel de Falla | ✅
-[10744109](https://www.openstreetmap.org/relation/10744109) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10744109);out%20geom;%0Away(676945677);out%20geom;out%20geom;%0Away(772162607);out%20geom;&R)
+[10744109](https://www.openstreetmap.org/relation/10744109) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | ✅
 [9582854](https://www.openstreetmap.org/relation/9582854) | Minibus 19: Avenida Autonomía → Calle Santa Fe | 19 | Avenida Autonomía | Calle Santa Fe | ✅
 [9582856](https://www.openstreetmap.org/relation/9582856) | MiniBus 19: Calle Santa Fe → Calle Venezuela | 19 | Calle Santa Fe | Calle Venezuela | ✅
 [9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Camacho → Calle Rucui | 20 | Calle Provincia Camacho | Calle Rucui | ✅
@@ -122,7 +122,7 @@
 [10708320](https://www.openstreetmap.org/relation/10708320) | Minibus 31: Calle Río Nicolás Suárez → Avenida Ecológica | 31 | Calle Río Nicolás Suárez | Avenida Ecológica | ✅
 [10708454](https://www.openstreetmap.org/relation/10708454) | Minibus 35: Calle Ricadó Mujia → Avenida Pueblo Belén | 35 | Calle Ricadó Mujia | Avenida Pueblo Belén | ✅
 [10708489](https://www.openstreetmap.org/relation/10708489) | Minibus 35: Avenida Pueblo Belén → Calle Ricardo Mujia | 35 | Avenida Pueblo Belén | Calle Ricardo Mujia | ✅
-[10716517](https://www.openstreetmap.org/relation/10716517) | Minibus 36: Calle T'ikallajta → Calle Manuel Virreira | 36 | Calle T'ikallajta | Calle Manuel Virreira | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10716517);out%20geom;%0Away(319811963);out%20geom;out%20geom;%0Away(410991551);out%20geom;&R)
+[10716517](https://www.openstreetmap.org/relation/10716517) | Minibus 36: Calle T'ikallajta → Calle Manuel Virreira | 36 | Calle T'ikallajta | Calle Manuel Virreira | ✅
 [10716534](https://www.openstreetmap.org/relation/10716534) | Minibus 36: Calle Manuel Virreira → Calle T'ikallajta | 36 | Calle Manuel Virreira | Calle T'ikallajta | ✅
 [10717486](https://www.openstreetmap.org/relation/10717486) | Minibus 40: Ciudad de los niños → Buena vista | 40 | Ciudad de los niños | Buena vista | ✅
 [10718919](https://www.openstreetmap.org/relation/10718919) | Minibus 40: Buena vista → Ciudad de los niños | 40 | Buena vista | Ciudad de los niños | ✅
@@ -274,7 +274,7 @@
 [10411245](https://www.openstreetmap.org/relation/10411245) | Minibus 212: Avenida Circunvalación Beijing → Calle la Cascada | 212 | Avenida Circunvalación Beijing | C. La Cascada | ✅
 [10721892](https://www.openstreetmap.org/relation/10721892) | Minibus 217: Avenida Circuncalación Beijing → Avenida Ernesto Céspedes | 217 | Avenida Circuncalación Beijing | Avenida Ernesto Céspedes | ✅
 [10722066](https://www.openstreetmap.org/relation/10722066) | Minibus 217: Avenida Ernesto Céspedes → Avenida Circuncalación Beijing | 217 | Avenida Ernesto Céspedes | Avenida Circuncalación Beijing | ✅
-[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | ✅
+[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Chapare → Calle Eric Asplund | 220 | Avenida Chapare | Calle Eric Asplund | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9458460);out%20geom;%0Away(665478382);out%20geom;out%20geom;%0Away(275390665);out%20geom;&R)
 [9458471](https://www.openstreetmap.org/relation/9458471) | Microbus 220: Calle Eric Asplund → Avenida Chapare | 220 | Calle Eric Asplund | Avenida Chapare | ✅
 [9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230 : Calle Grover Suarez → Avenida Villazón | 230 | Calle Grover Suarez | Av. Villazón | ✅
 [9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230 : Avenida Villazón → Calle Grover Suarez | 230 | Avenida Villazón | Calle Grover Suarez | ✅
@@ -290,7 +290,7 @@
 [10742513](https://www.openstreetmap.org/relation/10742513) | Minibus 244: Calle Paucarpata → Avenida Eliodoro Villazón | 244 | Calle Paucarpata | a | ✅
 [10742585](https://www.openstreetmap.org/relation/10742585) | Minibus 244: Avenida Eliodoro Villazón → Calle Paucarpata | 244 | Avenida Eliodoro Villazón | Calle Paucarpata | ✅
 [10742625](https://www.openstreetmap.org/relation/10742625) | Minibus 244: Avenida Chaco → Avenida Eliodoro Villazón | 244 | Avenida Chaco | Avenida Eliodoro Villazón | ✅
-[10742692](https://www.openstreetmap.org/relation/10742692) | Minibus 244: Avenida Eliodoro Villazón → Avenida Chaco | 244 | Avenida Eliodoro Villazón | Avenida Chaco | ✅
+[10742692](https://www.openstreetmap.org/relation/10742692) | Minibus 244: Avenida Eliodoro Villazón → Avenida Chaco | 244 | Avenida Eliodoro Villazón | Avenida Chaco | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10742692);out%20geom;%0Away(665478382);out%20geom;out%20geom;%0Away(275390665);out%20geom;&R)
 [9377826](https://www.openstreetmap.org/relation/9377826) | Microbus 250: Avenida Blanco Galindo → Avenida Mártires de la Democracia | 250 | Avenida Blanco Galindo | Avenida Mártires de la Democracia | ✅
 [9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Av. Mártires de la Democracia → Av. Blanco Galindo | 250 | Av. Mártires de la Democracia | Av. Blanco Galindo | ✅
 [9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | ✅

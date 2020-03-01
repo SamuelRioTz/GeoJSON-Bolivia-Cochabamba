@@ -1,5 +1,5 @@
 ### Count
-**Total**: 307  **Correct**: 300  **With error**: 7
+**Total**: 305  **Correct**: 304  **With error**: 1
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -75,8 +75,8 @@
 [9397824](https://www.openstreetmap.org/relation/9397824) | Trufi 03: Calle Jorge Ugaeta → Pasaje 22 | 03 | Calle Jorge Ugaeta | Pasaje 22 | ✅
 [10694643](https://www.openstreetmap.org/relation/10694643) | Minibus 5: Calle Humberto Guzmán Arce → Ch'aska Rumi | 5 | Calle Humberto Guzmán Arce | Ch'aska Rumi | ✅
 [9321577](https://www.openstreetmap.org/relation/9321577) | MiniBus 6: Av. Gerónimo de Osorio → Av. Pisiga | 6 | Av. Gerónimo de Osorio | Av. Pisiga | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9321577);out%20geom;%0Away(28674674);out%20geom;out%20geom;%0Away(209490671);out%20geom;&R)
-[9466782](https://www.openstreetmap.org/relation/9466782) | MiniBus 6: O → E | 6 | O | E | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9466782);out%20geom;%0Away(682302125);out%20geom;out%20geom;%0Away(682302124);out%20geom;&R)
-[9466783](https://www.openstreetmap.org/relation/9466783) | MiniBus 6: E → O | 6 | E | O | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9466783);out%20geom;%0Away(262077283);out%20geom;out%20geom;%0Away(771072995);out%20geom;&R)
+[9466782](https://www.openstreetmap.org/relation/9466782) | MiniBus 6: Avenida Tadeo Haenke → Avenida Pisiga | 6 | Avenida Tadeo Haenke | Avenida Pisiga | ✅
+[9466783](https://www.openstreetmap.org/relation/9466783) | MiniBus 6: Avenida Conchupata → Avenida Tadeo Haenke | 6 | Avenida Conchupata | Avenida Tadeo Haenke | ✅
 [10686843](https://www.openstreetmap.org/relation/10686843) | MiniBus 8: Avenida Eliodoro Villazón → La Serana Calicanto | 8 | Avenida Eliodoro Villazón | La Serana Calicanto | ✅
 [10687570](https://www.openstreetmap.org/relation/10687570) | MiniBus 8: Avenida Eliodoro Villazón → Calle Pez del Paraíso | 8 | Avenida Eliodoro Villazón | Calle Pez del Paraíso | ✅
 [10688684](https://www.openstreetmap.org/relation/10688684) | MiniBus 8: La Serena Calicanto → Avenida Eliodoro Villazón | 8 | La Serena Calicanto | Avenida Eliodoro Villazón | ✅
@@ -114,10 +114,8 @@
 [9582856](https://www.openstreetmap.org/relation/9582856) | MiniBus 19: Calle Santa Fe → Calle Venezuela | 19 | Calle Santa Fe | Calle Venezuela | ✅
 [9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Camacho → Calle Rucui | 20 | Calle Provincia Camacho | Calle Rucui | ✅
 [9582862](https://www.openstreetmap.org/relation/9582862) | Minibus 20: Calle Rucui → Calle Provincia Camacho | 20 | Calle Rucui | Calle Provincia Camacho | ✅
-[9430621](https://www.openstreetmap.org/relation/9430621) | Minibu 27 : Alto Porvenir → C´aspichaca | 27 | Alto Porvenir | C´aspichaca | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9430621);out%20geom;%0Away(656122569);out%20geom;out%20geom;%0Away(676935469);out%20geom;&R)
 [10742219](https://www.openstreetmap.org/relation/10742219) | Minibus 27: Alto Porvenir → Avenida Arquímedes | 27 | Alto Porvenir | Avenida Arquímedes | ✅
 [10742249](https://www.openstreetmap.org/relation/10742249) | Minibus 27: Avenida Arquímedes → Alto Porvenir | 27 | Avenida Arquímedes | Alto Porvenir | ✅
-[9643477](https://www.openstreetmap.org/relation/9643477) | MiniBus 31: Avenida Simón Lopez → Calle Río Nicolás Suárez | 31 | Av. Simón Lopez | C. Río Nicolás Suárez | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9643477);out%20geom;%0Away(548473878);out%20geom;out%20geom;%0Away(230640687);out%20geom;&R)
 [10707969](https://www.openstreetmap.org/relation/10707969) | Minibus 31: Avenida Simon lopez → Calle Río Nicolás Suárez | 31 | Avenida Simon lopez | Calle Río Nicolás Suárez | ✅
 [10708320](https://www.openstreetmap.org/relation/10708320) | Minibus 31: Calle Río Nicolás Suárez → Avenida Ecológica | 31 | Calle Río Nicolás Suárez | Avenida Ecológica | ✅
 [10708454](https://www.openstreetmap.org/relation/10708454) | Minibus 35: Calle Ricadó Mujia → Avenida Pueblo Belén | 35 | Calle Ricadó Mujia | Avenida Pueblo Belén | ✅
@@ -126,8 +124,8 @@
 [10716534](https://www.openstreetmap.org/relation/10716534) | Minibus 36: Calle Manuel Virreira → Calle T'ikallajta | 36 | Calle Manuel Virreira | Calle T'ikallajta | ✅
 [10717486](https://www.openstreetmap.org/relation/10717486) | Minibus 40: Ciudad de los niños → Buena vista | 40 | Ciudad de los niños | Buena vista | ✅
 [10718919](https://www.openstreetmap.org/relation/10718919) | Minibus 40: Buena vista → Ciudad de los niños | 40 | Buena vista | Ciudad de los niños | ✅
-[9166781](https://www.openstreetmap.org/relation/9166781) | Minibus 43 : OTB 27 de Mayo → Av. Humberto Asín Rivero | 43 | OTB 27 de Mayo | Av. Humberto Asín Rivero | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9166781);out%20geom;&R)
 [10623446](https://www.openstreetmap.org/relation/10623446) | Minibus 43: Calle Juana Azurduy de Padilla → Avenida Humberto Asín Rivero | 43 | Calle Juana Azurduy de Padilla | Avenida Humberto Asín Rivero | ✅
+[10768014](https://www.openstreetmap.org/relation/10768014) | Minibus 43: Avenida Humberto Asín Rivero → Calle Juana Azurduy de Padilla | 43 | Avenida Humberto Asín Rivero | Calle Juana Azurduy de Padilla | ✅
 [9400927](https://www.openstreetmap.org/relation/9400927) | MiniBus 45: Calle Serranía de Caiza → Calle Santiago Fajardo | 45 | Calle Serranía de Caiza | Calle Santiago Fajardo | ✅
 [10718946](https://www.openstreetmap.org/relation/10718946) | Minibus 45: Calle Bonifacio Games → Avenida Inca Camacho | 45 | Calle Bonifacio Games | Avenida Inca Camacho | ✅
 [10623700](https://www.openstreetmap.org/relation/10623700) | Minibus 46: Calle Nicolas Ortis Pacheco → Pucarita Chica | 46 | Calle Nicolas Ortis Pacheco | Pucarita Chica | ✅
@@ -203,7 +201,7 @@
 [10719095](https://www.openstreetmap.org/relation/10719095) | Minibus 120: Calle Gualberto Villaroel → Calle Tupac Katari | 120 | Calle Gualberto Villaroel | Calle Tupac Katari | ✅
 [10719128](https://www.openstreetmap.org/relation/10719128) | Minibus 120: Calle Tupac Katari → Calle Gualberto Villaroel | 120 | Calle Tupac Katari | Calle Gualberto Villaroel | ✅
 [9312059](https://www.openstreetmap.org/relation/9312059) | Trufi 121: Avenida Circunvalación II -> Calle Obrajes | 121 | Avenida Circunvalación II | Calle Obrajes | ✅
-[9312061](https://www.openstreetmap.org/relation/9312061) | Trufi 121 : Calle Obrajes -> Avenida Circunvalación II | 121 | Calle Obrajes | Avenida Circunvalación II | [undefined](https://overpass-turbo.eu/?Q=//undefined%0Arel(9312061);out%20geom;&R)
+[10768603](https://www.openstreetmap.org/relation/10768603) | Minibus 121: Calle Obrajes → Avenida Circunvalación II Doctor Martín Cárdenas Hermosa | 121 | Calle Obrajes | Avenida Circunvalación II Doctor Martín Cárdenas Hermosa | ✅
 [9427015](https://www.openstreetmap.org/relation/9427015) | Trufi 122: Chaupiloma → C. Qhochapampa | 122 | Chaupiloma | C. Qhochapampa | ✅
 [9436088](https://www.openstreetmap.org/relation/9436088) | Trufi 122: C. Qhochapampa → Chaupiloma | 122 | C. Qhochapampa | Chaupiloma | ✅
 [9431000](https://www.openstreetmap.org/relation/9431000) | Trufi 123: Avenida Paris → Calle Wawaki | 123 | Avenida Paris | Calle Wawaki | ✅

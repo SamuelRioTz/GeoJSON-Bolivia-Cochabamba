@@ -1,5 +1,5 @@
 ### Count
-**Total**: 305  **Correct**: 304  **With error**: 1
+**Total**: 305  **Correct**: 305  **With error**: 0
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -74,7 +74,7 @@
 [9397822](https://www.openstreetmap.org/relation/9397822) | Trufi 03: Pasaje 22 → Calle Jorge Ugaeta | 03 | Pasaje 22 | Calle Jorge Ugaeta | ✅
 [9397824](https://www.openstreetmap.org/relation/9397824) | Trufi 03: Calle Jorge Ugaeta → Pasaje 22 | 03 | Calle Jorge Ugaeta | Pasaje 22 | ✅
 [10694643](https://www.openstreetmap.org/relation/10694643) | Minibus 5: Calle Humberto Guzmán Arce → Ch'aska Rumi | 5 | Calle Humberto Guzmán Arce | Ch'aska Rumi | ✅
-[9321577](https://www.openstreetmap.org/relation/9321577) | MiniBus 6: Av. Gerónimo de Osorio → Av. Pisiga | 6 | Av. Gerónimo de Osorio | Av. Pisiga | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9321577);out%20geom;%0Away(28674674);out%20geom;out%20geom;%0Away(209490671);out%20geom;&R)
+[9321577](https://www.openstreetmap.org/relation/9321577) | MiniBus 6: Av. Gerónimo de Osorio → Av. Pisiga | 6 | Av. Gerónimo de Osorio | Av. Pisiga | ✅
 [9466782](https://www.openstreetmap.org/relation/9466782) | MiniBus 6: Avenida Tadeo Haenke → Avenida Pisiga | 6 | Avenida Tadeo Haenke | Avenida Pisiga | ✅
 [9466783](https://www.openstreetmap.org/relation/9466783) | MiniBus 6: Avenida Conchupata → Avenida Tadeo Haenke | 6 | Avenida Conchupata | Avenida Tadeo Haenke | ✅
 [10686843](https://www.openstreetmap.org/relation/10686843) | MiniBus 8: Avenida Eliodoro Villazón → La Serana Calicanto | 8 | Avenida Eliodoro Villazón | La Serana Calicanto | ✅
@@ -94,7 +94,7 @@
 [9582568](https://www.openstreetmap.org/relation/9582568) | MiniBus 13: Ch'aska Rumi → Av. Ecologica | 13 | Ch'aska Rumi | Ch'aska Rumi | ✅
 [10712334](https://www.openstreetmap.org/relation/10712334) | Minibus 13: Avenida Ecológica → Calle Enrique Angelelli | 13 | Avenida Ecológica | Calle Enrique Angelelli | ✅
 [10748432](https://www.openstreetmap.org/relation/10748432) | Minibus 13: Calle Enrique Angelelli → Avenida Ecologica | 13 | Calle Enrique Angelelli | Avenida Ecologica | ✅
-[10691722](https://www.openstreetmap.org/relation/10691722) | Minibus 14: Calle Raul Rivero Torres → Caico Alto | 14 | Calle Raul Rivero Torres | a | ✅
+[10691722](https://www.openstreetmap.org/relation/10691722) | Minibus 14: Calle Raul Rivero Torres → Caico Alto | 14 | Calle Raul Rivero Torres | Caico Alto | ✅
 [10691728](https://www.openstreetmap.org/relation/10691728) | Minibus 14: Calle Raul Rivero Torres → Azurimarca | 14 | Calle Raul Rivero Torres | Azurimarca | ✅
 [10691742](https://www.openstreetmap.org/relation/10691742) | Minibus 14: Caico Alto → Calle Raul Rivero Torres | 14 | Caico Alto | Calle Raul Rivero Torres | ✅
 [10692360](https://www.openstreetmap.org/relation/10692360) | Minibus 14: Azurimaca → Calle Raul Rivero Torres | 14 | Azurimaca | Calle Raul Rivero Torres | ✅

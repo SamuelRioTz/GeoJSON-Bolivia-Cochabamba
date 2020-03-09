@@ -1,5 +1,5 @@
 ### Count
-**Total**: 312  **Correct**: 296  **With error**: 16
+**Total**: 305  **Correct**: 304  **With error**: 1
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -9,7 +9,7 @@
 [4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Sindicato Agrario Taquiña → Chaqui Mayu | A | Sindicato Agrario Taquiña | Chaqui Mayu | ✅
 [4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Villa Moscú → Aeropuerto → Chavez Rancho | B | Villa Moscú | Chavez Rancho | ✅
 [4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Chavez Rancho → Aeropuerto → Villa Moscú | B | Chavez Rancho | Villa Moscú | ✅
-[4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Eucaliptos Sud → Beato Salomón | C | Eucaliptos Sud | Beato Salomón | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4430244);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Eucaliptos Sud → Beato Salomón | C | Eucaliptos Sud | Beato Salomón | ✅
 [4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Beato Salomón → Eucaliptos Sud | C | Beato Salomón | Eucaliptos Sud | ✅
 [4443072](https://www.openstreetmap.org/relation/4443072) | MicroBus D: Alejo Calatayud → Linde | D | Alejo Calatayud | Linde | ✅
 [4443073](https://www.openstreetmap.org/relation/4443073) | Bus D: Linde → Alejo Calatayud | D | Linde | Alejo Calatayud | ✅
@@ -19,12 +19,10 @@
 [5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: San Antonio → Asunción Llallagua | G | San Antonio | Asunción Llallagua | ✅
 [5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chacacollo → Salinas | H | Chacacollo | Salinas | ✅
 [5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Salinas → Chacacollo | H | Salinas | Chacacollo | ✅
-[5484212](https://www.openstreetmap.org/relation/5484212) | MicroBus I: San Antonio → Colquiri Sud | I | San Antonio | Colquiri Sud | ✅
-[9985626](https://www.openstreetmap.org/relation/9985626) | MicroBus I: Antonio → Colquiri Sud San | I | Antonio | Colquiri Sud San | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9985626);out%20geom;%0Away(320330723);out%20geom;out%20geom;%0Away(778426866);out%20geom;&R)
+[9985626](https://www.openstreetmap.org/relation/9985626) | MicroBus I: Antonio → Colquiri Sud San | I | Antonio | Colquiri Sud San | ✅
 [10786894](https://www.openstreetmap.org/relation/10786894) | Microbus I: Avenida Siglo XX → Avenida Pachakutij | I | Avenida Siglo XX | Avenida Pachakutij | ✅
-[9085564](https://www.openstreetmap.org/relation/9085564) | Micro J: C. Gran Chaco → C. Chiquitano | J | C. Gran Chaco | C. Chiquitano | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9085564);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[9085564](https://www.openstreetmap.org/relation/9085564) | Micro J: C. Gran Chaco → C. Chiquitano | J | C. Gran Chaco | C. Chiquitano | ✅
 [9101527](https://www.openstreetmap.org/relation/9101527) | MicroBus J: C. Chiquitano → C. Gran Chaco | J | C. Chiquitano | C. Gran Chaco | ✅
-[9615976](https://www.openstreetmap.org/relation/9615976) | MicroBus K: Av. Arquímedes → C. Achachairú | K | Av. Arquímedes | C. Achachairú | ✅
 [10706216](https://www.openstreetmap.org/relation/10706216) | MicroBus K: Calle Achachairú → Avenida Arquímedes | K | Calle Achachairú | Avenida Arquímedes | ✅
 [10786869](https://www.openstreetmap.org/relation/10786869) | Minibus K: Avenida Arquímedes → Calle Achachairú | K | Avenida Arquímedes | Calle Achachairú | ✅
 [5149360](https://www.openstreetmap.org/relation/5149360) | MicroBus LL: La Concordia → San Gabriel | LL | La Concordia | San Gabriel | ✅
@@ -33,7 +31,7 @@
 [9985684](https://www.openstreetmap.org/relation/9985684) | MicroBus M : Calle Jose Avelino Aramayo → Prefectural Fortaleza | M | Calle Jose Avelino Aramayo | Prefectural Fortaleza | ✅
 [10708849](https://www.openstreetmap.org/relation/10708849) | Microbus N: Calle Severo Fernandez A. → Avenida Eliodoro Villazón | N | Calle Serero Fernandez A. | Avenida Eliodoro Villazón | ✅
 [10709216](https://www.openstreetmap.org/relation/10709216) | Microbus N: Avenida Eliodoro Villazón → Calle Severo Fernandez A. | N | Avenida Eliodoro Villazón | Calle Severo Fernandez A. | ✅
-[10709736](https://www.openstreetmap.org/relation/10709736) | Microbus O: Primavera → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | O | Primavera | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10709736);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[10709736](https://www.openstreetmap.org/relation/10709736) | Microbus O: Primavera → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | O | Primavera | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
 [10712108](https://www.openstreetmap.org/relation/10712108) | Parada Microbus O: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Primavera | O | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Primavera | ✅
 [10176999](https://www.openstreetmap.org/relation/10176999) | Micro P: Calle Gran Chaco → Puente Quinamari | P | Calle Gran Chaco | Puente Quinamari | ✅
 [10177244](https://www.openstreetmap.org/relation/10177244) | Micro P: Puente Quinamari -> Calle Gran Chaco | P | Puente Quinamari | Calle Gran Chaco | ✅
@@ -46,7 +44,9 @@
 [10668794](https://www.openstreetmap.org/relation/10668794) | Micro S: Calle Mar de Plata → Avenida Blanco Galindo | S | Calle Mar de Plata | Avenida Blanco Galindo | ✅
 [10677513](https://www.openstreetmap.org/relation/10677513) | Microbus S: Avenida Blanco Galindo → Calle Mar del Plata | S | Avenida Blanco Galindo | Calle Mar del Plata | ✅
 [10677554](https://www.openstreetmap.org/relation/10677554) | Microbus T: Calle Nicolás Copérnico → Calle Omasuyus | T | Calle Nicolás Copérnico | Calle Omasuyus | ✅
+[10807446](https://www.openstreetmap.org/relation/10807446) | Microbus T: Calle Omasuyus → Calle Benito Maria de Moxo | T | Calle Omasuyus | Calle Benito Maria de Moxo | ✅
 [9386184](https://www.openstreetmap.org/relation/9386184) | Taxi de ruta fija Taquiña : Cruce Taquiña → Fabrica | Taquiña | Cruce Taquiña | Fabrica | ✅
+[10789860](https://www.openstreetmap.org/relation/10789860) | Trufi Taquiña: Taquiña → Avenida Centenario | Taquiña | Taquiña | Avenida Centenario | ✅
 [10712236](https://www.openstreetmap.org/relation/10712236) | Microbus U: Calle Federico Jimenez → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | U | Calle Federico Jimenez | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
 [10712279](https://www.openstreetmap.org/relation/10712279) | Microbus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Federico Jimenez | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Federico Jimenez | ✅
 [9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | ✅
@@ -79,9 +79,8 @@
 [10786946](https://www.openstreetmap.org/relation/10786946) | Minibus 3: Avenida Victor Ustaríz → Calle Los Cafetales | 3 | Avenida Victor Ustaríz | Calle Los Cafetales | ✅
 [10694643](https://www.openstreetmap.org/relation/10694643) | Minibus 5: Calle Humberto Guzmán Arce → Ch'aska Rumi | 5 | Calle Humberto Guzmán Arce | Ch'aska Rumi | ✅
 [10786973](https://www.openstreetmap.org/relation/10786973) | Minibus 5: Calle Marianela Garcia → Calle Humberto Guzmán Arce | 5 | Calle Marianela Garcia | Calle Humberto Guzmán Arce | ✅
-[9321577](https://www.openstreetmap.org/relation/9321577) | MiniBus 6: Av. Gerónimo de Osorio → Av. Pisiga | 6 | Av. Gerónimo de Osorio | Av. Pisiga | ✅
 [9466782](https://www.openstreetmap.org/relation/9466782) | MiniBus 6: Avenida Tadeo Haenke → Avenida Pisiga | 6 | Avenida Tadeo Haenke | Avenida Pisiga | ✅
-[9466783](https://www.openstreetmap.org/relation/9466783) | MiniBus 6: Avenida Conchupata → Avenida Tadeo Haenke | 6 | Avenida Conchupata | Avenida Tadeo Haenke | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9466783);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[9466783](https://www.openstreetmap.org/relation/9466783) | MiniBus 6: Avenida Conchupata → Avenida Tadeo Haenke | 6 | Avenida Conchupata | Avenida Tadeo Haenke | ✅
 [10686843](https://www.openstreetmap.org/relation/10686843) | MiniBus 8: Avenida Eliodoro Villazón → La Serana Calicanto | 8 | Avenida Eliodoro Villazón | La Serana Calicanto | ✅
 [10687570](https://www.openstreetmap.org/relation/10687570) | MiniBus 8: Avenida Eliodoro Villazón → Calle Pez del Paraíso | 8 | Avenida Eliodoro Villazón | Calle Pez del Paraíso | ✅
 [10688684](https://www.openstreetmap.org/relation/10688684) | MiniBus 8: La Serena Calicanto → Avenida Eliodoro Villazón | 8 | La Serena Calicanto | Avenida Eliodoro Villazón | ✅
@@ -94,11 +93,10 @@
 [9397899](https://www.openstreetmap.org/relation/9397899) | Trufi 010: C. Quripacha → C. Provincia General José Ballivián | 010 | C. Quripacha | C. Provincia General José Ballivián | ✅
 [9342276](https://www.openstreetmap.org/relation/9342276) | MiniBus 11: C. Qurisunqu → Av. Inglaterra | 11 | C. Qurisunqu | Av. Inglaterra | ✅
 [9342277](https://www.openstreetmap.org/relation/9342277) | MiniBus 11: Avenida. Inglaterra → Calle Qurisunqu | 11 | Avenida Inglaterra | Calle Qurisunqu | ✅
-[9435838](https://www.openstreetmap.org/relation/9435838) | Trufi 012: Villa Cóndor → C. Claudio Tolomeo | 012 | Villa Cóndor | C. Claudio Tolomeo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9435838);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[9435838](https://www.openstreetmap.org/relation/9435838) | Trufi 012: Villa Cóndor → Calle Claudio Tolomeo | 012 | Villa Cóndor | C. Claudio Tolomeo | ✅
 [9435839](https://www.openstreetmap.org/relation/9435839) | Trufi 012: Calle Claudio Tolomeo → Villa Cóndor | 012 | Calle Claudio Tolomeo | Villa Cóndor | ✅
-[9582568](https://www.openstreetmap.org/relation/9582568) | MiniBus 13: Ch'aska Rumi → Av. Ecologica | 13 | Ch'aska Rumi | Ch'aska Rumi | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9582568);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
 [10712334](https://www.openstreetmap.org/relation/10712334) | Minibus 13: Avenida Ecológica → Calle Enrique Angelelli | 13 | Avenida Ecológica | Calle Enrique Angelelli | ✅
-[10748432](https://www.openstreetmap.org/relation/10748432) | Minibus 13: Calle Enrique Angelelli → Avenida Ecologica | 13 | Calle Enrique Angelelli | Avenida Ecologica | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10748432);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[10748432](https://www.openstreetmap.org/relation/10748432) | Minibus 13: Calle Enrique Angelelli → Avenida Ecologica | 13 | Calle Enrique Angelelli | Avenida Ecologica | ✅
 [10691722](https://www.openstreetmap.org/relation/10691722) | Minibus 14: Calle Raul Rivero Torres → Caico Alto | 14 | Calle Raul Rivero Torres | Caico Alto | ✅
 [10691728](https://www.openstreetmap.org/relation/10691728) | Minibus 14: Calle Raul Rivero Torres → Azurimarca | 14 | Calle Raul Rivero Torres | Azurimarca | ✅
 [10691742](https://www.openstreetmap.org/relation/10691742) | Minibus 14: Caico Alto → Calle Raul Rivero Torres | 14 | Caico Alto | Calle Raul Rivero Torres | ✅
@@ -114,7 +112,6 @@
 [9582851](https://www.openstreetmap.org/relation/9582851) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | ✅
 [10707888](https://www.openstreetmap.org/relation/10707888) | Minibus 18: Calle Manuel de Falla → Avenida Uncía | 18 | Calle Manuel de Falla | Avenida Uncía | ✅
 [10744108](https://www.openstreetmap.org/relation/10744108) | Minibus 18: Avenida Uncia → Calle Manuel de Falla | 18 | Avenida Uncia | Calle Manuel de Falla | ✅
-[10744109](https://www.openstreetmap.org/relation/10744109) | MiniBus 18: Av. Uncia → Av. Benjo Cruz | 18 | Av. Uncia | Av. Benjo Cruz | ✅
 [9582854](https://www.openstreetmap.org/relation/9582854) | Minibus 19: Avenida Autonomía → Calle Santa Fe | 19 | Avenida Autonomía | Calle Santa Fe | ✅
 [9582856](https://www.openstreetmap.org/relation/9582856) | MiniBus 19: Calle Santa Fe → Avenida Autonomía | 19 | Calle Santa Fe | Avenida Autonomía | ✅
 [9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Camacho → Calle Rucui | 20 | Calle Provincia Camacho | Calle Rucui | ✅
@@ -130,7 +127,7 @@
 [10717486](https://www.openstreetmap.org/relation/10717486) | Minibus 40: Ciudad de los niños → Buena vista | 40 | Ciudad de los niños | Buena vista | ✅
 [10718919](https://www.openstreetmap.org/relation/10718919) | Minibus 40: Buena vista → Ciudad de los niños | 40 | Buena vista | Ciudad de los niños | ✅
 [10623446](https://www.openstreetmap.org/relation/10623446) | Minibus 43: Calle Juana Azurduy de Padilla → Avenida Humberto Asín Rivero | 43 | Calle Juana Azurduy de Padilla | Avenida Humberto Asín Rivero | ✅
-[10768014](https://www.openstreetmap.org/relation/10768014) | Minibus 43: Avenida Humberto Asín Rivero → Calle Juana Azurduy de Padilla | 43 | Avenida Humberto Asín Rivero | Calle Juana Azurduy de Padilla | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10768014);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[10768014](https://www.openstreetmap.org/relation/10768014) | Minibus 43: Avenida Humberto Asín Rivero → Calle Juana Azurduy de Padilla | 43 | Avenida Humberto Asín Rivero | Calle Juana Azurduy de Padilla | ✅
 [9400927](https://www.openstreetmap.org/relation/9400927) | MiniBus 45: Calle Serranía de Caiza → Calle Santiago Fajardo | 45 | Calle Serranía de Caiza | Calle Santiago Fajardo | ✅
 [10718946](https://www.openstreetmap.org/relation/10718946) | Minibus 45: Calle Bonifacio Games → Avenida Inca Camacho | 45 | Calle Bonifacio Games | Avenida Inca Camacho | ✅
 [10788634](https://www.openstreetmap.org/relation/10788634) | Minibus 245: Calle Republica Dominicana → Avenida Blanco Galindo | 45 | Calle Republica Dominicana | Avenida Blanco Galindo | ✅
@@ -151,12 +148,12 @@
 [10692554](https://www.openstreetmap.org/relation/10692554) | Trufi 101: Calle Alonso Miguel Ibañez → Avenida Ecológica | 101 | Calle Alonso Miguel Ibañez | Avenida Ecológica | ✅
 [9136633](https://www.openstreetmap.org/relation/9136633) | Trufi 102: Av. Segunda → Tamborada | 102 | Av. Segunda | Tamborada | ✅
 [10692726](https://www.openstreetmap.org/relation/10692726) | trufi 102: Tamborada B → Avenida Segunda | 102 | Tamborada B | Avenida Segunda | ✅
-[9118824](https://www.openstreetmap.org/relation/9118824) | TaxiTrufi 103: C. J. Macedonio Urquidi → 16 de Julio | 103 | C. J. Macedonio Urquidi | 16 de Julio | ✅
 [10692795](https://www.openstreetmap.org/relation/10692795) | Trufi 103: Calle J. Macedonio Urquidi → Tamborada B | 103 | Calle J. Macedonio Urquidi | Tamborada B | ✅
 [10692844](https://www.openstreetmap.org/relation/10692844) | Trufi 103: Calle J. Macedonio Urquidi → Villa America | 103 | Calle J. Macedonio Urquidi | Villa America | ✅
 [10692867](https://www.openstreetmap.org/relation/10692867) | Trufi 103: Avenida Panamericana → Avenida Los Robles | 103 | Avenida Panamericana | Avenida Los Robles | ✅
 [10693034](https://www.openstreetmap.org/relation/10693034) | trufi 103: Tamborada B → Calle J. Macedonio Urquidi | 103 | Tamborada B | Calle J. Macedonio Urquidi | ✅
 [10693057](https://www.openstreetmap.org/relation/10693057) | Trufi 103: Villa America → Calle J. Macedonio Urquidi | 103 | Villa America | Calle J. Macedonio Urquidi | ✅
+[10795881](https://www.openstreetmap.org/relation/10795881) | Trufi 103: Avenida Los Robles → Avenida Panamericana | 103 | Avenida Los Robles | Avenida Panamericana | ✅
 [9219406](https://www.openstreetmap.org/relation/9219406) | TaxiTrufi 104: C. Monseñor O. Arnulfo Romero → 1ro de Mayo | 104 | C. Monseñor O. Arnulfo Romero | 1ro de Mayo | ✅
 [9219407](https://www.openstreetmap.org/relation/9219407) | TaxiTrufi 104: 1ro de Mayo → C. Monseñor O. Arnulfo Romero | 104 | 1ro de Mayo | C. Monseñor O. Arnulfo Romero | ✅
 [4480208](https://www.openstreetmap.org/relation/4480208) | MiniBus 106: El Paso → Cochabamba | 106 | Cochabamba | Cochabamba | ✅
@@ -164,20 +161,22 @@
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | trufi 107 Maica Quenamari → Calle Yawar Mallku | 107 | Maica Quenamari | Calle Yawar Mallku | ✅
 [10694841](https://www.openstreetmap.org/relation/10694841) | trufi 107: Maica Quenamari → Calle Rafael Bustillo Norte | 107 | Maica Quenamari | Calle Rafael Bustillo Norte | ✅
+[10795957](https://www.openstreetmap.org/relation/10795957) | Trufi 107: Calle Rafael Bustillo Norte → Avenida Amalia Villa de la Tapia | 107 | Calle Rafael Bustillo Norte | Avenida Amalia Villa de la Tapia | ✅
 [9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Avenida Benjo Cruz → Calle San Luis | 108 | Avenida Benjo Cruz | Calle San Luis | ✅
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 : Calle San Luis → Avenida Benjo Cruz | 108 | Calle San Luis | Avenida Benjo Cruz | ✅
 [10694992](https://www.openstreetmap.org/relation/10694992) | Trufi 108 : Avenida Republica → Calle Pocoata | 108 | Avenida Republica | Calle Pocoata | ✅
 [10695023](https://www.openstreetmap.org/relation/10695023) | trufi 108: Calle Pocoata → Avenida Republica | 108 | Calle Pocoata | Avenida Republica | ✅
-[9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: C. Papayo → C. Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9219457);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[9219457](https://www.openstreetmap.org/relation/9219457) | Trufi 109: Calle Papayo → Calle Felix Reyes Ortiz | 109 | C. Papayo | C. Felix Reyes Ortiz | ✅
 [9219458](https://www.openstreetmap.org/relation/9219458) | Trufi 109: Calle Felix Reyes Ortiz → Calle Papayo | 109 | Calle Felix Reyes Ortiz | Calle Papayo | ✅
 [10377939](https://www.openstreetmap.org/relation/10377939) | Trufi 109: Calle Alipio Valencia Vega -> 14 de Abril | 109 | Calle Alipio Valencia Vega | 14 de Abril | ✅
 [10718967](https://www.openstreetmap.org/relation/10718967) | Minibus 109: Calle Jose Eduardo Guerra → 14 de Abril | 109 | Calle Jose Eduardo Guerra | 14 de Abril | ✅
+[10799951](https://www.openstreetmap.org/relation/10799951) | Trufi 109: 14 de Abril → Calle Jose Eduardo Guerra | 109 | 14 de Abril | Calle Jose Eduardo Guerra | ✅
 [10380049](https://www.openstreetmap.org/relation/10380049) | Trufi 110: Calle San Salvador→ Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | 110 | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
 [10387641](https://www.openstreetmap.org/relation/10387641) | Trufi 110: Calle Wanka → Calle Holanda | 110 | Calle Wanka | Calle Holanda | ✅
 [10392482](https://www.openstreetmap.org/relation/10392482) | Trufi 110: Avenida Centenario → Calle Noruega | 110 | Avenida Centenario | Calle Noruega | ✅
-[10392586](https://www.openstreetmap.org/relation/10392586) | Minibus 110: Calle San Salvador → Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | 110 | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10392586);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
-[10395472](https://www.openstreetmap.org/relation/10395472) | Minibus 110: Calle Francia → Calle Wanka | 110 | Calle Francia | Calle Wanka | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10395472);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
-[10395597](https://www.openstreetmap.org/relation/10395597) | Minibus110: Calle Noruega → Avenida Circunvalación Bejing | 110 | Calle Noruega | Avenida Circunvalación Bejing | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10395597);out%20geom;%0Away(326573186);out%20geom;out%20geom;%0Away(778420588);out%20geom;&R)
+[10392586](https://www.openstreetmap.org/relation/10392586) | Minibus 110: Calle San Salvador → Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | 110 | Calle San Salvador | Avenida Circunvalacion II Doctor Martín Cárdenas Hermosa | ✅
+[10395472](https://www.openstreetmap.org/relation/10395472) | Minibus 110: Calle Francia → Calle Wanka | 110 | Calle Francia | Calle Wanka | ✅
+[10395597](https://www.openstreetmap.org/relation/10395597) | Minibus110: Calle Noruega → Avenida Circunvalación Bejing | 110 | Calle Noruega | Avenida Circunvalación Bejing | ✅
 [10396238](https://www.openstreetmap.org/relation/10396238) | Minibus 111: Avenida Chacancalle → Avenida Batalla de la Florida | 111 | Avenida Chacancalle | Avenida Batalla de la Florida | ✅
 [10396580](https://www.openstreetmap.org/relation/10396580) | Minibus 111: Avenida Chacancalle → Avenida Río Parapeti | 111 | Avenida Chacancalle | Avenida Río Parapeti | ✅
 [10397583](https://www.openstreetmap.org/relation/10397583) | Minibus 111: Avenida Chacancalle → Sivingani | 111 | Avenida. Chacancalle | Sivingani | ✅
@@ -200,8 +199,6 @@
 [9380215](https://www.openstreetmap.org/relation/9380215) | MiniBus 118: Av. Ecológica → Av. República | 118 | Av. Ecológica | Av. República | ✅
 [9430922](https://www.openstreetmap.org/relation/9430922) | Trufi 119: Alto Litoral → Villa Taquiña | 119 | Alto Litoral | Villa Taquiña | ✅
 [9430924](https://www.openstreetmap.org/relation/9430924) | Trufi 119: Villa Taquiña → Alto Litoral | 119 | Villa Taquiña | Alto Litoral | ✅
-[4480209](https://www.openstreetmap.org/relation/4480209) | MiniBus 120: Cochabamba → Tiquipaya | 120 | Cochabamba | Tiquipaya | ✅
-[6117079](https://www.openstreetmap.org/relation/6117079) | MiniBus 120: Tiquipaya → Cochabamba | 120 | Tiquipaya | Cochabamba | ✅
 [10719025](https://www.openstreetmap.org/relation/10719025) | Parada Minibus 120: Calle Gillermina Martinez → Calle Tupac Katari | 120 | Calle Gillermina Martinez | Calle Tupac Katari | ✅
 [10719035](https://www.openstreetmap.org/relation/10719035) | Minibus 120: Calle Tupac Katari → Calle Gillermina Martinez | 120 | Calle Tupac Katari | Calle Gillermina Martinez | ✅
 [10719095](https://www.openstreetmap.org/relation/10719095) | Minibus 120: Calle Gualberto Villaroel → Calle Tupac Katari | 120 | Calle Gualberto Villaroel | Calle Tupac Katari | ✅
@@ -215,7 +212,7 @@
 [9582565](https://www.openstreetmap.org/relation/9582565) | Trufi 125: Buena Vista → Calle M. R. Saravia de Lanza | 125 | Buena Vista | Calle M. R. Saravia de Lanza | ✅
 [9582567](https://www.openstreetmap.org/relation/9582567) | Trufi 125: C. M. R. Saravia de Lanza → Buena Vista | 125 | C. M. R. Saravia de Lanza | Buena Vista | ✅
 [9715360](https://www.openstreetmap.org/relation/9715360) | Trufi 130: Avenida Circunvalación Beijing → Avenida Centenario | 130 | Avenida Circunvalación Beijing | Avenida Centenario | ✅
-[9717256](https://www.openstreetmap.org/relation/9717256) | Trufi 130: Avenida Centenario → Avenida Circunvalación Beijing | 130 | Avenida Centenario | Avenida Circunvalación Beijing | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9717256);out%20geom;%0Away(314303653);out%20geom;out%20geom;%0Away(778426865);out%20geom;&R)
+[9717256](https://www.openstreetmap.org/relation/9717256) | Trufi 130: Avenida Centenario → Avenida Circunvalación Beijing | 130 | Avenida Centenario | Avenida Circunvalación Beijing | ✅
 [9582571](https://www.openstreetmap.org/relation/9582571) | Trufi 131: Valle Hermoso → C. Lucia Alcocer | 131 | Valle Hermoso | C. Lucia Alcocer | ✅
 [9582573](https://www.openstreetmap.org/relation/9582573) | Trufi 131: Calle Lucia Alcocer → Valle Hermoso | 131 | Calle Lucia Alcocer | Valle Hermoso | ✅
 [10695765](https://www.openstreetmap.org/relation/10695765) | Trufi 132: Calle Isabel Calvimonetes → Calle Incahuasi | 132 | Calle Isabel Calvimonetes | Calle Incahuasi | ✅
@@ -225,10 +222,10 @@
 [10696193](https://www.openstreetmap.org/relation/10696193) | trufi 132: Calle Libertad → Calle Isabel Calvimonetes | 132 | Calle Libertad | Calle Isabel Calvimonetes | ✅
 [10696237](https://www.openstreetmap.org/relation/10696237) | trufi 132: Avenida Paris → Calle Isabel Calvimonetes | 132 | Avenida Paris | Calle Isabel Calvimonetes | ✅
 [10720842](https://www.openstreetmap.org/relation/10720842) | Minibus 133: Calle Manuel Ugarte → Calle Cardenal Richard James Cushing | 133 | Calle Manuel Ugarte | Calle Cardenal Richard James Cushing | ✅
-[10720900](https://www.openstreetmap.org/relation/10720900) | Minibus 133: Avenida Ramón Espinoza → Dr Andres Muñoz | 133 | Avenida Ramón Espinoza | Dr Andres Muñoz | ✅
+[10720900](https://www.openstreetmap.org/relation/10720900) | Minibus 133: Avenida Ramón Espinoza → Dr Andres Muñoz | 133 | Avenida Ramón Espinoza | Dr Andres Muñoz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10720900);out%20geom;%0Away(442156117);out%20geom;out%20geom;%0Away(779431722);out%20geom;&R)
 [10721050](https://www.openstreetmap.org/relation/10721050) | Minibus 133: Calle Cardenal Richard James Cushing → Calle Manuel Ugarte | 133 | Calle Cardenal Richard James Cushing | Calle Manuel Ugarte | ✅
 [10721087](https://www.openstreetmap.org/relation/10721087) | Minibus 133: Calle Andrés S. Muñoz → Avenida Ramón Espinoza | 133 | Calle Andrés S. Muñoz | Avenida Ramón Espinoza | ✅
-[9427978](https://www.openstreetmap.org/relation/9427978) | Trufi 134: Avenida Chiquicollo → Avenida Circunvalación | 134 | Avenida Chiquicollo | Avenida Circunvalación | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9427978);out%20geom;%0Away(314303653);out%20geom;out%20geom;%0Away(778426865);out%20geom;&R)
+[9427978](https://www.openstreetmap.org/relation/9427978) | Trufi 134: Avenida Chiquicollo → Avenida Circunvalación | 134 | Avenida Chiquicollo | Avenida Circunvalación | ✅
 [9427980](https://www.openstreetmap.org/relation/9427980) | Trufi 134: Avenida Circunvalación → Chiquicollo | 134 | Avenida Circunvalación | Chiquicollo | ✅
 [9429035](https://www.openstreetmap.org/relation/9429035) | Trufi 135: C. Combate de Chacaltaya → Av. Circunvalación | 135 | C. Combate de Chacaltaya | Av. Circunvalación | ✅
 [9429037](https://www.openstreetmap.org/relation/9429037) | Trufi 135: Av. Circunvalación → C. Combate de Chacaltaya | 135 | Av. Circunvalación | C. Combate de Chacaltaya | ✅
@@ -263,15 +260,12 @@
 [10414461](https://www.openstreetmap.org/relation/10414461) | Minibus 207: C. Fructouso Mercado → Av. Gualberto Villaroel | 207 | C. Fructouso Mercado | Av. Gualberto Villaroel | ✅
 [10724411](https://www.openstreetmap.org/relation/10724411) | Parada Minibus 208: Avenida Blanco Galindo → Avenida Petolera | 208 | Avenida Blanco Galindo | Avenida Petolera | ✅
 [10724434](https://www.openstreetmap.org/relation/10724434) | Minibus 208: Avenida Petrolera → Avenida Blanco Galindo | 208 | Avenida Petrolera | Avenida Blanco Galindo | ✅
-[3388175](https://www.openstreetmap.org/relation/3388175) | MiniBus 209: Parque de la Autonomía → Plaza Bolívar | 209 | Parque de la Autonomía | Plaza Bolívar | ✅
-[3392826](https://www.openstreetmap.org/relation/3392826) | MiniBus 209: Plaza Bolívar → Parque de la Autonomía | 209 | Plaza Bolívar | Parque de la Autonomía | ✅
 [10413337](https://www.openstreetmap.org/relation/10413337) | Minibus 209: Calle J.Canedo → Avenida Franz Tamayo | 209 | Calle J.Canedo | Avenida Franz Tamayo | ✅
 [10413473](https://www.openstreetmap.org/relation/10413473) | Minibus 209: Av. Martin Cárdena → Calle J.Canedo | 209 | Av. Martin Cárdena | Calle J.Canedo | ✅
 [10413127](https://www.openstreetmap.org/relation/10413127) | Minbus 210: Calle Litoral → Avenida Martín Cárdena | 210 | Calle Litoral | Avenida Martín Cárdena | ✅
 [10413255](https://www.openstreetmap.org/relation/10413255) | Minibus 210: Av. Martin Cárdena → Calle Litoral | 210 | Av. Martin Cárdena | Calle Litoral | ✅
 [10411266](https://www.openstreetmap.org/relation/10411266) | Minibus 211: Calle. Achachairú → Avenida Martín Cárdena | 211 | Calle Achachairú | Avenida Martín Cárdena | ✅
 [10413052](https://www.openstreetmap.org/relation/10413052) | Minibus 211: Avenida Martín Cárdena → Calle Achachairú | 211 | Avenida Martín Cárdena | C. Achachairú | ✅
-[4868551](https://www.openstreetmap.org/relation/4868551) | Bus 212: Amancayas → Tránsito | 212 | Amancayas | Tránsito | ✅
 [9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Av. Beijing → Lava Lava Baja | 212 | Av. Beijing | Lava Lava Baja | ✅
 [9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Lava Lava Baja → Avenida Beijing | 212 | Lava Lava Baja | Avenida Beijing | ✅
 [10411209](https://www.openstreetmap.org/relation/10411209) | Minibus 212: Calle La Cascada → Avenida Circunvalación Beijing | 212 | Calle La Cascada | Avenida Circunvalación Beijing | ✅
@@ -284,7 +278,6 @@
 [9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230 : Avenida Villazón → Calle Grover Suarez | 230 | Avenida Villazón | Calle Grover Suarez | ✅
 [9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Av. Sajama → Av. Villazón | 232 | Avenida Villazón | Avenida Sajama | ✅
 [9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232 : Avenida Villazón → Avenida Sajama | 232 | Avenida Villazón | Avenida Sajama | ✅
-[6895150](https://www.openstreetmap.org/relation/6895150) | Bus 233: Quintanilla → UMSS | 233 | Quintanilla | UMSS | ✅
 [9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Maravillas → Calle Manuel P. Laredo | 233 | Calle Maravillas | Calle Manuel P. Laredo | ✅
 [9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Maravillas | 233 | Calle Manuel P. Laredo | Calle Maravillas | ✅
 [9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Avenida Chaco → Avenida Villazón | 240 | Avenida Chaco | Avenida Villazón | ✅
@@ -309,7 +302,7 @@
 [10724599](https://www.openstreetmap.org/relation/10724599) | Minibus 265: Avenida Blanco Galindo → Calle Camiri | 265 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10742265](https://www.openstreetmap.org/relation/10742265) | Minibus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | ✅
 [4204592](https://www.openstreetmap.org/relation/4204592) | MiniBus 270: Plaza Bolivar → Pacata Central | 270 | Plaza Bolivar | Pacata Central | ✅
-[4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Pacata Central → Plaza Bolivar | 270 | Pacata Central | Plaza Bolivar | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4223772);out%20geom;%0Away(319647245);out%20geom;out%20geom;%0Away(778426865);out%20geom;&R)
+[4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Pacata Central → Plaza Bolivar | 270 | Pacata Central | Plaza Bolivar | ✅
 [4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Avenida. Blanco Galindo → Chillimarca | 290 | Avenida. Blanco Galindo | Chillimarca | ✅
 [9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Avenida Blanco Galindo | 290 | Ciudad de los niños | Avenida Blanco Galindo | ✅
 [9430327](https://www.openstreetmap.org/relation/9430327) | Trufi 311: Pampita Mejillones → Calle Arawaqui | 311 | Pampita Mejillones | Calle Arawaqui | ✅

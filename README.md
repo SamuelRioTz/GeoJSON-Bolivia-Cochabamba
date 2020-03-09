@@ -1,5 +1,5 @@
 ### Count
-**Total**: 305  **Correct**: 304  **With error**: 1
+**Total**: 304  **Correct**: 304  **With error**: 0
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -161,7 +161,6 @@
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | trufi 107 Maica Quenamari → Calle Yawar Mallku | 107 | Maica Quenamari | Calle Yawar Mallku | ✅
 [10694841](https://www.openstreetmap.org/relation/10694841) | trufi 107: Maica Quenamari → Calle Rafael Bustillo Norte | 107 | Maica Quenamari | Calle Rafael Bustillo Norte | ✅
-[10795957](https://www.openstreetmap.org/relation/10795957) | Trufi 107: Calle Rafael Bustillo Norte → Avenida Amalia Villa de la Tapia | 107 | Calle Rafael Bustillo Norte | Avenida Amalia Villa de la Tapia | ✅
 [9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Avenida Benjo Cruz → Calle San Luis | 108 | Avenida Benjo Cruz | Calle San Luis | ✅
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 : Calle San Luis → Avenida Benjo Cruz | 108 | Calle San Luis | Avenida Benjo Cruz | ✅
 [10694992](https://www.openstreetmap.org/relation/10694992) | Trufi 108 : Avenida Republica → Calle Pocoata | 108 | Avenida Republica | Calle Pocoata | ✅
@@ -222,7 +221,7 @@
 [10696193](https://www.openstreetmap.org/relation/10696193) | trufi 132: Calle Libertad → Calle Isabel Calvimonetes | 132 | Calle Libertad | Calle Isabel Calvimonetes | ✅
 [10696237](https://www.openstreetmap.org/relation/10696237) | trufi 132: Avenida Paris → Calle Isabel Calvimonetes | 132 | Avenida Paris | Calle Isabel Calvimonetes | ✅
 [10720842](https://www.openstreetmap.org/relation/10720842) | Minibus 133: Calle Manuel Ugarte → Calle Cardenal Richard James Cushing | 133 | Calle Manuel Ugarte | Calle Cardenal Richard James Cushing | ✅
-[10720900](https://www.openstreetmap.org/relation/10720900) | Minibus 133: Avenida Ramón Espinoza → Dr Andres Muñoz | 133 | Avenida Ramón Espinoza | Dr Andres Muñoz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10720900);out%20geom;%0Away(442156117);out%20geom;out%20geom;%0Away(779431722);out%20geom;&R)
+[10720900](https://www.openstreetmap.org/relation/10720900) | Minibus 133: Avenida Ramón Espinoza → Dr Andres Muñoz | 133 | Avenida Ramón Espinoza | Dr Andres Muñoz | ✅
 [10721050](https://www.openstreetmap.org/relation/10721050) | Minibus 133: Calle Cardenal Richard James Cushing → Calle Manuel Ugarte | 133 | Calle Cardenal Richard James Cushing | Calle Manuel Ugarte | ✅
 [10721087](https://www.openstreetmap.org/relation/10721087) | Minibus 133: Calle Andrés S. Muñoz → Avenida Ramón Espinoza | 133 | Calle Andrés S. Muñoz | Avenida Ramón Espinoza | ✅
 [9427978](https://www.openstreetmap.org/relation/9427978) | Trufi 134: Avenida Chiquicollo → Avenida Circunvalación | 134 | Avenida Chiquicollo | Avenida Circunvalación | ✅

@@ -1,5 +1,5 @@
 ### Count
-**Total**: 304  **Correct**: 304  **With error**: 0
+**Total**: 305  **Correct**: 305  **With error**: 0
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -115,14 +115,14 @@
 [9582854](https://www.openstreetmap.org/relation/9582854) | Minibus 19: Avenida Autonomía → Calle Santa Fe | 19 | Avenida Autonomía | Calle Santa Fe | ✅
 [9582856](https://www.openstreetmap.org/relation/9582856) | MiniBus 19: Calle Santa Fe → Avenida Autonomía | 19 | Calle Santa Fe | Avenida Autonomía | ✅
 [9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Camacho → Calle Rucui | 20 | Calle Provincia Camacho | Calle Rucui | ✅
-[9582862](https://www.openstreetmap.org/relation/9582862) | Minibus 20: Calle Rucui → Calle Provincia Camacho | 20 | Calle Rucui | Calle Provincia Camacho | ✅
+[9582862](https://www.openstreetmap.org/relation/9582862) | MiniBus 20: Calle Rucui → Calle Provincia Camacho | 20 | Calle Rucui | Calle Provincia Camacho | ✅
 [10742219](https://www.openstreetmap.org/relation/10742219) | Minibus 27: Alto Porvenir → Avenida Arquímedes | 27 | Alto Porvenir | Avenida Arquímedes | ✅
 [10742249](https://www.openstreetmap.org/relation/10742249) | Minibus 27: Avenida Arquímedes → Alto Porvenir | 27 | Avenida Arquímedes | Alto Porvenir | ✅
-[10707969](https://www.openstreetmap.org/relation/10707969) | Minibus 31: Avenida Simon lopez → Calle Río Nicolás Suárez | 31 | Avenida Simon lopez | Calle Río Nicolás Suárez | ✅
+[10707969](https://www.openstreetmap.org/relation/10707969) | MiniBus 31: Avenida Simón lopez → Calle Río Nicolás Suárez | 31 | Avenida Simón Lopez | Calle Río Nicolás Suárez | ✅
 [10708320](https://www.openstreetmap.org/relation/10708320) | Minibus 31: Calle Río Nicolás Suárez → Avenida Ecológica | 31 | Calle Río Nicolás Suárez | Avenida Ecológica | ✅
 [10708454](https://www.openstreetmap.org/relation/10708454) | Minibus 35: Calle Ricadó Mujia → Avenida Pueblo Belén | 35 | Calle Ricadó Mujia | Avenida Pueblo Belén | ✅
 [10708489](https://www.openstreetmap.org/relation/10708489) | Minibus 35: Avenida Pueblo Belén → Calle Ricardo Mujia | 35 | Avenida Pueblo Belén | Calle Ricardo Mujia | ✅
-[10716517](https://www.openstreetmap.org/relation/10716517) | Minibus 36: Calle T'ikallajta → Calle Manuel Virreira | 36 | Calle T'ikallajta | Calle Manuel Virreira | ✅
+[10716517](https://www.openstreetmap.org/relation/10716517) | MiniBus 36: Calle T'ikallajta → Calle Manuel Virreira | 36 | Calle T'ikallajta | Calle Manuel Virreira | ✅
 [10716534](https://www.openstreetmap.org/relation/10716534) | Minibus 36: Calle Manuel Virreira → Calle T'ikallajta | 36 | Calle Manuel Virreira | Calle T'ikallajta | ✅
 [10717486](https://www.openstreetmap.org/relation/10717486) | Minibus 40: Ciudad de los niños → Buena vista | 40 | Ciudad de los niños | Buena vista | ✅
 [10718919](https://www.openstreetmap.org/relation/10718919) | Minibus 40: Buena vista → Ciudad de los niños | 40 | Buena vista | Ciudad de los niños | ✅
@@ -156,11 +156,12 @@
 [10795881](https://www.openstreetmap.org/relation/10795881) | Trufi 103: Avenida Los Robles → Avenida Panamericana | 103 | Avenida Los Robles | Avenida Panamericana | ✅
 [9219406](https://www.openstreetmap.org/relation/9219406) | TaxiTrufi 104: C. Monseñor O. Arnulfo Romero → 1ro de Mayo | 104 | C. Monseñor O. Arnulfo Romero | 1ro de Mayo | ✅
 [9219407](https://www.openstreetmap.org/relation/9219407) | TaxiTrufi 104: 1ro de Mayo → C. Monseñor O. Arnulfo Romero | 104 | 1ro de Mayo | C. Monseñor O. Arnulfo Romero | ✅
-[4480208](https://www.openstreetmap.org/relation/4480208) | MiniBus 106: El Paso → Cochabamba | 106 | Cochabamba | Cochabamba | ✅
+[4480208](https://www.openstreetmap.org/relation/4480208) | MiniBus 106: El Paso → Terminal de Buses Cochabamba | 106 | El Paso | Terminal de Buses Cochabamba | ✅
 [6714096](https://www.openstreetmap.org/relation/6714096) | MiniBus 106: Cochabamba → El Paso | 106 | Cochabamba | El Paso | ✅
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107 : C. Rafael Bustillo-Norte → Maica Quenamari | 107 | C. Rafael Bustillo-Norte | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | trufi 107 Maica Quenamari → Calle Yawar Mallku | 107 | Maica Quenamari | Calle Yawar Mallku | ✅
 [10694841](https://www.openstreetmap.org/relation/10694841) | trufi 107: Maica Quenamari → Calle Rafael Bustillo Norte | 107 | Maica Quenamari | Calle Rafael Bustillo Norte | ✅
+[10813739](https://www.openstreetmap.org/relation/10813739) | Trufi 107: Calle Yawar Mallku → Maica Quenamar | 107 | Calle Yawar Mallku | Maica Quenamari | ✅
 [9144377](https://www.openstreetmap.org/relation/9144377) | Trufi 108: Avenida Benjo Cruz → Calle San Luis | 108 | Avenida Benjo Cruz | Calle San Luis | ✅
 [9144378](https://www.openstreetmap.org/relation/9144378) | Trufi 108 : Calle San Luis → Avenida Benjo Cruz | 108 | Calle San Luis | Avenida Benjo Cruz | ✅
 [10694992](https://www.openstreetmap.org/relation/10694992) | Trufi 108 : Avenida Republica → Calle Pocoata | 108 | Avenida Republica | Calle Pocoata | ✅
@@ -185,7 +186,7 @@
 [10621633](https://www.openstreetmap.org/relation/10621633) | Trufi 111: Sivingani → Avenida. Chacancalle | 111 | Sivingani | Avenida. Chacancalle | ✅
 [10623351](https://www.openstreetmap.org/relation/10623351) | Trufi 111: Villa America→Avenida. Chacancalle | 111 | Villa America | Avenida. Chacancalle | ✅
 [9420548](https://www.openstreetmap.org/relation/9420548) | Trufi 112: C. Volcán Tolima → C. Hugo Almaraz | 112 | C. Volcán Tolima | C. Hugo Almaraz | ✅
-[9436054](https://www.openstreetmap.org/relation/9436054) | Trufi 112: C. Hugo Almaraz → C. Volcán Tolima | 112 | C. Hugo Almaraz | C. Volcán Tolima | ✅
+[9436054](https://www.openstreetmap.org/relation/9436054) | Trufi 112: Calle Hugo Almaraz → Calle Volcán Tolima | 112 | Calle Hugo Almaraz | Calle Volcán Tolima | ✅
 [9392695](https://www.openstreetmap.org/relation/9392695) | Trufi 113: Av. Ecológica → Calicanto | 113 | Av. Ecológica | Calicanto | ✅
 [9392697](https://www.openstreetmap.org/relation/9392697) | Trufi 113: Calicanto → Av. Ecológica | 113 | Calicanto | Av. Ecológica | ✅
 [9426749](https://www.openstreetmap.org/relation/9426749) | Trufi 114: Avenida Uncía → Calle Waldo Ballivián | 114 | Avenida Uncía | Calle Waldo Ballivián | ✅

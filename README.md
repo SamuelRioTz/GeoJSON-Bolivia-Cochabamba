@@ -5,66 +5,66 @@
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
 [4436907](https://www.openstreetmap.org/relation/4436907) | Bus 211R: Plaza Bolivar → Parque Pairumani | 211R | Plaza Bolivar | Parque Pairumani | ✅
-[4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Chaqui Mayu → Sindicato Agrario Taquiña | A | Chaqui Mayu | Sindicato Agrario Taquiña | ✅
-[4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Sindicato Agrario Taquiña → Chaqui Mayu | A | Sindicato Agrario Taquiña | Chaqui Mayu | ✅
-[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Villa Moscú → Aeropuerto → Chavez Rancho | B | Villa Moscú | Chavez Rancho | ✅
-[4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Chavez Rancho → Aeropuerto → Villa Moscú | B | Chavez Rancho | Villa Moscú | ✅
-[4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Eucaliptos Sud → Beato Salomón | C | Eucaliptos Sud | Beato Salomón | ✅
-[4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Beato Salomón → Eucaliptos Sud | C | Beato Salomón | Eucaliptos Sud | ✅
-[4443072](https://www.openstreetmap.org/relation/4443072) | MicroBus D: Alejo Calatayud → Linde | D | Alejo Calatayud | Linde | ✅
-[4443073](https://www.openstreetmap.org/relation/4443073) | Bus D: Linde → Alejo Calatayud | D | Linde | Alejo Calatayud | ✅
-[4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Cuatro Esquinas → Villa Jarkas | E | Cuatro Esquinas | Villa Jarkas | ✅
-[4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Villa Jarkas → Cuatro Esquinas | E | Villa Jarkas | Cuatro Esquinas | ✅
-[5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Asunción Llallagua → San Antonio | G | Asunción Llallagua | San Antonio | ✅
-[5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: San Antonio → Asunción Llallagua | G | San Antonio | Asunción Llallagua | ✅
-[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chacacollo → Salinas | H | Chacacollo | Salinas | ✅
-[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Salinas → Chacacollo | H | Salinas | Chacacollo | ✅
-[9985626](https://www.openstreetmap.org/relation/9985626) | MicroBus I: Antonio → Colquiri Sud San | I | Antonio | Colquiri Sud San | ✅
-[10786894](https://www.openstreetmap.org/relation/10786894) | Microbus I: Avenida Siglo XX → Avenida Pachakutij | I | Avenida Siglo XX | Avenida Pachakutij | ✅
-[9085564](https://www.openstreetmap.org/relation/9085564) | Micro J: C. Gran Chaco → C. Chiquitano | J | C. Gran Chaco | C. Chiquitano | ✅
-[9101527](https://www.openstreetmap.org/relation/9101527) | MicroBus J: C. Chiquitano → C. Gran Chaco | J | C. Chiquitano | C. Gran Chaco | ✅
-[10706216](https://www.openstreetmap.org/relation/10706216) | MicroBus K: Calle Achachairú → Avenida Arquímedes | K | Calle Achachairú | Avenida Arquímedes | ✅
-[10786869](https://www.openstreetmap.org/relation/10786869) | Minibus K: Avenida Arquímedes → Calle Achachairú | K | Avenida Arquímedes | Calle Achachairú | ✅
-[5149360](https://www.openstreetmap.org/relation/5149360) | MicroBus LL: La Concordia → San Gabriel | LL | La Concordia | San Gabriel | ✅
-[5470046](https://www.openstreetmap.org/relation/5470046) | MicroBus LL: San Gabriel → La Concordia | LL | San Gabriel | La Concordia | ✅
-[9321521](https://www.openstreetmap.org/relation/9321521) | Microbus M : Prefectural Fortaleza → Calle Jose Avelino Aramayo | M | Prefectural Fortaleza | Calle Jose Avelino Aramayo | ✅
-[9985684](https://www.openstreetmap.org/relation/9985684) | MicroBus M : Calle Jose Avelino Aramayo → Prefectural Fortaleza | M | Calle Jose Avelino Aramayo | Prefectural Fortaleza | ✅
-[10708849](https://www.openstreetmap.org/relation/10708849) | Microbus N: Calle Severo Fernandez A. → Avenida Eliodoro Villazón | N | Calle Serero Fernandez A. | Avenida Eliodoro Villazón | ✅
-[10709216](https://www.openstreetmap.org/relation/10709216) | Microbus N: Avenida Eliodoro Villazón → Calle Severo Fernandez A. | N | Avenida Eliodoro Villazón | Calle Severo Fernandez A. | ✅
-[10709736](https://www.openstreetmap.org/relation/10709736) | Microbus O: Primavera → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | O | Primavera | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
-[10712108](https://www.openstreetmap.org/relation/10712108) | Parada Microbus O: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Primavera | O | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Primavera | ✅
-[10176999](https://www.openstreetmap.org/relation/10176999) | Micro P: Calle Gran Chaco → Puente Quinamari | P | Calle Gran Chaco | Puente Quinamari | ✅
-[10177244](https://www.openstreetmap.org/relation/10177244) | Micro P: Puente Quinamari -> Calle Gran Chaco | P | Puente Quinamari | Calle Gran Chaco | ✅
-[10443585](https://www.openstreetmap.org/relation/10443585) | Micro P: Calle Gran Chaco → Maica | P | Calle Gran Chaco | Maica | ✅
-[10668749](https://www.openstreetmap.org/relation/10668749) | Micro P: Maica Central → Calle Gran Chaco | P | Maica Central | Calle Gran Chaco | ✅
-[5457263](https://www.openstreetmap.org/relation/5457263) | MicroBus Q: Calvario → Circuito Bolivia | Q | Calvario | Circuito Bolivia | ✅
-[9645302](https://www.openstreetmap.org/relation/9645302) | MicroBus Q: Circuito Bolivia → Calvario | Q | Circuito Bolivia | Calvario | ✅
-[9119233](https://www.openstreetmap.org/relation/9119233) | MicroBus R: Entre Rios → Av. Arquímedes | R | Entre Rios | Av. Arquímedes | ✅
-[9123985](https://www.openstreetmap.org/relation/9123985) | MicroBus R: Av. Arquímedes → Entre Rios | R | Av. Arquímedes | Entre Rios | ✅
-[10668794](https://www.openstreetmap.org/relation/10668794) | Micro S: Calle Mar de Plata → Avenida Blanco Galindo | S | Calle Mar de Plata | Avenida Blanco Galindo | ✅
-[10677513](https://www.openstreetmap.org/relation/10677513) | Microbus S: Avenida Blanco Galindo → Calle Mar del Plata | S | Avenida Blanco Galindo | Calle Mar del Plata | ✅
-[10677554](https://www.openstreetmap.org/relation/10677554) | Microbus T: Calle Nicolás Copérnico → Calle Omasuyus | T | Calle Nicolás Copérnico | Calle Omasuyus | ✅
-[10807446](https://www.openstreetmap.org/relation/10807446) | Microbus T: Calle Omasuyus → Calle Benito Maria de Moxo | T | Calle Omasuyus | Calle Benito Maria de Moxo | ✅
-[9386184](https://www.openstreetmap.org/relation/9386184) | Taxi de ruta fija Taquiña : Cruce Taquiña → Fabrica | Taquiña | Cruce Taquiña | Fabrica | ✅
-[10789860](https://www.openstreetmap.org/relation/10789860) | Trufi Taquiña: Taquiña → Avenida Centenario | Taquiña | Taquiña | Avenida Centenario | ✅
-[10712236](https://www.openstreetmap.org/relation/10712236) | Microbus U: Calle Federico Jimenez → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | U | Calle Federico Jimenez | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
-[10712279](https://www.openstreetmap.org/relation/10712279) | Microbus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Federico Jimenez | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Federico Jimenez | ✅
-[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Avenida Circunvalación → Calle San Pablo | V | Avenida Circunvalación | Calle San Pablo | ✅
-[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle San Pablo → Avenida Circunvalación | V | Avenida Circunvalación | Calle San Pablo | ✅
+[4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Avenida Panamericana → Río Taquiña | A | Avenida Panamericana | Río Taquiña | ✅
+[4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Río Taquiña → Avenida Panamericana | A | Río Taquiña | Avenida Panamericana | ✅
+[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Pasaje F | B | Calle Las Buganvillas | Pasaje F | ✅
+[4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Pasaje F → Calle Las Buganvillas | B | Pasaje F | Calle Las Buganvillas | ✅
+[4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Avenida Pedro de la Gasca → Calle Manuel Carrasco Jimenez | C | Avenida Pedro de la Gasca | Calle Manuel Carrasco Jimenez | ✅
+[4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Calle Manuel Carrasco Jimenez → Avenida Pedro de la Gasca | C | Calle Manuel Carrasco Jimenez | Avenida Pedro de la Gasca | ✅
+[4443072](https://www.openstreetmap.org/relation/4443072) | MicroBus D: Calle Lanza → Avenida Benjo Cruz | D | Calle Lanza | Avenida Benjo Cruz | ✅
+[4443073](https://www.openstreetmap.org/relation/4443073) | MicroBus D: Avenida Benjo Cruz → Calle Lanza | D | Avenida Benjo Cruz | Calle Lanza | ✅
+[4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Avenida Chacancalle → Avenida Circunvalación Beijing | E | Avenida Chacancalle | Avenida Circunvalación Beijing | ✅
+[4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Avenida Circunvalación Beijing → Avenida Chacancalle | E | Avenida Circunvalación Beijing | Avenida Chacancalle | ✅
+[5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Calle Alipio Valencia Vega → Calle Honduras | G | Calle Alipio Valencia Vega | Calle Honduras | ✅
+[5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: Calle Honduras → Calle Alipio Valencia Vega | G | Calle Honduras | Calle Alipio Valencia Vega | ✅
+[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Avenida Chapare → Avenida Río Parapeti | H | Avenida Chapare | Avenida Río Parapeti | ✅
+[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Avenida Río Parapeti → Avenida Chapare | H | Avenida Río Parapeti | Avenida Chapare | ✅
+[9985626](https://www.openstreetmap.org/relation/9985626) | MicroBus I: Avenida Circunvalación Beijing → Calle La Rioja | I | Avenida Circunvalación Beijing | Calle La Rioja | ✅
+[10786894](https://www.openstreetmap.org/relation/10786894) | MicroBus I: Calle La Rioja → Avenida Circunvalación Beijing | I | Calle La Rioja | Avenida Circunvalación Beijing | ✅
+[9085564](https://www.openstreetmap.org/relation/9085564) | MicroBus J: Calle Gran Chaco → Avenida Chiquicollo | J | Calle Gran Chaco | Avenida Chiquicollo | ✅
+[9101527](https://www.openstreetmap.org/relation/9101527) | MicroBus J: Avenida Chiquicollo → Calle Gran Chaco | J | Avenida Chiquicollo | Calle Gran Chaco | ✅
+[10706216](https://www.openstreetmap.org/relation/10706216) | MicroBus K: Avenida del Ruiseñor → Avenida Arquímedes | K | Avenida del Ruiseñor | Avenida Arquímedes | ✅
+[10786869](https://www.openstreetmap.org/relation/10786869) | MicroBus K: Avenida Arquímedes → Avenida del Ruiseñor | K | Avenida Arquímedes | Avenida del Ruiseñor | ✅
+[5149360](https://www.openstreetmap.org/relation/5149360) | MicroBus LL: Avenida Franz Tamayo → Calle Charles Darwin | LL | Avenida Franz Tamayo | Calle Charles Darwin | ✅
+[5470046](https://www.openstreetmap.org/relation/5470046) | MicroBus LL: Calle Charles Darwin → Avenida Franz Tamayo | LL | Calle Charles Darwin | Avenida Franz Tamayo | ✅
+[9321521](https://www.openstreetmap.org/relation/9321521) | MicroBus M: Calle Jose Curtinas → Calle Pozo Petrolero Buena Vista | M | Calle Jose Curtinas | Calle Pozo Petrolero Buena Vista | ✅
+[9985684](https://www.openstreetmap.org/relation/9985684) | MicroBus M: Calle Pozo Petrolero Buena Vista → Calle Jose Curtinas | M | Calle Pozo Petrolero Buena Vista | Calle Jose Curtinas | ✅
+[10708849](https://www.openstreetmap.org/relation/10708849) | MicroBus N: Calle Severo Fernandez A. → Avenida Eliodoro Villazón | N | Calle Serero Fernandez A. | Avenida Eliodoro Villazón | ✅
+[10709216](https://www.openstreetmap.org/relation/10709216) | MicroBus N: Avenida Eliodoro Villazón → Calle Severo Fernandez A. | N | Avenida Eliodoro Villazón | Calle Severo Fernandez A. | ✅
+[10709736](https://www.openstreetmap.org/relation/10709736) | MicroBus O: Sau Sau Loma → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | O | Sau Sau Loma | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
+[10712108](https://www.openstreetmap.org/relation/10712108) | MicroBus O: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Sau Sau Loma | O | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Sau Sau Loma | ✅
+[10176999](https://www.openstreetmap.org/relation/10176999) | MicroBus P: Calle Gran Chaco → Puente Quinamari | P | Calle Gran Chaco | Puente Quinamari | ✅
+[10177244](https://www.openstreetmap.org/relation/10177244) | MicroBus P: Puente Quinamari → Calle Gran Chaco | P | Puente Quinamari | Calle Gran Chaco | ✅
+[10443585](https://www.openstreetmap.org/relation/10443585) | MicroBus P: Calle Gran Chaco → Maica Central | P | Calle Gran Chaco | Maica Central | ✅
+[10668749](https://www.openstreetmap.org/relation/10668749) | MicroBus P: Maica Central → Calle Gran Chaco | P | Maica Central | Calle Gran Chaco | ✅
+[5457263](https://www.openstreetmap.org/relation/5457263) | MicroBus Q: Villa Urkupiña Calvario → Avenida Circuito Bolivia | Q | Villa Urkupiña Calvario | Avenida Circuito Bolivia | ✅
+[9645302](https://www.openstreetmap.org/relation/9645302) | MicroBus Q: Avenida Circuito Bolivia → Villa Urkupiña Calvario | Q | Avenida Circuito Bolivia | Villa Urkupiña Calvario | ✅
+[9119233](https://www.openstreetmap.org/relation/9119233) | MicroBus R: Bello Horizonte → Avenida Arquímedes | R | Bello Horizonte | Avenida Arquímedes | ✅
+[9123985](https://www.openstreetmap.org/relation/9123985) | MicroBus R: Avenida Arquímedes → Bello Horizonte | R | Avenida Arquímedes | Bello Horizonte | ✅
+[10668794](https://www.openstreetmap.org/relation/10668794) | MicroBus S: Calle Mendoza → Avenida Blanco Galindo | S | Calle Mendoza | Avenida Blanco Galindo | ✅
+[10677513](https://www.openstreetmap.org/relation/10677513) | MicroBus S: Avenida Blanco Galindo → Calle Mendoza | S | Avenida Blanco Galindo | Calle Mendoza | ✅
+[10677554](https://www.openstreetmap.org/relation/10677554) | MicroBus T: Villa Coña Coña → Calle Sacaca | T | Villa Coña Coña | Calle Sacaca | ✅
+[10807446](https://www.openstreetmap.org/relation/10807446) | MicroBus T: Calle Sacaca → Villa Coña Coña | T | Calle Sacaca | Villa Coña Coña | ✅
+[9386184](https://www.openstreetmap.org/relation/9386184) | Trufi TAQUIÑA: Cruce Taquiña → Planta Taquiña | Taquiña | Cruce Taquiña | Planta Taquiña | ✅
+[10789860](https://www.openstreetmap.org/relation/10789860) | Trufi TAQUIÑA: Planta Taquiña → Cruce Taquiña | Taquiña | Planta Taquiña | Cruce Taquiña | ✅
+[10712236](https://www.openstreetmap.org/relation/10712236) | MicroBus U: Calle Manuel Virreira → Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | U | Calle Manuel Virreira | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | ✅
+[10712279](https://www.openstreetmap.org/relation/10712279) | MicroBus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Manuel Virreira | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Manuel Virreira | ✅
+[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Río Taquiña → Calle Tómas Gamboa | V | Río Taquiña | Calle Tómas Gamboa | ✅
+[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle Tómas Gamboa → Río Taquiña | V | Calle Tómas Gamboa | Río Taquiña | ✅
 [5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | ✅
 [5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Plaza Bolívar → Barrio Universitario Bajo | W | Plaza Bolívar | Barrio Universitario Bajo | ✅
-[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
+[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Poopó | W | Avenida Blanco Galindo | Calle Poopó | ✅
 [10666996](https://www.openstreetmap.org/relation/10666996) | MicroBus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
-[10705506](https://www.openstreetmap.org/relation/10705506) | Microbus W: Calle Rio Beni → Avenida Blanco Galindo | W | Calle Rio Beni | Avenida Blanco Galindo | ✅
+[10705506](https://www.openstreetmap.org/relation/10705506) | MicroBus W: Calle Poopó → Avenida Blanco Galindo | W | Calle Poopó | Avenida Blanco Galindo | ✅
 [10705539](https://www.openstreetmap.org/relation/10705539) | Parada Microbus W: Avenida Blanco Galindo → Calle Río Beni | W | Avenida Blanco Galindo | Calle Río Beni | ✅
-[10667060](https://www.openstreetmap.org/relation/10667060) | Microbus X: Loma Pampa → Prolongacion d'Orbigny | X | Loma Pampa | Prolongacion d'Orbigny | ✅
-[10667214](https://www.openstreetmap.org/relation/10667214) | Microbus X: Prolongacion d'Orbigny → Loma Pampa | X | Prolongacion d'Orbigny | a | ✅
-[10667322](https://www.openstreetmap.org/relation/10667322) | Microbus X: Mineros San Juan → Avenida d`Orbigny | X | Mineros San Juan | a | ✅
-[10667416](https://www.openstreetmap.org/relation/10667416) | MicroBus X: Avenida d`Orbigny → Mineros San Juan | X | Avenida d`Orbigny | Mineros San Juan | ✅
-[9383241](https://www.openstreetmap.org/relation/9383241) | MicroBus Y: Calle Rev.P. Raymundo Hernan → Cochabamba | Y | Calle Rev.P. Raymundo Hernan | Cochabamba | ✅
-[10667926](https://www.openstreetmap.org/relation/10667926) | MicroBus Y: Cochabamba → Calle Rev. P. Raymundo Hernan | Y | Cochabamba | Calle Rev. P. Raymundo Hernan | ✅
-[9373042](https://www.openstreetmap.org/relation/9373042) | MiniBus Z: Avenida Ecológica → Calle Miguel Coca | Z | Avenida Ecológica | Calle Miguel Coca | ✅
-[9373675](https://www.openstreetmap.org/relation/9373675) | MiniBus Z: Calle Miguel Coca → Avenida Ecológica | Z | Calle Miguel Coca | Avenida Ecológica | ✅
+[10667060](https://www.openstreetmap.org/relation/10667060) | MicroBus X: Loma Pampa → Avenida Sexta | X | Loma Pampa | Avenida Sexta | ✅
+[10667214](https://www.openstreetmap.org/relation/10667214) | MicroBus X: Avenida Sexta → Loma Pampa | X | Avenida Sexta | Loma Pampa | ✅
+[10667322](https://www.openstreetmap.org/relation/10667322) | MicroBus X: Mineros San Juan → Avenida Sexta | X | Mineros San Juan | Avenida Sexta | ✅
+[10667416](https://www.openstreetmap.org/relation/10667416) | MicroBus X: Avenida Sexta → Mineros San Juan | X | Avenida Sexta | Mineros San Juan | ✅
+[9383241](https://www.openstreetmap.org/relation/9383241) | MicroBus Y: Avenida Melchor Pérez de Olguín → Achumani | Y | Avenida Melchor Pérez de Olguín | Achumani | ✅
+[10667926](https://www.openstreetmap.org/relation/10667926) | MicroBus Y: Achumani → Avenida Melchor Pérez de Olguín | Y | Achumani | Avenida Melchor Pérez de Olguín | ✅
+[9373042](https://www.openstreetmap.org/relation/9373042) | MiniBus Z: Avenida Ecológica → Calle Diego Veizaga | Z | Avenida Ecológica | Calle Diego Veizaga | ✅
+[9373675](https://www.openstreetmap.org/relation/9373675) | MiniBus Z: Calle Diego Veizaga → Avenida Ecológica | Z | Calle Diego Veizaga | Avenida Ecológica | ✅
 [9124161](https://www.openstreetmap.org/relation/9124161) | MiniBus 1: Avenida Humberto Asin Rivero → Avenida Ecológica | 1 | Avenida Humberto Asin | Avenida Ecológica | ✅
 [9124195](https://www.openstreetmap.org/relation/9124195) | MiniBus 1: Avenida Ecológica → Avenida Humberto Asin Rivero | 1 | Avenida Ecológica | Avenida Humberto Asin Rivero | ✅
 [9397731](https://www.openstreetmap.org/relation/9397731) | Trufi 01: Calle Calamarca → Avenida Los Angeles | 01 | Calle Calamarca | Avenida Los Angeles | ✅

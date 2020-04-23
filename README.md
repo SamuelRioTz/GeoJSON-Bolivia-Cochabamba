@@ -1,5 +1,5 @@
 ### Count
-**Total**: 294  **Correct**: 294  **With error**: 0
+**Total**: 297  **Correct**: 293  **With error**: 4
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -24,8 +24,8 @@
 [9101527](https://www.openstreetmap.org/relation/9101527) | MicroBus J: Avenida Chiquicollo → Calle Gran Chaco | J | Avenida Chiquicollo | Calle Gran Chaco | ✅
 [10706216](https://www.openstreetmap.org/relation/10706216) | MicroBus K: Avenida del Ruiseñor → Avenida Arquímedes | K | Avenida del Ruiseñor | Avenida Arquímedes | ✅
 [10786869](https://www.openstreetmap.org/relation/10786869) | MicroBus K: Avenida Arquímedes → Avenida del Ruiseñor | K | Avenida Arquímedes | Avenida del Ruiseñor | ✅
-[5149360](https://www.openstreetmap.org/relation/5149360) | MicroBus LL: Avenida Franz Tamayo → Calle Charles Darwin | LL | Avenida Franz Tamayo | Calle Charles Darwin | ✅
-[5470046](https://www.openstreetmap.org/relation/5470046) | MicroBus LL: Calle Charles Darwin → Avenida Franz Tamayo | LL | Calle Charles Darwin | Avenida Franz Tamayo | ✅
+[5149360](https://www.openstreetmap.org/relation/5149360) | MicroBus LL: Avenida Franz Tamayo → Calle Charles Darwin | LL | Avenida Franz Tamayo | Calle Charles Darwin | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5149360);out%20geom;%0Away(435220615);out%20geom;out%20geom;%0Away(345732867);out%20geom;&R)
+[5470046](https://www.openstreetmap.org/relation/5470046) | MicroBus LL: Calle Charles Darwin → Avenida Franz Tamayo | LL | Calle Charles Darwin | Avenida Franz Tamayo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(5470046);out%20geom;%0Away(409632423);out%20geom;out%20geom;%0Away(368047987);out%20geom;&R)
 [9321521](https://www.openstreetmap.org/relation/9321521) | MicroBus M: Calle Jose Curtinas → Calle Pozo Petrolero Buena Vista | M | Calle Jose Curtinas | Calle Pozo Petrolero Buena Vista | ✅
 [9985684](https://www.openstreetmap.org/relation/9985684) | MicroBus M: Calle Pozo Petrolero Buena Vista → Calle Jose Curtinas | M | Calle Pozo Petrolero Buena Vista | Calle Jose Curtinas | ✅
 [10708849](https://www.openstreetmap.org/relation/10708849) | MicroBus N: Calle Severo Fernandez A. → Avenida Eliodoro Villazón | N | Calle Serero Fernandez A. | Avenida Eliodoro Villazón | ✅
@@ -120,8 +120,8 @@
 [10716534](https://www.openstreetmap.org/relation/10716534) | MiniBus 36: Calle Lisandro Quiroga → Calle T'ikallajta | 36 | Calle Lisandro Quiroga | Calle T'ikallajta | ✅
 [10717486](https://www.openstreetmap.org/relation/10717486) | MiniBus 40: Ciudad del niño → Buena Vista | 40 | Ciudad del niño | Buena Vista | ✅
 [10718919](https://www.openstreetmap.org/relation/10718919) | MiniBus 40: Buena Vista → Ciudad del niño | 40 | Buena Vista | Ciudad del niño | ✅
-[10623446](https://www.openstreetmap.org/relation/10623446) | MiniBus 43: OTB 27 de mayo → Avenida Humberto Asín Rivero | 43 | OTB 27 de mayo | Avenida Humberto Asín Rivero | ✅
-[10768014](https://www.openstreetmap.org/relation/10768014) | MiniBus 43: Avenida Humberto Asín Rivero → OTB 27 de mayo | 43 | Avenida Humberto Asín Rivero | OTB 27 de mayo | ✅
+[10623446](https://www.openstreetmap.org/relation/10623446) | MiniBus 43: OTB 27 de mayo → Avenida Humberto Asín Rivero | 43 | OTB 27 de Mayo | Avenida Humberto Asín Rivero | ✅
+[10768014](https://www.openstreetmap.org/relation/10768014) | MiniBus 43: Avenida Humberto Asín Rivero → OTB 27 de mayo | 43 | Avenida Humberto Asín Rivero | OTB 27 de Mayo | ✅
 [9400927](https://www.openstreetmap.org/relation/9400927) | MiniBus 45: Calle Serranía de Caíza → Torrentera Arocagua Mayu | 45 | Calle Serranía de Caíza | Torrentera Arocagua Mayu | ✅
 [10718946](https://www.openstreetmap.org/relation/10718946) | MiniBus 45: Torrentera Arocagua Mayu → Calle Serranía de Caíza | 45 | Torrentera Arocagua Mayu | Calle Serranía de Caíza | ✅
 [10623700](https://www.openstreetmap.org/relation/10623700) | MiniBus 46: Calle Antolín Salinas → Santo Domingo | 46 | Calle Antolín Salinas | Santo Domingo | ✅
@@ -135,9 +135,9 @@
 [10630984](https://www.openstreetmap.org/relation/10630984) | MiniBus 51: Calle Parinacota → Villa San Alfonso | 51 | Calle Parinacota | Villa San Alfonso | ✅
 [10631287](https://www.openstreetmap.org/relation/10631287) | MiniBus 51: Avenida Autonomía → Villa San Alfonso | 51 | Avenida Autonomía | Villa San Alfonso | ✅
 [10719010](https://www.openstreetmap.org/relation/10719010) | MiniBus 52: Arrumani → Arrumani | 52 | Arrumani | Arrumani | ✅
-[9196557](https://www.openstreetmap.org/relation/9196557) | Trufi 101: Río Taquiña → Avenida Río Caine | 101 | Río Taquiña | Avenida Río Caine | ✅
+[9196557](https://www.openstreetmap.org/relation/9196557) | TaxiTrufi 101: Río Taquiña → Avenida Río Caine | 101 | Río Taquiña | Avenida Río Caine | ✅
 [9196558](https://www.openstreetmap.org/relation/9196558) | Trufi 101: Avenida Río Caine → Río Taquiña | 101 | Avenida Río Caine | Río Taquiña | ✅
-[10692537](https://www.openstreetmap.org/relation/10692537) | Trufi 101: Río Taquiña → Avenida Cuenca Madre de Dios | 101 | Río Taquiña | Avenida Cuenca Madre de Dios | ✅
+[10692537](https://www.openstreetmap.org/relation/10692537) | TaxiTrufi 101: Río Taquiña → Avenida Cuenca Madre de Dios | 101 | Río Taquiña | Avenida Cuenca Madre de Dios | ✅
 [10692554](https://www.openstreetmap.org/relation/10692554) | Trufi 101: Avenida Cuenca Madre de Dios → Río Taquiña | 101 | Avenida Cuenca Madre de Dios | Río Taquiña | ✅
 [9136633](https://www.openstreetmap.org/relation/9136633) | Trufi 102: Calle María Luisa Pacheco → Tamborada B | 102 | Calle María Luisa Pacheco | Tamborada B | ✅
 [10692726](https://www.openstreetmap.org/relation/10692726) | Trufi 102: Tamborada B → Calle María Luisa Pacheco | 102 | Tamborada B | Calle María Luisa Pacheco | ✅
@@ -149,8 +149,8 @@
 [10795881](https://www.openstreetmap.org/relation/10795881) | Trufi 103: Calle Sófocles → Avenida Panamericana | 103 | Calle Sófocles | Avenida Panamericana | ✅
 [9219406](https://www.openstreetmap.org/relation/9219406) | Trufi 104: Calle Monseñor O. Arnulfo Romero → Calle Pozo de Gas Boquerón | 104 | Calle Monseñor O. Arnulfo Romero | Calle Pozo de Gas Boquerón | ✅
 [9219407](https://www.openstreetmap.org/relation/9219407) | Trufi 104: Calle Pozo de Gas Boquerón → Calle Monseñor O. Arnulfo Romero | 104 | Calle Pozo de Gas Boquerón | Calle Monseñor O. Arnulfo Romero | ✅
-[4480208](https://www.openstreetmap.org/relation/4480208) | Trufi 106: Plaza Principal El Paso → Avenida Ayacucho | 106 | Plaza Principal El Paso | Avenida Ayacucho | ✅
-[6714096](https://www.openstreetmap.org/relation/6714096) | Trufi 106: Avenida Ayacucho → Plaza Principal El Paso | 106 | Avenida Ayacucho | Plaza Principal El Paso | ✅
+[4480208](https://www.openstreetmap.org/relation/4480208) | TaxiTrufi 106: Plaza Principal El Paso → Avenida Ayacucho | 106 | Plaza Principal El Paso | Avenida Ayacucho | ✅
+[6714096](https://www.openstreetmap.org/relation/6714096) | TaxiTrufi 106: Avenida Ayacucho → Plaza Principal El Paso | 106 | Avenida Ayacucho | Plaza Principal El Paso | ✅
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107: Calle Yanacuna → Maica Quenamari | 107 | Calle Yanacuna | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | Trufi 107: Maica Sud → Calle Lalliy Pacha | 107 | Maica Sud | Calle Lalliy Pacha | ✅
 [10694841](https://www.openstreetmap.org/relation/10694841) | Trufi 107: Maica Quenamari → Calle Yanacuna | 107 | Maica Quenamari | Calle Yanacuna | ✅
@@ -195,7 +195,7 @@
 [9430924](https://www.openstreetmap.org/relation/9430924) | Trufi 119: Villa Taquiña → Loma Pampa | 119 | Villa Taquiña | Loma Pampa | ✅
 [10719025](https://www.openstreetmap.org/relation/10719025) | Trufi 120: Univalle entrada → Calle Tupac Katari | 120 | Univalle entrada | Calle Tupac Katari | ✅
 [10719035](https://www.openstreetmap.org/relation/10719035) | Trufi 120: Calle Tupac Katari → Univalle entrada | 120 | Calle Tupac Katari | Univalle entrada | ✅
-[10719095](https://www.openstreetmap.org/relation/10719095) | Trufi 120: Calle Gualberto Villaroel → Calle Tupac Katari | 120 | Calle Gualberto Villaroel | Calle Tupac Katari | ✅
+[10719095](https://www.openstreetmap.org/relation/10719095) | TaxiTrufi 120: Calle Gualberto Villaroel → Calle Tupac Katari | 120 | Calle Gualberto Villaroel | Calle Tupac Katari | ✅
 [10719128](https://www.openstreetmap.org/relation/10719128) | Trufi 120: Calle Tupac Katari → Calle Gualberto Villaroel | 120 | Calle Tupac Katari | Calle Gualberto Villaroel | ✅
 [9312059](https://www.openstreetmap.org/relation/9312059) | Trufi 121: Calle Juan Aldon → Calle Sora Sora | 121 | Calle Juan Aldon | Calle Sora Sora | ✅
 [10768603](https://www.openstreetmap.org/relation/10768603) | Trufi 121: Calle Sora Sora → Calle Juan Aldon | 121 | Calle Sora Sora | Calle Juan Aldon | ✅
@@ -228,6 +228,7 @@
 [10721128](https://www.openstreetmap.org/relation/10721128) | Trufi 138: Calle Ivan Bluske → Calle Vitchi | 138 | Calle Ivan Bluske | Calle Vitchi | ✅
 [10721298](https://www.openstreetmap.org/relation/10721298) | Trufi 138: Calle Vitichi → Calle Ivan Bluske | 138 | Calle Vitichi | Calle Ivan Bluske | ✅
 [10721776](https://www.openstreetmap.org/relation/10721776) | Trufi 150: Univalle entrada → Avenida República | 150 | Univalle entrada | Avenida República | ✅
+[11015397](https://www.openstreetmap.org/relation/11015397) | Trufi 150: Avenida República → Univalle entrada | 150 | Avenida República | Univalle entrada | ✅
 [9436031](https://www.openstreetmap.org/relation/9436031) | MiniBus 160: Rocas Blancas → Calle T. Achu | 160 | Rocas Blancas | Calle T. Achu | ✅
 [9436032](https://www.openstreetmap.org/relation/9436032) | MiniBus 160: Calle T. Achu → Rocas Blancas | 160 | Calle T. Achu | Rocas Blancas | ✅
 [9380122](https://www.openstreetmap.org/relation/9380122) | MicroBus 200: Calle Litoral → Avenida Blanco Galindo | 200 | Calle Litoral | Avenida Blanco Galindo | ✅
@@ -247,6 +248,7 @@
 [10414549](https://www.openstreetmap.org/relation/10414549) | MiniBus 206: Avenida Blanco Galindo → Calle Litoral | 206 | Avenida Blanco Galindo | Calle Litoral | ✅
 [10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: Calle Litoral → Avenida Blanco Galindo | 206 | Calle Litoral | Avenida Blanco Galindo | ✅
 [10414461](https://www.openstreetmap.org/relation/10414461) | MiniBus 207: Calle 10 → Avenida Gualberto Villarroel | 207 | Calle 10 | Avenida Gualberto Villarroel | ✅
+[11015473](https://www.openstreetmap.org/relation/11015473) | MiniBus 207: Avenida Gualberto Villarroel → Calle 10 | 207 | Avenida Gualberto Villarroel | Calle 10 | ✅
 [10724411](https://www.openstreetmap.org/relation/10724411) | MiniBus 208: Avenida Blanco Galindo → Calle Ignacio Warnes | 208 | Avenida Blanco Galindo | Calle Ignacio Warnes | ✅
 [10724434](https://www.openstreetmap.org/relation/10724434) | MiniBus 208: Calle Ignacio Warnes → Avenida Blanco Galindo | 208 | Calle Ignacio Warnes | Avenida Blanco Galindo | ✅
 [10413337](https://www.openstreetmap.org/relation/10413337) | MiniBus 209: Calle Héroes de Boquerón → Avenida Blanco Galindo | 209 | Calle Héroes de Boquerón | Avenida Blanco Galindo | ✅
@@ -256,6 +258,7 @@
 [4436907](https://www.openstreetmap.org/relation/4436907) | MiniBus 211: Calle C. Serruto → Parque Ecoturístico Pairumani | 211 | Calle C. Serruto | Parque Ecoturístico Pairumani | ✅
 [10411266](https://www.openstreetmap.org/relation/10411266) | MiniBus 211: Calle Achachairú → Avenida Blanco Galindo | 211 | Calle Achachairú | Avenida Blanco Galindo | ✅
 [10413052](https://www.openstreetmap.org/relation/10413052) | MiniBus 211: Avenida Blanco Galindo → Calle Achachairú | 211 | Avenida Blanco Galindo | Calle Achachairú | ✅
+[11015478](https://www.openstreetmap.org/relation/11015478) | MiniBus 211: Parque Ecoturístico Pairumani → Calle C. Serruto | 211 | Parque Ecoturístico Pairumani | Calle C. Serruto | ✅
 [9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Calle Acre → Molino Blanco | 212 | Calle Acre | Molino Blanco | ✅
 [9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Molino Blanco → Calle Acre | 212 | Molino Blanco | Calle Acre | ✅
 [10411209](https://www.openstreetmap.org/relation/10411209) | MiniBus 212: Calle La Cascada → Río Wara Wara | 212 | Calle La Cascada | Río Wara Wara | ✅
@@ -271,7 +274,7 @@
 [9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Nicolás Maldonado → Calle Manuel P. Laredo | 233 | Calle Nicolás Maldonado | Calle Manuel P. Laredo | ✅
 [9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Nicolás Maldonado | 233 | Calle Manuel P. Laredo | Calle Nicolás Maldonado | ✅
 [9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Calle Trojes → Avenida Eliodoro Villazón | 240 | Calle Trojes | Avenida Eliodoro Villazón | ✅
-[9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Eliodoro Villazón → Calle Trojes | 240 | Avenida Eliodoro Villazón | Calle Trojes | ✅
+[9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Eliodoro Villazón → Calle Trojes | 240 | Avenida Eliodoro Villazón | Calle Trojes | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9377676);out%20geom;%0Away(388619958);out%20geom;out%20geom;%0Away(388619958);out%20geom;&R)
 [10722104](https://www.openstreetmap.org/relation/10722104) | MiniBus 241: Avenida Eliodoro Villazón → Avenida Pedro deToledo | 241 | Avenida Eliodoro Villazón | Avenida Pedro deToledo | ✅
 [10722148](https://www.openstreetmap.org/relation/10722148) | MiniBus 241: Avenida Pedro deToledo → Avenida Eliodoro Villazón | 241 | Avenida Pedro deToledo | Avenida Eliodoro Villazón | ✅
 [10742692](https://www.openstreetmap.org/relation/10742692) | MiniBus 242: Avenida Eliodoro Villazón → Calle Trojes | 242 | Avenida Eliodoro Villazón | Calle Trojes | ✅
@@ -282,7 +285,7 @@
 [10788739](https://www.openstreetmap.org/relation/10788739) | MiniBus 245: Avenida Blanco Galindo → Calle Litoral | 245 | Avenida Blanco Galindo | Calle Litoral | ✅
 [9377826](https://www.openstreetmap.org/relation/9377826) | MicroBus 250: Avenida Blanco Galindo → Avenida Mártires de la Democracia | 250 | Avenida Blanco Galindo | Avenida Mártires de la Democracia | ✅
 [9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Avenida Mártires de la Democracia → Avenida Blanco Galindo | 250 | Avenida Mártires de la Democracia | Avenida Blanco Galindo | ✅
-[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | ✅
+[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9380021);out%20geom;%0Away(775705375);out%20geom;out%20geom;%0Away(247560965);out%20geom;&R)
 [9380023](https://www.openstreetmap.org/relation/9380023) | Trufi 252: Avenida Blanco Galindo → Calle Litoral | 252 | Avenida Blanco Galindo | Calle Litoral | ✅
 [4205962](https://www.openstreetmap.org/relation/4205962) | MiniBus 260: Avenida Blanco Galindo → Calle Litoral | 260 | Avenida Blanco Galindo | Calle Litoral | ✅
 [4237142](https://www.openstreetmap.org/relation/4237142) | MiniBus 260: Calle Litoral → Avenida Blanco Galindo | 260 | Calle Litoral | Avenida Blanco Galindo | ✅

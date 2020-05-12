@@ -1,11 +1,11 @@
 const osmToGeojson = require('osm-public-transport-export')
 const fs = require('fs')
 osmToGeojson({
-    bounds: {
-        south: -17.57727,
-        west: -66.376555,
-        north: -17.276198,
-        east: -65.96397,
+    "bounds": {
+        "north": -18.746312,
+        "west": 47.410204,
+        "south": -19.020805,
+        "east": 47.609331
     },
     outputDir: __dirname + '/out',
     mapProperties: (tags) => ({
@@ -18,11 +18,11 @@ osmToGeojson({
 })
     .then(data => {
         let route_with_error = 0
-        let out_file = `### Bolivia-Cochabamba
+        let out_file = `### Antananarivo
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |`
         data.log.forEach(element => {
-            let tags=element.tags
+            let tags = element.tags
             if (element.error) route_with_error++
             let state = element.error ? element.error.extractor_error ? `[${element.error.extractor_error}](${element.error.uri})` : element.error : "✅"
             out_file += `\n[${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${tags.name} | ${tags.ref} | ${tags.from} | ${tags.to} | ${state}`

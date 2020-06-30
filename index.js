@@ -2,10 +2,10 @@ const osmToGeojson = require('osm-public-transport-export')
 const fs = require('fs')
 osmToGeojson({
     bounds: {
-        south: -17.57727,
-        west: -66.376555,
-        north: -17.276198,
-        east: -65.96397,
+        south: -1.378425,
+        west: 29.545334,
+        north: 4.335682,
+        east: 34.763840,
     },
     outputDir: __dirname + '/out',
     mapProperties: (tags) => ({
@@ -22,7 +22,7 @@ osmToGeojson({
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |`
         data.log.forEach(element => {
-            let tags=element.tags
+            let tags = element.tags
             if (element.error) route_with_error++
             let state = element.error ? element.error.extractor_error ? `[${element.error.extractor_error}](${element.error.uri})` : element.error : "✅"
             out_file += `\n[${element.id}](https://www.openstreetmap.org/relation/${element.id}) | ${tags.name} | ${tags.ref} | ${tags.from} | ${tags.to} | ${state}`
@@ -35,3 +35,5 @@ ${out_file}`
         fs.writeFileSync("README.md", out_file)
     })
     .catch(error => console.error(error))
+    // 4.335682, 34.763840
+    // -1.378425, 29.545334

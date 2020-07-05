@@ -1,5 +1,5 @@
 ### Count
-**Total**: 437  **Correct**: 435  **With error**: 2
+**Total**: 437  **Correct**: 437  **With error**: 0
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -392,7 +392,7 @@
 [11142249](https://www.openstreetmap.org/relation/11142249) | Minibus 244: Calle Bolívar → Calle Pocona | 244 | Calle Bolívar | Calle Pocona | ✅
 [10788634](https://www.openstreetmap.org/relation/10788634) | MiniBus 245: Calle Litoral → Avenida Blanco Galindo | 245 | Calle Litoral | Avenida Blanco Galindo | ✅
 [10788739](https://www.openstreetmap.org/relation/10788739) | MiniBus 245: Avenida Blanco Galindo → Calle Litoral | 245 | Avenida Blanco Galindo | Calle Litoral | ✅
-[11121479](https://www.openstreetmap.org/relation/11121479) | Minibus 245: Calle Litoral → Viloma | 245 | Calle Litoral | Viloma | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11121479);out%20geom;%0Away(568602294);out%20geom;out%20geom;%0Away(806258681);out%20geom;&R)
+[11121479](https://www.openstreetmap.org/relation/11121479) | Minibus 245: Calle Litoral → Viloma | 245 | Calle Litoral | Viloma | ✅
 [11123095](https://www.openstreetmap.org/relation/11123095) | Minibus 245: Viloma → Calle Litoral | 245 | Viloma | Calle Litoral | ✅
 [11123109](https://www.openstreetmap.org/relation/11123109) | Minibus 245: Calle Litoral → Mallco Chapi | 245 | Calle Litoral | Mallco Chapi | ✅
 [11123178](https://www.openstreetmap.org/relation/11123178) | Minibus 245: Mallco Chapi → Calle Litoral | 245 | Mallco Chapi | Calle Litoral | ✅
@@ -416,7 +416,7 @@
 [11126026](https://www.openstreetmap.org/relation/11126026) | Minibus 260: Calle Litoral → Mallco Rancho | 260 | Calle Litoral | Mallco Rancho | ✅
 [11127257](https://www.openstreetmap.org/relation/11127257) | Minibus 260: Mallco Rancho → Calle Litoral | 260 | Mallco Rancho | Calle Litoral | ✅
 [11127304](https://www.openstreetmap.org/relation/11127304) | Minibus 260: Calle Litoral → Mallco Chapi | 260 | Calle Litoral | Mallco Chapi | ✅
-[11127350](https://www.openstreetmap.org/relation/11127350) | Minibus 260: Mallco Chapi → Calle Litoral | 260 | Mallco Chapi | Calle Litoral | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11127350);out%20geom;%0Away(160228468);out%20geom;out%20geom;%0Away(672590425);out%20geom;&R)
+[11127350](https://www.openstreetmap.org/relation/11127350) | Minibus 260: Mallco Chapi → Calle Litoral | 260 | Mallco Chapi | Calle Litoral | ✅
 [11127379](https://www.openstreetmap.org/relation/11127379) | Minibus 260: Calle Litoral → Hamiraya | 260 | Calle Litoral | Hamiraya | ✅
 [11127392](https://www.openstreetmap.org/relation/11127392) | Minibus 260: Hamiraya → Calle Litoral | 260 | Hamiraya | Calle Litoral | ✅
 [11127395](https://www.openstreetmap.org/relation/11127395) | Minibus 260: Calle Litoral → Viloma Cala Cala | 260 | Calle Litoral | Viloma Cala Cala | ✅

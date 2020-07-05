@@ -1,12 +1,12 @@
 ### Count
-**Total**: 437  **Correct**: 409  **With error**: 28
+**Total**: 437  **Correct**: 430  **With error**: 7
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
 [4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Avenida Panamericana → Río Taquiña | A | Avenida Panamericana | Río Taquiña | ✅
 [4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Río Taquiña → Avenida Panamericana | A | Río Taquiña | Avenida Panamericana | ✅
-[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Aeropuerto → Pasaje F | B | Calle Las Buganvillas | Pasaje F | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4247869);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Aeropuerto → Pasaje F | B | Calle Las Buganvillas | Pasaje F | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4247869);out%20geom;%0Away(808619779);out%20geom;out%20geom;%0Away(808619779);out%20geom;&R)
 [4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Pasaje F → Aeropuerto → Calle Las Buganvillas | B | Pasaje F | Calle Las Buganvillas | ✅
 [4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Avenida Pedro de la Gasca → Calle Manuel Carrasco Jimenez | C | Avenida Pedro de la Gasca | Calle Manuel Carrasco Jimenez | ✅
 [4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Calle Manuel Carrasco Jimenez → Avenida Pedro de la Gasca | C | Calle Manuel Carrasco Jimenez | Avenida Pedro de la Gasca | ✅
@@ -170,7 +170,7 @@
 [4480208](https://www.openstreetmap.org/relation/4480208) | TaxiTrufi 106: Plaza Principal El Paso → Avenida Ayacucho | 106 | Plaza Principal El Paso | Avenida Ayacucho | ✅
 [6714096](https://www.openstreetmap.org/relation/6714096) | TaxiTrufi 106: Avenida Ayacucho → Plaza Principal El Paso | 106 | Avenida Ayacucho | Plaza Principal El Paso | ✅
 [11096956](https://www.openstreetmap.org/relation/11096956) | Trufi 106: Avenida Circuito Bolivia → Calle Pablo Jaimes | 106 | Avenida Circuito Bolivia | Calle Pablo Jaimes | ✅
-[11096957](https://www.openstreetmap.org/relation/11096957) | Trufi 106: Calle Pablo Jaimes → Avenida Circuito Bolivia | 106 | Calle Pablo Jaimes | Avenida Circuito Bolivia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11096957);out%20geom;%0Away(778607120);out%20geom;out%20geom;%0Away(803452896);out%20geom;&R)
+[11096957](https://www.openstreetmap.org/relation/11096957) | Trufi 106: Calle Pablo Jaimes → Avenida Circuito Bolivia | 106 | Calle Pablo Jaimes | Avenida Circuito Bolivia | ✅
 [9219433](https://www.openstreetmap.org/relation/9219433) | Trufi 107: Calle Yanacuna → Maica Quenamari | 107 | Calle Yanacuna | Maica Quenamari | ✅
 [10693249](https://www.openstreetmap.org/relation/10693249) | Trufi 107: Maica Sud → Calle Lalliy Pacha | 107 | Maica Sud | Calle Lalliy Pacha | ✅
 [10694841](https://www.openstreetmap.org/relation/10694841) | Trufi 107: Maica Quenamari → Calle Yanacuna | 107 | Maica Quenamari | Calle Yanacuna | ✅
@@ -294,14 +294,14 @@
 [11110800](https://www.openstreetmap.org/relation/11110800) | Minibus 205: Calle Litoral → Villa Urkupiña Calvario | 205 | Calle Litoral | Villa Urkupiña Calvario | ✅
 [11110845](https://www.openstreetmap.org/relation/11110845) | Minibus 205: Villa Urkupiña Calvario → Calle Litoral | 205 | Villa Urkupiña Calvario | Calle Litoral | ✅
 [10414549](https://www.openstreetmap.org/relation/10414549) | MiniBus 206: Avenida Blanco Galindo → Calle Litoral | 206 | Avenida Blanco Galindo | Calle Litoral | ✅
-[10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: Calle Litoral → Avenida Blanco Galindo | 206 | Calle Litoral | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10414582);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
-[11111001](https://www.openstreetmap.org/relation/11111001) | Minibus 206: Calle Litoral → Villa Urkupiña Calvario | 206 | Calle Litoral | Villa Urkupiña Calvario | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11111001);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[10414582](https://www.openstreetmap.org/relation/10414582) | MiniBus 206: Calle Litoral → Avenida Blanco Galindo | 206 | Calle Litoral | Avenida Blanco Galindo | ✅
+[11111001](https://www.openstreetmap.org/relation/11111001) | Minibus 206: Calle Litoral → Villa Urkupiña Calvario | 206 | Calle Litoral | Villa Urkupiña Calvario | ✅
 [11111525](https://www.openstreetmap.org/relation/11111525) | Minibus 206: Villa Urkupiña Calvario → Calle Litoral | 206 | Villa Urkupiña Calvario | Calle Litoral | ✅
-[11111544](https://www.openstreetmap.org/relation/11111544) | Minibus 206: Calle Litoral → Avenida Suarez Miranda | 206 | Calle Litoral | Avenida Suarez Miranda | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11111544);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[11111544](https://www.openstreetmap.org/relation/11111544) | Minibus 206: Calle Litoral → Avenida Suarez Miranda | 206 | Calle Litoral | Avenida Suarez Miranda | ✅
 [11111548](https://www.openstreetmap.org/relation/11111548) | Minibus 206: Avenida Suarez Miranda → Calle Litoral | 206 | Avenida Suarez Miranda | Calle Litoral | ✅
-[11111558](https://www.openstreetmap.org/relation/11111558) | Minibus 206: Calle Litoral → Calle Antofagasta | 206 | Calle Litoral | Calle Antofagasta | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11111558);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[11111558](https://www.openstreetmap.org/relation/11111558) | Minibus 206: Calle Litoral → Calle Antofagasta | 206 | Calle Litoral | Calle Antofagasta | ✅
 [11111618](https://www.openstreetmap.org/relation/11111618) | Minibus 206: Calle Antofagasta → Calle Litoral | 206 | Calle Antofagasta | Calle Litoral | ✅
-[11111697](https://www.openstreetmap.org/relation/11111697) | Minibus 206: Calle Litoral → Entre Rios | 206 | Calle Litoral | Entre Rios | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11111697);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[11111697](https://www.openstreetmap.org/relation/11111697) | Minibus 206: Calle Litoral → Entre Rios | 206 | Calle Litoral | Entre Rios | ✅
 [11111712](https://www.openstreetmap.org/relation/11111712) | Minibus 206: Entre Rios → Calle Litoral | 206 | Entre Rios | Calle Litoral | ✅
 [10414461](https://www.openstreetmap.org/relation/10414461) | MiniBus 207: Calle 10 → Avenida Gualberto Villarroel | 207 | Calle 10 | Avenida Gualberto Villarroel | ✅
 [11015473](https://www.openstreetmap.org/relation/11015473) | MiniBus 207: Avenida Gualberto Villarroel → Calle 10 | 207 | Avenida Gualberto Villarroel | Calle 10 | ✅
@@ -329,8 +329,8 @@
 [10413473](https://www.openstreetmap.org/relation/10413473) | MiniBus 209: Avenida Blanco Galindo → Calle Héroes de Boquerón | 209 | Avenida Blanco Galindo | Calle Héroes de Boquerón | ✅
 [10413127](https://www.openstreetmap.org/relation/10413127) | MiniBus 210: Calle República de Nicaragua → Avenida Blanco Galindo | 210 | Calle República de Nicaragua | Avenida Blanco Galindo | ✅
 [10413255](https://www.openstreetmap.org/relation/10413255) | MiniBus 210: Avenida Blanco Galindo → Calle República de Nicaragua | 210 | Avenida Blanco Galindo | Calle República de Nicaragua | ✅
-[11116951](https://www.openstreetmap.org/relation/11116951) | Minibus 210: Calle República de Nicaragua → El Paso | 210 | Calle República de Nicaragua | El Paso | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11116951);out%20geom;%0Away(805834392);out%20geom;out%20geom;%0Away(805834391);out%20geom;&R)
-[11118440](https://www.openstreetmap.org/relation/11118440) | Minibus 210: El Paso → Calle República de Nicaragua | 210 | El Paso | Calle República de Nicaragua | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11118440);out%20geom;%0Away(805834392);out%20geom;out%20geom;%0Away(805834391);out%20geom;&R)
+[11116951](https://www.openstreetmap.org/relation/11116951) | Minibus 210: Calle República de Nicaragua → El Paso | 210 | Calle República de Nicaragua | El Paso | ✅
+[11118440](https://www.openstreetmap.org/relation/11118440) | Minibus 210: El Paso → Calle República de Nicaragua | 210 | El Paso | Calle República de Nicaragua | ✅
 [4436907](https://www.openstreetmap.org/relation/4436907) | MiniBus 211: Calle C. Serruto → Parque Ecoturístico Pairumani | 211 | Calle C. Serruto | Parque Ecoturístico Pairumani | ✅
 [10411266](https://www.openstreetmap.org/relation/10411266) | MiniBus 211: Calle Achachairú → Avenida Blanco Galindo | 211 | Calle Achachairú | Avenida Blanco Galindo | ✅
 [10413052](https://www.openstreetmap.org/relation/10413052) | MiniBus 211: Avenida Blanco Galindo → Calle Achachairú | 211 | Avenida Blanco Galindo | Calle Achachairú | ✅
@@ -345,20 +345,20 @@
 [11118647](https://www.openstreetmap.org/relation/11118647) | Minibus 211: Combuyo → Calle Victor Paz Estenssoro | 211 | Combuyo | Calle Victor Paz Estenssoro | ✅
 [11118654](https://www.openstreetmap.org/relation/11118654) | Minibus 211: Calle Victor Paz Estenssoro → Avenida Santa Cruz | 211 | Calle Victor Paz Estenssoro | Avenida Santa Cruz | ✅
 [11118661](https://www.openstreetmap.org/relation/11118661) | Minibus 211: Avenida Santa Cruz → Calle Victor Paz Estenssoro | 211 | Avenida Santa Cruz | Calle Victor Paz Estenssoro | ✅
-[9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Calle Acre → Molino Blanco | 212 | Calle Acre | Molino Blanco | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9421021);out%20geom;%0Away(807967045);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[9421021](https://www.openstreetmap.org/relation/9421021) | Trufi 212: Calle Acre → Molino Blanco | 212 | Calle Acre | Molino Blanco | ✅
 [9421022](https://www.openstreetmap.org/relation/9421022) | Trufi 212: Molino Blanco → Calle Acre | 212 | Molino Blanco | Calle Acre | ✅
-[10411209](https://www.openstreetmap.org/relation/10411209) | MiniBus 212: Calle La Cascada → Río Wara Wara | 212 | Calle La Cascada | Río Wara Wara | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10411209);out%20geom;%0Away(807967046);out%20geom;out%20geom;%0Away(50848453);out%20geom;&R)
+[10411209](https://www.openstreetmap.org/relation/10411209) | MiniBus 212: Calle La Cascada → Río Wara Wara | 212 | Calle La Cascada | Río Wara Wara | ✅
 [10411245](https://www.openstreetmap.org/relation/10411245) | MiniBus 212: Río Wara Wara → Calle La Cascada | 212 | Río Wara Wara | Calle La Cascada | ✅
-[11132731](https://www.openstreetmap.org/relation/11132731) | Minibus 212: Calle La Cascada → Catachilla Baja | 212 | Calle La Cascada | Catachilla Baja | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11132731);out%20geom;%0Away(807967046);out%20geom;out%20geom;%0Away(50848453);out%20geom;&R)
-[11133890](https://www.openstreetmap.org/relation/11133890) | Minibus 212: Catachilla Baja → Calle La Cascada | 212 | Catachilla Baja | Calle La Cascada | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11133890);out%20geom;%0Away(807412695);out%20geom;out%20geom;%0Away(807412691);out%20geom;&R)
+[11132731](https://www.openstreetmap.org/relation/11132731) | Minibus 212: Calle La Cascada → Catachilla Baja | 212 | Calle La Cascada | Catachilla Baja | ✅
+[11133890](https://www.openstreetmap.org/relation/11133890) | Minibus 212: Catachilla Baja → Calle La Cascada | 212 | Catachilla Baja | Calle La Cascada | ✅
 [10721892](https://www.openstreetmap.org/relation/10721892) | MiniBus 217: Pacata Central → Calle 12 de septiembre | 217 | Pacata Central | Calle 12 de septiembre | ✅
 [10722066](https://www.openstreetmap.org/relation/10722066) | MiniBus 217: Calle 12 de septiembre → Pacata Central | 217 | Calle 12 de septiembre | Pacata Central | ✅
-[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Eliodoro Villazón → Calle Eric Asplund | 220 | Avenida Eliodoro Villazón | Calle Eric Asplund | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9458460);out%20geom;%0Away(224605904);out%20geom;out%20geom;%0Away(224605905);out%20geom;&R)
-[9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: Calle Eric Asplund → Avenida Eliodoro Villazón | 220 | Calle Eric Asplund | Avenida Eliodoro Villazón | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9458471);out%20geom;%0Away(224605904);out%20geom;out%20geom;%0Away(224605905);out%20geom;&R)
+[9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Eliodoro Villazón → Calle Eric Asplund | 220 | Avenida Eliodoro Villazón | Calle Eric Asplund | ✅
+[9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: Calle Eric Asplund → Avenida Eliodoro Villazón | 220 | Calle Eric Asplund | Avenida Eliodoro Villazón | ✅
 [9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230: Calle Grover Suarez → Avenida Eliodoro Villazón | 230 | Calle Grover Suarez | Avenida Eliodoro Villazón | ✅
 [9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230: Avenida Eliodoro Villazón → Calle Grover Suarez | 230 | Avenida Eliodoro Villazón | Calle Grover Suarez | ✅
-[9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Calle Isla del Sol → Avenida Eliodoro Villazón | 232 | Calle Isla del Sol | Avenida Eliodoro Villazón | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9377625);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
-[9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232: Avenida Eliodoro Villazón → Calle Isla del Sol | 232 | Avenida Eliodoro Villazón | Calle Isla del Sol | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9377626);out%20geom;%0Away(807967045);out%20geom;out%20geom;%0Away(807967048);out%20geom;&R)
+[9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Calle Isla del Sol → Avenida Eliodoro Villazón | 232 | Calle Isla del Sol | Avenida Eliodoro Villazón | ✅
+[9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232: Avenida Eliodoro Villazón → Calle Isla del Sol | 232 | Avenida Eliodoro Villazón | Calle Isla del Sol | ✅
 [9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Nicolás Maldonado → Calle Manuel P. Laredo | 233 | Calle Nicolás Maldonado | Calle Manuel P. Laredo | ✅
 [9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Nicolás Maldonado | 233 | Calle Manuel P. Laredo | Calle Nicolás Maldonado | ✅
 [11134008](https://www.openstreetmap.org/relation/11134008) | Minibus 233: Calle Manuel P. Laredo → Chiñata | 233 | Calle Manuel P. Laredo | Chiñata | ✅
@@ -371,7 +371,7 @@
 [11138764](https://www.openstreetmap.org/relation/11138764) | Minibus 233: Esmeralda → Calle Jose M. Carrasco | 233 | Esmeralda | Calle Manuel P. Laredo | ✅
 [11138791](https://www.openstreetmap.org/relation/11138791) | Minibus 233: Calle Manuel P. Laredo → Esmeralda | 233 | Calle Manuel P. Laredo | Esmeralda | ✅
 [9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Calle Trojes → Avenida Eliodoro Villazón | 240 | Calle Trojes | Avenida Eliodoro Villazón | ✅
-[9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Eliodoro Villazón → Calle Trojes | 240 | Avenida Eliodoro Villazón | Calle Trojes | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9377676);out%20geom;%0Away(388619958);out%20geom;out%20geom;%0Away(388619958);out%20geom;&R)
+[9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Eliodoro Villazón → Calle Trojes | 240 | Avenida Eliodoro Villazón | Calle Trojes | ✅
 [10722104](https://www.openstreetmap.org/relation/10722104) | MiniBus 241: Avenida Eliodoro Villazón → Avenida Pedro deToledo | 241 | Avenida Eliodoro Villazón | Avenida Pedro deToledo | ✅
 [10722148](https://www.openstreetmap.org/relation/10722148) | MiniBus 241: Avenida Pedro deToledo → Avenida Eliodoro Villazón | 241 | Avenida Pedro deToledo | Avenida Eliodoro Villazón | ✅
 [11140017](https://www.openstreetmap.org/relation/11140017) | Minibus 241: Avenida Pedro deToledo → Tutimayo | 241 | Avenida Pedro deToledo | Tutimayo | ✅
@@ -406,10 +406,10 @@
 [11124782](https://www.openstreetmap.org/relation/11124782) | Minibus 245: Pirque → Avenida Pairumani | 245 | Pirque | Avenida Pairumani | ✅
 [9377826](https://www.openstreetmap.org/relation/9377826) | MicroBus 250: Avenida Blanco Galindo → Avenida Mártires de la Democracia | 250 | Avenida Blanco Galindo | Avenida Mártires de la Democracia | ✅
 [9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Avenida Mártires de la Democracia → Avenida Blanco Galindo | 250 | Avenida Mártires de la Democracia | Avenida Blanco Galindo | ✅
-[11131266](https://www.openstreetmap.org/relation/11131266) | Minibus 250: Avenida Mártires de la Democracia → Encanto Pampa | 250 | Avenida Mártires de la Democracia | Encanto Pampa | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11131266);out%20geom;%0Away(450926126);out%20geom;out%20geom;%0Away(558863498);out%20geom;&R)
-[11131445](https://www.openstreetmap.org/relation/11131445) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11131445);out%20geom;%0Away(558863498);out%20geom;out%20geom;%0Away(450926126);out%20geom;&R)
-[11131446](https://www.openstreetmap.org/relation/11131446) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11131446);out%20geom;%0Away(558863498);out%20geom;out%20geom;%0Away(450926126);out%20geom;&R)
-[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(9380021);out%20geom;%0Away(775705375);out%20geom;out%20geom;%0Away(247560965);out%20geom;&R)
+[11131266](https://www.openstreetmap.org/relation/11131266) | Minibus 250: Avenida Mártires de la Democracia → Encanto Pampa | 250 | Avenida Mártires de la Democracia | Encanto Pampa | ✅
+[11131445](https://www.openstreetmap.org/relation/11131445) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | ✅
+[11131446](https://www.openstreetmap.org/relation/11131446) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11131446);out%20geom;%0Away(807277942);out%20geom;out%20geom;%0Away(44062142);out%20geom;&R)
+[9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | ✅
 [9380023](https://www.openstreetmap.org/relation/9380023) | Trufi 252: Avenida Blanco Galindo → Calle Litoral | 252 | Avenida Blanco Galindo | Calle Litoral | ✅
 [4205962](https://www.openstreetmap.org/relation/4205962) | MiniBus 260: Avenida Blanco Galindo → Calle Litoral | 260 | Avenida Blanco Galindo | Calle Litoral | ✅
 [4237142](https://www.openstreetmap.org/relation/4237142) | MiniBus 260: Calle Litoral → Avenida Blanco Galindo | 260 | Calle Litoral | Avenida Blanco Galindo | ✅
@@ -427,7 +427,7 @@
 [11129182](https://www.openstreetmap.org/relation/11129182) | Minibus 260: Parotani → Avenida Pairumani | 260 | Parotani | Avenida Pairumani | ✅
 [11129238](https://www.openstreetmap.org/relation/11129238) | Minibus 265: Avenida Santa Cruz → Avenida Republica | 260 | Avenida Santa Cruz | Calle Moxos | ✅
 [11130922](https://www.openstreetmap.org/relation/11130922) | Minibus 265: Litoral → Avenida Republica | 260 | Litoral | Calle Moxos | ✅
-[10742276](https://www.openstreetmap.org/relation/10742276) | MiniBus 261: Calle Camiri → Avenida Blanco Galindo | 261 | Calle Camiri | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10742276);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[10742276](https://www.openstreetmap.org/relation/10742276) | MiniBus 261: Calle Camiri → Avenida Blanco Galindo | 261 | Calle Camiri | Avenida Blanco Galindo | ✅
 [10742335](https://www.openstreetmap.org/relation/10742335) | MiniBus 261: Avenida Blanco Galindo → Calle Camiri | 261 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10724599](https://www.openstreetmap.org/relation/10724599) | MiniBus 265: Avenida Blanco Galindo → Calle Camiri | 265 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10742265](https://www.openstreetmap.org/relation/10742265) | MiniBus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10742265);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)

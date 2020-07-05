@@ -1,5 +1,5 @@
 ### Count
-**Total**: 437  **Correct**: 430  **With error**: 7
+**Total**: 437  **Correct**: 433  **With error**: 4
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
@@ -430,9 +430,9 @@
 [10742276](https://www.openstreetmap.org/relation/10742276) | MiniBus 261: Calle Camiri → Avenida Blanco Galindo | 261 | Calle Camiri | Avenida Blanco Galindo | ✅
 [10742335](https://www.openstreetmap.org/relation/10742335) | MiniBus 261: Avenida Blanco Galindo → Calle Camiri | 261 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10724599](https://www.openstreetmap.org/relation/10724599) | MiniBus 265: Avenida Blanco Galindo → Calle Camiri | 265 | Avenida Blanco Galindo | Calle Camiri | ✅
-[10742265](https://www.openstreetmap.org/relation/10742265) | MiniBus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(10742265);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
-[11129203](https://www.openstreetmap.org/relation/11129203) | Minibus 265: Calle Moxos → Avenida Santa Cruz | 265 | Calle Moxos | Avenida Santa Cruz | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11129203);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
-[11130832](https://www.openstreetmap.org/relation/11130832) | Minibus 265: Calle Moxos → Litoral | 265 | Calle Moxos | Litoral | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11130832);out%20geom;%0Away(315707949);out%20geom;out%20geom;%0Away(807967044);out%20geom;&R)
+[10742265](https://www.openstreetmap.org/relation/10742265) | MiniBus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | ✅
+[11129203](https://www.openstreetmap.org/relation/11129203) | Minibus 265: Calle Moxos → Avenida Santa Cruz | 265 | Calle Moxos | Avenida Santa Cruz | ✅
+[11130832](https://www.openstreetmap.org/relation/11130832) | Minibus 265: Calle Moxos → Litoral | 265 | Calle Moxos | Litoral | ✅
 [4204592](https://www.openstreetmap.org/relation/4204592) | MiniBus 270: Avenida Blanco Galindo → Calle Jose Martinez | 270 | Avenida Blanco Galindo | Calle Jose Martinez | ✅
 [4223772](https://www.openstreetmap.org/relation/4223772) | MiniBus 270: Calle Jose Martinez → Avenida Blanco Galindo | 270 | Calle Jose Martinez | Avenida Blanco Galindo | ✅
 [4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Avenida Blanco Galindo → Chilimarca | 290 | Avenida Blanco Galindo | Chillimarca | ✅

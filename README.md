@@ -1,12 +1,12 @@
 ### Count
-**Total**: 437  **Correct**: 433  **With error**: 4
+**Total**: 437  **Correct**: 435  **With error**: 2
 
 ### Bolivia-Cochabamba
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
 [4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Avenida Panamericana → Río Taquiña | A | Avenida Panamericana | Río Taquiña | ✅
 [4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Río Taquiña → Avenida Panamericana | A | Río Taquiña | Avenida Panamericana | ✅
-[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Aeropuerto → Pasaje F | B | Calle Las Buganvillas | Pasaje F | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(4247869);out%20geom;%0Away(808619779);out%20geom;out%20geom;%0Away(808619779);out%20geom;&R)
+[4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Aeropuerto → Pasaje F | B | Calle Las Buganvillas | Pasaje F | ✅
 [4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Pasaje F → Aeropuerto → Calle Las Buganvillas | B | Pasaje F | Calle Las Buganvillas | ✅
 [4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Avenida Pedro de la Gasca → Calle Manuel Carrasco Jimenez | C | Avenida Pedro de la Gasca | Calle Manuel Carrasco Jimenez | ✅
 [4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Calle Manuel Carrasco Jimenez → Avenida Pedro de la Gasca | C | Calle Manuel Carrasco Jimenez | Avenida Pedro de la Gasca | ✅
@@ -408,7 +408,7 @@
 [9377827](https://www.openstreetmap.org/relation/9377827) | MicroBus 250: Avenida Mártires de la Democracia → Avenida Blanco Galindo | 250 | Avenida Mártires de la Democracia | Avenida Blanco Galindo | ✅
 [11131266](https://www.openstreetmap.org/relation/11131266) | Minibus 250: Avenida Mártires de la Democracia → Encanto Pampa | 250 | Avenida Mártires de la Democracia | Encanto Pampa | ✅
 [11131445](https://www.openstreetmap.org/relation/11131445) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | ✅
-[11131446](https://www.openstreetmap.org/relation/11131446) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | [streets not sequential](https://overpass-turbo.eu/?Q=//streets%20not%20sequential%0Arel(11131446);out%20geom;%0Away(807277942);out%20geom;out%20geom;%0Away(44062142);out%20geom;&R)
+[11131446](https://www.openstreetmap.org/relation/11131446) | Minibus 250: Encanto Pampa → Avenida Mártires de la Democracia | 250 | Encanto Pampa | Avenida Mártires de la Democracia | ✅
 [9380021](https://www.openstreetmap.org/relation/9380021) | Trufi 252: Calle Litoral → Avenida Blanco Galindo | 252 | Calle Litoral | Avenida Blanco Galindo | ✅
 [9380023](https://www.openstreetmap.org/relation/9380023) | Trufi 252: Avenida Blanco Galindo → Calle Litoral | 252 | Avenida Blanco Galindo | Calle Litoral | ✅
 [4205962](https://www.openstreetmap.org/relation/4205962) | MiniBus 260: Avenida Blanco Galindo → Calle Litoral | 260 | Avenida Blanco Galindo | Calle Litoral | ✅

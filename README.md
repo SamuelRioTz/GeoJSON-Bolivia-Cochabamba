@@ -56,10 +56,10 @@
 [10712279](https://www.openstreetmap.org/relation/10712279) | MicroBus U: Avenida Circuncalación II Doctor Martín Cárdenas Hermosa → Calle Manuel Virreira | U | Avenida Circuncalación II Doctor Martín Cárdenas Hermosa | Calle Manuel Virreira | ✅
 [9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus V: Río Taquiña → Calle Tómas Gamboa | V | Río Taquiña | Calle Tómas Gamboa | ✅
 [9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus V: Calle Tómas Gamboa → Río Taquiña | V | Calle Tómas Gamboa | Río Taquiña | ✅
-[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Barrio Universitario Bajo → Plaza Bolívar | W | Barrio Universitario Bajo | Plaza Bolívar | ✅
-[5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Plaza Bolívar → Barrio Universitario Bajo | W | Plaza Bolívar | Barrio Universitario Bajo | ✅
-[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Avenida Blanco Galindo → Calle Poopó | W | Avenida Blanco Galindo | Calle Poopó | ✅
-[10705506](https://www.openstreetmap.org/relation/10705506) | MicroBus W: Calle Poopó → Avenida Blanco Galindo | W | Calle Poopó | Avenida Blanco Galindo | ✅
+[5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Huachi Rancho → Calle Poopó | W | Huachi Rancho | Calle Poopó | ✅
+[5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Huachi Rancho → Calle Poopó | W | Huachi Rancho | Calle Poopó | ✅
+[9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Irincollo → Calle Poopó | W | Irincollo | Calle Poopó | ✅
+[10705506](https://www.openstreetmap.org/relation/10705506) | MicroBus W: Calle Poopó → Irincollo | W | Calle Poopó | Irincollo | ✅
 [11106937](https://www.openstreetmap.org/relation/11106937) | Microbus W : Calle Poopó → Villa Marquina | W | Calle Poopó | Villa Marquina | ✅
 [11106983](https://www.openstreetmap.org/relation/11106983) | Microbus W : Villa Marquina → Calle Poopó | W | Villa Marquina | Calle Poopó | ✅
 [10667060](https://www.openstreetmap.org/relation/10667060) | MicroBus X: Loma Pampa → Avenida Sexta | X | Loma Pampa | Avenida Sexta | ✅

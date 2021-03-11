@@ -2,10 +2,10 @@ const osmToGeojson = require('osm-public-transport-export')
 const fs = require('fs')
 osmToGeojson({
     bounds: {
-        south: -17.57727,
-        west: -66.376555,
-        north: -17.276198,
-        east: -65.96397,
+        south: 17.958761,
+        west: -16.025151,
+        north: 18.192123,
+        east: -15.874505,
     },
     outputDir: __dirname + '/out',
     mapProperties: (tags) => ({
@@ -18,7 +18,7 @@ osmToGeojson({
 })
     .then(data => {
         let route_with_error = 0
-        let out_file = `### Bolivia-Cochabamba
+        let out_file = `### Mauritania-Nouakchott
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |`
         data.log.forEach(element => {

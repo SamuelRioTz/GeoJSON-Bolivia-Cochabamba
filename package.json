@@ -4,7 +4,9 @@
   "description": "GoeJSON from cochabamba",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/readme.builder.js",
+    "geojson": "node ./src/osmToGeojson.js",
+    "gtfs": "node ./src/geojsonToGtfs.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,8 @@
   },
   "homepage": "https://github.com/SamuelRioTz/GeoJSON-Bolivia-Cochabamba#readme",
   "dependencies": {
+    "geojson-to-gtfs": "^0.3.0",
+    "csv-load-sync": "^1.0.0",
     "osm-public-transport-export": "git://github.com/trufi-association/osm-public-transport-export.git"
   }
 }
